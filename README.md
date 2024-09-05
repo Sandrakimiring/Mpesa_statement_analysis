@@ -38,6 +38,7 @@ The dataset was sourced directly from Safaricom by dialing *334# and was initial
 
 - **Power BI**:
   - Utilized Power BI for in-depth analysis and visualization, creating dashboards that provide a clear view of spending patterns, income sources, and balance trends.
+  - To create an interactive dashboard<img width="768" alt="image" src="https://github.com/user-attachments/assets/12e36bea-41e8-4da7-851e-3af918a9bc0f">
 
 ## Data Cleaning
 
