@@ -1,0 +1,2854 @@
+date,category,income,expenses,balance,transaction_type
+2024-07-10,transaction cost,,-7.0,403.17,Transaction Cost
+2024-07-08,supermarket expenses,,-285.0,390.17,Merchant Purchase
+2024-07-08,food,,-60.0,675.17,Paybill / Utility Payment
+2024-07-08,supermarket expenses,,-60.0,465.17,Merchant Purchase
+2024-07-07,transaction cost,,-7.0,580.17,Transaction Cost
+2024-07-07,airtime,,-20.0,718.17,Airtime / Data
+2024-07-07,airtime,,-50.0,738.17,Airtime / Data
+2024-07-06,other expenses,,-5.0,799.17,Transaction Cost
+2024-07-06,personal expenditures,,-110.0,804.17,Paybill / Utility Payment
+2024-07-06,airtime,,-10.0,154.17,Paybill / Utility Payment
+2024-07-06,airtime,,-30.0,164.17,Unclassified
+2024-07-05,friends,,-50.0,194.17,Peer Transfer
+2024-07-05,transport,,-30.0,244.17,Peer Transfer
+2024-07-05,airtime,,-50.0,274.17,Airtime / Data
+2024-07-05,family,320.0,,324.17,Other
+2024-07-05,friends,,-50.0,4.17,Peer Transfer
+2024-07-04,transport,,-50.0,24.17,Peer Transfer
+2024-07-04,transport,,-70.0,74.17,Peer Transfer
+2024-07-04,family,110.0,,144.17,Other
+2024-07-04,transport,,-70.0,34.17,Unclassified
+2024-07-04,savings withdrawal,100.0,,104.17,Other
+2024-07-03,transport,,-50.0,4.17,Unclassified
+2024-07-03,savings withdrawal,50.0,,54.17,Other
+2024-07-03,food,,-50.0,4.17,Unclassified
+2024-07-03,transport,,-30.0,54.17,Paybill / Utility Payment
+2024-07-03,food,,-120.0,84.17,Merchant Purchase
+2024-07-03,personal expenditures,,-160.0,204.17,Merchant Purchase
+2024-07-03,family,200.0,,364.17,Other
+2024-07-03,airtime,,-10.0,164.17,Transaction Cost
+2024-07-03,personal expenditures,,-750.0,174.17,Paybill / Utility Payment
+2024-07-03,savings withdrawal,500.0,,924.17,Other
+2024-07-03,personal expenditures,,-100.0,424.17,Paybill / Utility Payment
+2024-07-03,personal expenditures,,-150.0,524.17,Merchant Purchase
+2024-07-03,other expenses,,-100.0,674.17,Paybill / Utility Payment
+2024-07-03,other expenses,,-50.0,774.17,Paybill / Utility Payment
+2024-07-03,transaction cost,,-7.0,824.17,Transaction Cost
+2024-07-03,other expenses,,-200.0,831.17,Peer Transfer
+2024-07-03,other expenses,,-50.0,1031.17,Small Business Payment
+2024-07-03,transport,,-50.0,946.17,Peer Transfer
+2024-07-02,airtime,,-20.0,996.17,Paybill / Utility Payment
+2024-07-02,other expenses,,-20.0,1016.17,Paybill / Utility Payment
+2024-07-01,food,,-50.0,1036.17,Merchant Purchase
+2024-07-01,airtime,,-20.0,1086.17,Paybill / Utility Payment
+2024-07-01,food,,-55.0,1106.17,Peer Transfer
+2024-07-01,airtime,,-10.0,1161.17,Paybill / Utility Payment
+2024-07-01,family,1100.0,,1171.17,Other
+2024-06-30,supermarket expenses,,-35.0,71.17,Merchant Purchase
+2024-06-29,airtime,,-10.0,106.17,Paybill / Utility Payment
+2024-06-29,transaction cost,,-7.0,116.17,Transaction Cost
+2024-06-29,food,,-130.0,123.17,Peer Transfer
+2024-06-29,transaction cost,,-7.0,253.17,Transaction Cost
+2024-06-29,friends,,-200.0,260.17,Peer Transfer
+2024-06-29,savings withdrawal,300.0,,460.17,Other
+2024-06-29,airtime,,-10.0,160.17,Other
+2024-06-29,friends,,-50.0,170.17,Peer Transfer
+2024-06-29,transaction cost,,-7.0,220.17,Transaction Cost
+2024-06-29,friends,,-400.0,227.17,Peer Transfer
+2024-06-29,family,500.0,,627.17,Other
+2024-06-29,transaction cost,,-7.0,127.17,Transaction Cost
+2024-06-29,personal expenditures,,-400.0,134.17,Peer Transfer
+2024-06-29,savings withdrawal,100.0,,534.17,Other
+2024-06-29,transport,,-100.0,434.17,Peer Transfer
+2024-06-29,airtime,,-20.0,534.17,Unclassified
+2024-06-29,savings withdrawal,500.0,,554.17,Other
+2024-06-29,airtime,,-10.0,54.17,Paybill / Utility Payment
+2024-06-29,transaction cost,,-7.0,64.17,Transaction Cost
+2024-06-29,friends,,-229.0,71.17,Peer Transfer
+2024-06-29,savings withdrawal,200.0,,300.17,Other
+2024-06-29,airtime,,-10.0,100.17,Airtime / Data
+2024-06-28,airtime,,-10.0,110.17,Other
+2024-06-28,friends,,-70.0,120.17,Peer Transfer
+2024-06-28,transaction cost,,-7.0,190.17,Transaction Cost
+2024-06-28,friends,,-480.0,197.17,Peer Transfer
+2024-06-28,airtime,,-25.0,677.17,Paybill / Utility Payment
+2024-06-28,transport,,-30.0,702.17,Peer Transfer
+2024-06-28,airtime,,-20.0,732.17,Unclassified
+2024-06-28,transport,,-50.0,752.17,Peer Transfer
+2024-06-28,airtime,,-10.0,802.17,Paybill / Utility Payment
+2024-06-28,airtime,,-10.0,812.17,Paybill / Utility Payment
+2024-06-28,transaction cost,,-7.0,822.17,Transaction Cost
+2024-06-28,sent to friends,,-200.0,829.17,Peer Transfer
+2024-06-28,supermarket expenses,,-10.0,1029.17,Merchant Purchase
+2024-06-27,transport,,-50.0,1039.17,Peer Transfer
+2024-06-27,family,100.0,,1089.17,Other
+2024-06-27,airtime,,-25.0,989.17,Unclassified
+2024-06-27,electricity,,-25.0,1014.17,Paybill / Utility Payment
+2024-06-27,other expenses,,-20.0,1039.17,Paybill / Utility Payment
+2024-06-27,supermarket expenses,,-523.0,1059.17,Merchant Purchase
+2024-06-27,family,600.0,,1582.17,Other
+2024-06-27,transport,,-50.0,982.17,Peer Transfer
+2024-06-26,supermarket expenses,,-100.0,1032.17,Merchant Purchase
+2024-06-26,airtime,,-10.0,1132.17,Paybill / Utility Payment
+2024-06-26,airtime,,-10.0,1142.17,Paybill / Utility Payment
+2024-06-26,transport,,-50.0,1152.17,Peer Transfer
+2024-06-26,supermarket expenses,,-295.0,1202.17,Merchant Purchase
+2024-06-26,family,310.0,,1497.17,Other
+2024-06-26,transaction cost,,-29.0,1187.17,Other
+2024-06-26,other expenses,,-2000.0,1216.17,Agent Cash Withdrawal
+2024-06-26,other expenses,,-300.0,3216.17,Merchant Purchase
+2024-06-26,airtime,,-20.0,3516.17,Airtime / Data
+2024-06-26,transport,,-50.0,3536.17,Peer Transfer
+2024-06-26,family,150.0,,3586.17,Other
+2024-06-26,airtime,,-20.0,3436.17,Unclassified
+2024-06-25,airtime,,-10.0,3456.17,Airtime / Data
+2024-06-25,airtime,,-20.0,3466.17,Airtime / Data
+2024-06-25,airtime,,-30.0,3486.17,Paybill / Utility Payment
+2024-06-25,transport,,-50.0,3516.17,Peer Transfer
+2024-06-25,other expenses,,-50.0,3566.17,Small Business Payment
+2024-06-25,family,1500.0,,3616.17,Other
+2024-06-25,food,,-80.0,2116.17,Peer Transfer
+2024-06-25,airtime,,-20.0,2196.17,Paybill / Utility Payment
+2024-06-25,other expenses,,-30.0,2216.17,Peer Transfer
+2024-06-25,food,,-30.0,2246.17,Small Business Payment
+2024-06-25,savings deposit,,-1500.0,2276.17,Other
+2024-06-25,transport,,-50.0,3776.17,Peer Transfer
+2024-06-25,family,350.0,,3826.17,Other
+2024-06-25,family,1000.0,,3476.17,Other
+2024-06-24,family,100.0,,2476.17,Other
+2024-06-24,family,2400.0,,2406.17,Other
+2024-06-23,airtime,,-10.0,6.17,Airtime / Data
+2024-06-23,food,,-30.0,16.17,Paybill / Utility Payment
+2024-06-23,transaction cost,,-3.0,46.17,Transaction Cost
+2024-06-23,airtime,,-100.0,49.17,Paybill / Utility Payment
+2024-06-22,transaction cost,,-3.0,149.17,Transaction Cost
+2024-06-22,airtime,,-100.0,152.17,Paybill / Utility Payment
+2024-06-22,airtime,,-20.0,252.17,Unclassified
+2024-06-21,airtime,,-20.0,292.17,Unclassified
+2024-06-21,airtime,,-5.0,312.17,Airtime / Data
+2024-06-21,transport,,-40.0,317.17,Peer Transfer
+2024-06-21,airtime,,-10.0,357.17,Unclassified
+2024-06-21,airtime,,-10.0,367.17,Airtime / Data
+2024-06-21,transport,,-40.0,377.17,Peer Transfer
+2024-06-21,airtime,,-10.0,417.17,Airtime / Data
+2024-06-21,transaction cost,,-7.0,427.17,Transaction Cost
+2024-06-21,food,,-200.0,434.17,Peer Transfer
+2024-06-21,family,220.0,,634.17,Other
+2024-06-21,airtime,,-5.0,414.17,Airtime / Data
+2024-06-20,supermarket expenses,,-160.0,419.17,Merchant Purchase
+2024-06-20,transaction cost,,-7.0,579.17,Transaction Cost
+2024-06-20,other expenses,,-220.0,586.17,Peer Transfer
+2024-06-20,transaction cost,,-7.0,806.17,Transaction Cost
+2024-06-20,food,,-210.0,813.17,Peer Transfer
+2024-06-20,airtime,,-30.0,23.17,Unclassified
+2024-06-20,airtime,,-10.0,53.17,Airtime / Data
+2024-06-20,transport,,-50.0,63.17,Peer Transfer
+2024-06-20,airtime,,-5.0,113.17,Airtime / Data
+2024-06-19,transport,,-30.0,143.17,Peer Transfer
+2024-06-19,transport,,-30.0,173.17,Peer Transfer
+2024-06-19,transport,,-50.0,203.17,Peer Transfer
+2024-06-19,supermarket expenses,,-55.0,253.17,Merchant Purchase
+2024-06-19,family,300.0,,308.17,Other
+2024-06-18,supermarket expenses,,-25.0,8.17,Merchant Purchase
+2024-06-18,food,,-30.0,33.17,Small Business Payment
+2024-06-18,airtime,,-5.0,63.17,Unclassified
+2024-06-18,transaction cost,,-7.0,68.17,Transaction Cost
+2024-06-18,transport,,-200.0,75.17,Peer Transfer
+2024-06-18,family,200.0,,275.17,Other
+2024-06-18,supermarket expenses,,-75.0,75.17,Merchant Purchase
+2024-06-18,transport,,-50.0,150.17,Peer Transfer
+2024-06-18,airtime,,-20.0,200.17,Unclassified
+2024-06-18,airtime,,-10.0,220.17,Airtime / Data
+2024-06-18,transport,,-50.0,230.17,Merchant Purchase
+2024-06-18,food,,-20.0,280.17,Merchant Purchase
+2024-06-18,family,300.0,,300.17,Other
+2024-06-18,transport,,-50.0,0.17,Small Business Payment
+2024-06-18,savings withdrawal,20.0,,50.17,Other
+2024-06-18,airtime,,-20.0,30.17,Unclassified
+2024-06-18,transport,,-50.0,50.17,Peer Transfer
+2024-06-18,savings withdrawal,100.0,,100.17,Other
+2024-06-18,supermarket expenses,,-60.0,0.17,Merchant Purchase
+2024-06-18,savings withdrawal,60.0,,60.17,Other
+2024-06-17,electricity,,-25.0,0.17,Paybill / Utility Payment
+2024-06-17,savings withdrawal,25.0,,25.17,Other
+2024-06-17,transport,,-40.0,0.17,Peer Transfer
+2024-06-17,food,,-50.0,40.17,Merchant Purchase
+2024-06-17,transport,,-50.0,90.17,Peer Transfer
+2024-06-17,airtime,,-10.0,140.17,Airtime / Data
+2024-06-17,savings withdrawal,100.0,,150.17,Other
+2024-06-16,airtime,,-20.0,50.17,Paybill / Utility Payment
+2024-06-16,church,,-30.0,70.17,Paybill / Utility Payment
+2024-06-16,airtime,,-10.0,100.17,Unclassified
+2024-06-15,food,,-50.0,120.17,Paybill / Utility Payment
+2024-06-15,supermarket expenses,,-626.0,170.17,Merchant Purchase
+2024-06-15,family,630.0,,796.17,Other
+2024-06-15,transport,,-30.0,166.17,Peer Transfer
+2024-06-15,other expenses,,-30.0,196.17,Peer Transfer
+2024-06-15,airtime,,-30.0,226.17,Airtime / Data
+2024-06-15,transport,,-70.0,256.17,Peer Transfer
+2024-06-15,family,210.0,,326.17,Other
+2024-06-14,food,,-650.0,116.17,Merchant Purchase
+2024-06-14,transport,,-40.0,766.17,Unclassified
+2024-06-14,transaction cost,,-7.0,806.17,Transaction Cost
+2024-06-14,personal expenditures,,-140.0,813.17,Small Business Payment
+2024-06-14,food,800.0,,953.17,Other
+2024-06-14,friends,30.0,,153.17,Other
+2024-06-14,transaction cost,,-7.0,123.17,Transaction Cost
+2024-06-14,friends,,-130.0,130.17,Peer Transfer
+2024-06-14,friends,30.0,,260.17,Other
+2024-06-14,savings withdrawal,100.0,,230.17,Other
+2024-06-14,food,,-80.0,130.17,Small Business Payment
+2024-06-14,savings withdrawal,200.0,,210.17,Other
+2024-06-14,transaction cost,,-7.0,10.17,Transaction Cost
+2024-06-14,sent to family,,-400.0,17.17,Peer Transfer
+2024-06-14,transaction cost,,-7.0,417.17,Transaction Cost
+2024-06-14,food,,-120.0,424.17,Small Business Payment
+2024-06-14,airtime,,-10.0,544.17,Paybill / Utility Payment
+2024-06-14,supermarket expenses,,-15.0,554.17,Merchant Purchase
+2024-06-14,food,,-60.0,569.17,Peer Transfer
+2024-06-14,food,,-20.0,629.17,Peer Transfer
+2024-06-14,health,,-50.0,649.17,Small Business Payment
+2024-06-14,cash deposit,600.0,,699.17,Other
+2024-06-14,airtime,,-10.0,99.17,Paybill / Utility Payment
+2024-06-14,savings withdrawal,100.0,,109.17,Other
+2024-06-13,airtime,,-10.0,9.17,Paybill / Utility Payment
+2024-06-13,electricity,,-25.0,19.17,Paybill / Utility Payment
+2024-06-13,savings withdrawal,25.0,,44.17,Other
+2024-06-13,supermarket expenses,,-70.0,19.17,Merchant Purchase
+2024-06-13,savings withdrawal,70.0,,89.17,Other
+2024-06-12,supermarket expenses,,-80.0,19.17,Merchant Purchase
+2024-06-12,transaction cost,,-7.0,99.17,Transaction Cost
+2024-06-12,sent to friends,,-200.0,106.17,Peer Transfer
+2024-06-12,friends,150.0,,306.17,Other
+2024-06-12,transaction cost,,-7.0,156.17,Transaction Cost
+2024-06-12,friends,,-160.0,163.17,Peer Transfer
+2024-06-12,transport,,-50.0,323.17,Peer Transfer
+2024-06-12,airtime,,-20.0,373.17,Unclassified
+2024-06-12,transport,,-50.0,393.17,Peer Transfer
+2024-06-12,family,350.0,,443.17,Other
+2024-06-11,transaction cost,,-7.0,93.17,Transaction Cost
+2024-06-11,airtime,,-10.0,250.17,Unclassified
+2024-06-11,airtime,,-10.0,260.17,Paybill / Utility Payment
+2024-06-11,airtime,,-10.0,295.17,Airtime / Data
+2024-06-11,airtime,,-20.0,305.17,Unclassified
+2024-06-11,family,320.0,,325.17,Other
+2024-06-11,food,,-50.0,5.17,Merchant Purchase
+2024-06-11,airtime,,-20.0,55.17,Unclassified
+2024-06-10,airtime,,-20.0,75.17,Unclassified
+2024-06-10,savings deposit,,-150.0,95.17,Other
+2024-06-10,supermarket expenses,,-70.0,245.17,Merchant Purchase
+2024-06-10,family,300.0,,315.17,Other
+2024-06-10,airtime,,-25.0,15.17,Paybill / Utility Payment
+2024-06-08,food,,-100.0,40.17,Peer Transfer
+2024-06-08,savings withdrawal,100.0,,140.17,Unclassified
+2024-06-08,airtime,,-30.0,40.17,Unclassified
+2024-06-08,transport,,-70.0,70.17,Peer Transfer
+2024-06-08,savings withdrawal,100.0,,140.17,Unclassified
+2024-06-08,transport,,-40.0,40.17,Paybill / Utility Payment
+2024-06-07,airtime,,-15.0,30.17,Paybill / Utility Payment
+2024-06-07,food,,-50.0,45.17,Peer Transfer
+2024-06-07,transaction cost,,-11.0,165.17,Other
+2024-06-07,food,,-60.0,176.17,Agent Cash Withdrawal
+2024-06-07,friends,,-100.0,236.17,Peer Transfer
+2024-06-07,savings withdrawal,300.0,,336.17,Other
+2024-06-07,transaction cost,,-7.0,36.17,Transaction Cost
+2024-06-07,other expenses,,-150.0,43.17,Peer Transfer
+2024-06-07,airtime,,-5.0,193.17,Airtime / Data
+2024-06-07,airtime,,-20.0,198.17,Airtime / Data
+2024-06-07,food,,-50.0,218.17,Small Business Payment
+2024-06-07,food,,-50.0,268.17,Small Business Payment
+2024-06-07,airtime,,-20.0,118.17,Airtime / Data
+2024-06-06,savings deposit,,-1000.0,138.17,Other
+2024-06-05,food,,-40.0,1138.17,Paybill / Utility Payment
+2024-06-05,airtime,,-5.0,1183.17,Airtime / Data
+2024-06-05,electricity,,-25.0,1188.17,Paybill / Utility Payment
+2024-06-05,supermarket expenses,,-75.0,1213.17,Merchant Purchase
+2024-06-05,food,,-30.0,1288.17,Paybill / Utility Payment
+2024-06-05,transport,,-30.0,1318.17,Small Business Payment
+2024-06-05,airtime,,-10.0,1348.17,Paybill / Utility Payment
+2024-06-05,airtime,,-20.0,1358.17,Airtime / Data
+2024-06-05,family,250.0,,1378.17,Other
+2024-06-04,airtime,,-10.0,1288.17,Paybill / Utility Payment
+2024-06-04,cash deposit,1000.0,,1298.17,Other
+2024-06-03,transport,,-50.0,298.17,Peer Transfer
+2024-06-03,airtime,,-20.0,348.17,Unclassified
+2024-06-03,transport,,-50.0,368.17,Peer Transfer
+2024-06-03,airtime,,-20.0,418.17,Paybill / Utility Payment
+2024-06-02,supermarket expenses,,-70.0,438.17,Merchant Purchase
+2024-06-02,church,,-50.0,508.17,Paybill / Utility Payment
+2024-06-02,airtime,,-10.0,558.17,Unclassified
+2024-06-01,supermarket expenses,,-60.0,568.17,Merchant Purchase
+2024-06-01,electricity,,-50.0,628.17,Paybill / Utility Payment
+2024-05-31,philanthropy,,-30.0,678.17,Merchant Purchase
+2024-05-31,transport,,-50.0,708.17,Peer Transfer
+2024-05-31,airtime,,-5.0,758.17,Airtime / Data
+2024-05-31,airtime,,-20.0,763.17,Unclassified
+2024-05-31,sent to friends,,-50.0,783.17,Peer Transfer
+2024-05-31,airtime,,-10.0,833.17,Paybill / Utility Payment
+2024-05-31,transaction cost,,-7.0,843.17,Transaction Cost
+2024-05-31,personal expenditures,,-310.0,850.17,Peer Transfer
+2024-05-31,airtime,,-20.0,1160.17,Unclassified
+2024-05-31,friends,1000.0,,1180.17,Other
+2024-05-30,airtime,,-5.0,180.17,Airtime / Data
+2024-05-30,supermarket expenses,,-135.0,185.17,Merchant Purchase
+2024-05-30,electricity,,-25.0,320.17,Paybill / Utility Payment
+2024-05-30,food,,-40.0,345.17,Small Business Payment
+2024-05-30,airtime,,-10.0,385.17,Unclassified
+2024-05-30,transaction cost,,-7.0,395.17,Transaction Cost
+2024-05-30,food,,-260.0,402.17,Peer Transfer
+2024-05-30,friends,140.0,,662.17,Other
+2024-05-30,friends,50.0,,522.17,Other
+2024-05-30,food,,-60.0,472.17,Peer Transfer
+2024-05-30,transport,,-30.0,532.17,Small Business Payment
+2024-05-30,family,350.0,,562.17,Other
+2024-05-30,food,,-30.0,212.17,Small Business Payment
+2024-05-30,transport,,-50.0,242.17,Peer Transfer
+2024-05-30,airtime,,-20.0,292.17,Unclassified
+2024-05-29,airtime,,-10.0,312.17,Unclassified
+2024-05-28,spotify,,-154.22,322.17,Other
+2024-05-28,airtime,,-10.0,476.39,Paybill / Utility Payment
+2024-05-28,food,,-20.0,486.39,Paybill / Utility Payment
+2024-05-28,transaction cost,,-7.0,506.39,Transaction Cost
+2024-05-28,food,,-140.0,513.39,Peer Transfer
+2024-05-28,airtime,,-10.0,653.39,Unclassified
+2024-05-28,family,500.0,,663.39,Other
+2024-05-28,airtime,,-10.0,163.39,Unclassified
+2024-05-28,airtime,,-20.0,173.39,Unclassified
+2024-05-28,supermarket expenses,,-32.0,193.39,Merchant Purchase
+2024-05-28,sent to friends,,-100.0,225.39,Peer Transfer
+2024-05-27,transport,,-50.0,325.39,Peer Transfer
+2024-05-27,airtime,,-5.0,375.39,Airtime / Data
+2024-05-27,food,,-30.0,380.39,Small Business Payment
+2024-05-27,airtime,,-20.0,450.39,Paybill / Utility Payment
+2024-05-27,food,,-20.0,470.39,Peer Transfer
+2024-05-27,food,,-15.0,490.39,Peer Transfer
+2024-05-27,food,,-80.0,505.39,Peer Transfer
+2024-05-27,food,,-50.0,585.39,Peer Transfer
+2024-05-27,savings deposit,,-300.0,635.39,Other
+2024-05-27,airtime,,-20.0,935.39,Unclassified
+2024-05-27,family,350.0,,955.39,Other
+2024-05-27,family,500.0,,605.39,Other
+2024-05-26,supermarket expenses,,-55.0,105.39,Merchant Purchase
+2024-05-26,savings withdrawal,70.0,,80.39,Other
+2024-05-26,savings withdrawal,80.0,,160.39,Other
+2024-05-24,family,,-25.0,81.39,Other
+2024-05-23,airtime,,-10.0,31.39,Paybill / Utility Payment
+2024-05-23,airtime,,-10.0,41.39,Paybill / Utility Payment
+2024-05-22,electricity,,-25.0,51.39,Paybill / Utility Payment
+2024-05-21,airtime,,-10.0,76.39,Paybill / Utility Payment
+2024-05-21,supermarket expenses,,-185.0,86.39,Merchant Purchase
+2024-05-21,savings withdrawal,250.0,,271.39,Other
+2024-05-21,airtime,,-20.0,21.39,Paybill / Utility Payment
+2024-05-21,food,,-70.0,41.39,Small Business Payment
+2024-05-21,other expenses,,-60.0,111.39,Peer Transfer
+2024-05-21,transport,,-50.0,171.39,Peer Transfer
+2024-05-21,spotify,,-49.0,221.39,Paybill / Utility Payment
+2024-05-20,airtime,,-15.0,270.39,Paybill / Utility Payment
+2024-05-20,friends,,-100.0,285.39,Peer Transfer
+2024-05-20,health,,-90.0,385.39,Merchant Purchase
+2024-05-20,transport,,-50.0,475.39,Peer Transfer
+2024-05-20,friends,500.0,,525.39,Other
+2024-05-20,transport,,-50.0,25.39,Peer Transfer
+2024-05-20,savings withdrawal,50.0,,75.39,Other
+2024-05-20,airtime,,-5.0,25.39,Airtime / Data
+2024-05-19,sent to family,,-100.0,30.39,Peer Transfer
+2024-05-19,savings withdrawal,100.0,,130.39,Other
+2024-05-19,supermarket expenses,,-75.0,30.39,Merchant Purchase
+2024-05-19,airtime,,-5.0,105.39,Airtime / Data
+2024-05-19,family,100.0,,110.39,Other
+2024-05-19,transport,,-50.0,10.39,Peer Transfer
+2024-05-18,food,,-410.0,60.39,Merchant Purchase
+2024-05-18,food,,-60.0,470.39,Small Business Payment
+2024-05-18,airtime,,-5.0,530.39,Airtime / Data
+2024-05-18,health,,-100.0,535.39,Peer Transfer
+2024-05-18,transport,,-50.0,635.39,Peer Transfer
+2024-05-18,airtime,,-5.0,685.39,Airtime / Data
+2024-05-18,food,,-100.0,690.39,Peer Transfer
+2024-05-18,transport,,-50.0,790.39,Peer Transfer
+2024-05-18,savings deposit,,-1000.0,840.39,Other
+2024-05-18,transaction cost,,-7.0,1840.39,Transaction Cost
+2024-05-18,transport,,-300.0,1847.39,Peer Transfer
+2024-05-18,transport,,-50.0,2147.39,Peer Transfer
+2024-05-18,cash deposit,2000.0,,2197.39,Other
+2024-05-17,airtime,,-10.0,207.39,Paybill / Utility Payment
+2024-05-17,transaction cost,,-7.0,217.39,Transaction Cost
+2024-05-17,transport,,-340.0,224.39,Peer Transfer
+2024-05-17,transport,350.0,,564.39,Other
+2024-05-17,philanthropy,,-30.0,214.39,Merchant Purchase
+2024-05-17,airtime,,-10.0,244.39,Paybill / Utility Payment
+2024-05-17,food,,-75.0,254.39,Unclassified
+2024-05-17,transport,,-50.0,329.39,Peer Transfer
+2024-05-17,family,330.0,,379.39,Other
+2024-05-14,airtime,,-20.0,49.39,Unclassified
+2024-05-14,airtime,,-5.0,69.39,Unclassified
+2024-05-12,airtime,,-5.0,74.39,Airtime / Data
+2024-05-12,airtime,,-10.0,79.39,Paybill / Utility Payment
+2024-05-12,airtime,,-10.0,89.39,Unclassified
+2024-05-12,airtime,,-5.0,99.39,Airtime / Data
+2024-05-12,airtime,,-10.0,104.39,Airtime / Data
+2024-05-11,transaction cost,,-29.0,114.39,Other
+2024-05-11,family,,-950.0,143.39,Agent Cash Withdrawal
+2024-05-11,family,1000.0,,1093.39,Other
+2024-05-10,transaction cost,,-7.0,93.39,Transaction Cost
+2024-05-10,food,,-160.0,100.39,Small Business Payment
+2024-05-10,family,100.0,,260.39,Other
+2024-05-10,savings withdrawal,50.0,,160.39,Other
+2024-05-10,airtime,,-5.0,110.39,Airtime / Data
+2024-05-10,other expenses,,-40.0,115.39,Peer Transfer
+2024-05-10,airtime,,-25.0,155.39,Airtime / Data
+2024-05-10,other expenses,,-30.0,180.39,Small Business Payment
+2024-05-10,friends,150.0,,210.39,Other
+2024-05-10,transport,,-50.0,60.39,Peer Transfer
+2024-05-10,friends,100.0,,110.39,Other
+2024-05-09,airtime,,-8.0,10.39,Airtime / Data
+2024-05-09,transport,,-50.0,18.39,Peer Transfer
+2024-05-09,savings withdrawal,50.0,,68.39,Other
+2024-05-07,airtime,,-10.0,18.39,Paybill / Utility Payment
+2024-05-07,airtime,,-10.0,28.39,Unclassified
+2024-05-07,airtime,,-10.0,38.39,Paybill / Utility Payment
+2024-05-03,supermarket expenses,,-65.0,48.39,Merchant Purchase
+2024-05-03,transport,,-50.0,113.39,Peer Transfer
+2024-05-03,airtime,,-5.0,163.39,Airtime / Data
+2024-05-03,airtime,,-10.0,168.39,Unclassified
+2024-05-03,transport,,-50.0,178.39,Peer Transfer
+2024-05-03,airtime,,-5.0,228.39,Airtime / Data
+2024-05-03,supermarket expenses,,-70.0,233.39,Merchant Purchase
+2024-05-03,health,,-3080.0,303.39,Merchant Purchase
+2024-05-03,family,3290.0,,3383.39,Other
+2024-05-03,airtime,,-50.0,93.39,Unclassified
+2024-05-03,transaction cost,,-7.0,143.39,Transaction Cost
+2024-05-03,transport,,-210.0,150.39,Peer Transfer
+2024-05-03,family,250.0,,360.39,Other
+2024-05-02,airtime,,-10.0,110.39,Paybill / Utility Payment
+2024-05-02,airtime,,-20.0,120.39,Unclassified
+2024-05-02,transaction cost,,-34.0,140.39,Transaction Cost
+2024-05-02,health,,-4000.0,174.39,Paybill / Utility Payment
+2024-05-02,family,4169.0,,4174.39,Other
+2024-05-02,airtime,,-5.0,5.39,Airtime / Data
+2024-05-02,savings withdrawal,10.0,,10.39,Other
+2024-05-02,airtime,,-15.0,0.39,Airtime / Data
+2024-05-02,airtime,,-10.0,15.39,Airtime / Data
+2024-05-01,electricity,,-25.0,25.39,Paybill / Utility Payment
+2024-05-01,savings withdrawal,50.0,,50.39,Other
+2024-04-30,supermarket expenses,,-30.0,0.39,Merchant Purchase
+2024-04-29,supermarket expenses,,-20.0,30.39,Merchant Purchase
+2024-04-28,transport,,-70.0,50.39,Unclassified
+2024-04-27,transaction cost,,-7.0,120.39,Transaction Cost
+2024-04-27,transport,,-230.0,127.39,Peer Transfer
+2024-04-27,family,300.0,,357.39,Other
+2024-04-27,supermarket expenses,,-210.0,57.39,Merchant Purchase
+2024-04-27,airtime,,-20.0,167.39,Unclassified
+2024-04-27,airtime,,-20.0,187.39,Airtime / Data
+2024-04-27,transport,,-50.0,207.39,Small Business Payment
+2024-04-27,transport,,-50.0,257.39,Peer Transfer
+2024-04-27,savings withdrawal,300.0,,307.39,Other
+2024-04-26,philanthropy,,-30.0,7.39,Merchant Purchase
+2024-04-25,airtime,,-20.0,37.39,Unclassified
+2024-04-25,transport,,-50.0,57.39,Peer Transfer
+2024-04-25,supermarket expenses,,-198.0,107.39,Merchant Purchase
+2024-04-25,family,260.0,,305.39,Other
+2024-04-25,transport,,-50.0,45.39,Peer Transfer
+2024-04-25,supermarket expenses,,-100.0,95.39,Merchant Purchase
+2024-04-25,health,,-90.0,195.39,Merchant Purchase
+2024-04-25,savings withdrawal,250.0,,285.39,Other
+2024-04-23,airtime,,-20.0,35.39,Unclassified
+2024-04-23,savings withdrawal,50.0,,55.39,Other
+2024-04-22,friends,1.0,,5.39,Other
+2024-04-22,airtime,,-20.0,4.39,Unclassified
+2024-04-22,airtime,,-20.0,24.39,Unclassified
+2024-04-22,savings withdrawal,40.0,,44.39,Other
+2024-04-22,airtime,,-5.0,4.39,Airtime / Data
+2024-04-22,transaction cost,,-13.0,9.39,Transaction Cost
+2024-04-22,transport,,-610.0,22.39,Peer Transfer
+2024-04-22,family,250.0,,632.39,Other
+2024-04-22,savings deposit,,-800.0,382.39,Other
+2024-04-22,transaction cost,,-7.0,1182.39,Transaction Cost
+2024-04-22,food,,-120.0,1189.39,Small Business Payment
+2024-04-22,airtime,,-20.0,1309.39,Unclassified
+2024-04-22,airtime,,-15.0,1329.39,Paybill / Utility Payment
+2024-04-22,transport,300.0,,1344.39,Other
+2024-04-22,other expenses,,-50.0,1044.39,Peer Transfer
+2024-04-22,family,300.0,,1094.39,Other
+2024-04-22,airtime,,-20.0,794.39,Unclassified
+2024-04-22,electricity,,-25.0,814.39,Paybill / Utility Payment
+2024-04-22,airtime,,-5.0,839.39,Airtime / Data
+2024-04-21,supermarket expenses,,-185.0,844.39,Merchant Purchase
+2024-04-21,airtime,,-20.0,1029.39,Unclassified
+2024-04-21,airtime,,-5.0,1049.39,Airtime / Data
+2024-04-20,supermarket expenses,,-75.0,1054.39,Merchant Purchase
+2024-04-20,transaction cost,,-7.0,1129.39,Transaction Cost
+2024-04-20,sent to family,,-111.0,1136.39,Peer Transfer
+2024-04-20,airtime,,-10.0,1247.39,Airtime / Data
+2024-04-20,airtime,,-10.0,1257.39,Airtime / Data
+2024-04-20,transaction cost,,-5.0,1267.39,Transaction Cost
+2024-04-20,health,,-180.0,1272.39,Paybill / Utility Payment
+2024-04-20,friends,200.0,,1452.39,Other
+2024-04-20,airtime,,-10.0,1252.39,Airtime / Data
+2024-04-19,airtime,,-10.0,1262.39,Paybill / Utility Payment
+2024-04-19,airtime,,-10.0,1272.39,Airtime / Data
+2024-04-19,airtime,,-10.0,1282.39,Paybill / Utility Payment
+2024-04-19,food,,-30.0,1292.39,Peer Transfer
+2024-04-19,airtime,,-10.0,1322.39,Airtime / Data
+2024-04-19,airtime,,-10.0,1332.39,Paybill / Utility Payment
+2024-04-19,supermarket expenses,,-229.0,1342.39,Merchant Purchase
+2024-04-19,transport,,-50.0,1571.39,Peer Transfer
+2024-04-19,food,,-45.0,1621.39,Small Business Payment
+2024-04-19,transport,,-50.0,1666.39,Peer Transfer
+2024-04-19,airtime,,-20.0,1716.39,Unclassified
+2024-04-19,transport,,-50.0,1736.39,Peer Transfer
+2024-04-19,family,150.0,,1786.39,Other
+2024-04-18,transaction cost,,-7.0,1536.39,Transaction Cost
+2024-04-18,sent to friends,,-200.0,1543.39,Peer Transfer
+2024-04-18,family,1500.0,,1743.39,Other
+2024-04-18,sent to friends,,-40.0,243.39,Peer Transfer
+2024-04-18,transaction cost,,-5.0,283.39,Transaction Cost
+2024-04-18,food,,-110.0,288.39,Paybill / Utility Payment
+2024-04-18,airtime,,-20.0,398.39,Unclassified
+2024-04-18,transaction cost,,-7.0,418.39,Transaction Cost
+2024-04-18,friends,,-200.0,425.39,Peer Transfer
+2024-04-18,food,,-50.0,625.39,Small Business Payment
+2024-04-18,transport,,-50.0,675.39,Peer Transfer
+2024-04-18,airtime,,-25.0,725.39,Airtime / Data
+2024-04-18,family,340.0,,750.39,Other
+2024-04-17,transport,,-50.0,410.39,Peer Transfer
+2024-04-17,food,,-30.0,460.39,Small Business Payment
+2024-04-17,food,,-100.0,490.39,Peer Transfer
+2024-04-17,airtime,,-20.0,590.39,Unclassified
+2024-04-17,transport,,-90.0,610.39,Small Business Payment
+2024-04-17,food,,-5.0,700.39,Peer Transfer
+2024-04-17,food,,-80.0,705.39,Peer Transfer
+2024-04-17,airtime,,-20.0,785.39,Airtime / Data
+2024-04-17,transport,,-50.0,805.39,Peer Transfer
+2024-04-16,transaction cost,,-7.0,855.39,Transaction Cost
+2024-04-16,food,,-200.0,862.39,Peer Transfer
+2024-04-16,family,1029.0,,1062.39,Other
+2024-04-16,airtime,,-5.0,33.39,Airtime / Data
+2024-04-16,airtime,,-20.0,38.39,Unclassified
+2024-04-16,other expenses,,-100.0,58.39,Peer Transfer
+2024-04-16,food,,-100.0,158.39,Peer Transfer
+2024-04-16,food,,-50.0,258.39,Small Business Payment
+2024-04-16,transport,,-50.0,308.39,Peer Transfer
+2024-04-16,family,330.0,,358.39,Other
+2024-04-16,airtime,,-5.0,28.39,Airtime / Data
+2024-04-16,airtime,,-20.0,33.39,Airtime / Data
+2024-04-15,airtime,,-10.0,53.39,Paybill / Utility Payment
+2024-04-15,airtime,,-5.0,73.39,Airtime / Data
+2024-04-15,food,,-20.0,78.39,Small Business Payment
+2024-04-15,food,,-30.0,98.39,Small Business Payment
+2024-04-15,food,,-20.0,128.39,Merchant Purchase
+2024-04-15,food,,-50.0,148.39,Merchant Purchase
+2024-04-15,airtime,,-10.0,198.39,Paybill / Utility Payment
+2024-04-15,airtime,,-20.0,208.39,Airtime / Data
+2024-04-15,transport,,-50.0,228.39,Peer Transfer
+2024-04-15,transport,,-50.0,278.39,Peer Transfer
+2024-04-15,family,290.0,,328.39,Other
+2024-04-14,airtime,,-15.0,38.39,Unclassified
+2024-04-14,savings withdrawal,50.0,,53.39,Other
+2024-04-13,airtime,,-15.0,3.39,Paybill / Utility Payment
+2024-04-13,airtime,,-10.0,18.39,Airtime / Data
+2024-04-12,airtime,,-10.0,28.39,Paybill / Utility Payment
+2024-04-12,food,,-20.0,38.39,Small Business Payment
+2024-04-12,friends,40.0,,58.39,Other
+2024-04-12,savings deposit,,-150.0,18.39,Other
+2024-04-12,food,,-75.0,168.39,Merchant Purchase
+2024-04-12,other expenses,,-30.0,243.39,Peer Transfer
+2024-04-12,other expenses,,-30.0,273.39,Small Business Payment
+2024-04-12,food,,-10.0,303.39,Merchant Purchase
+2024-04-12,food,,-50.0,313.39,Merchant Purchase
+2024-04-12,airtime,,-5.0,363.39,Airtime / Data
+2024-04-12,transport,,-50.0,368.39,Peer Transfer
+2024-04-12,family,310.0,,418.39,Other
+2024-04-12,transport,,-50.0,108.39,Peer Transfer
+2024-04-12,airtime,,-115.0,158.39,Airtime / Data
+2024-04-11,supermarket expenses,,-130.0,273.39,Merchant Purchase
+2024-04-11,family,70.0,,403.39,Other
+2024-04-11,transaction cost,,-7.0,333.39,Transaction Cost
+2024-04-11,personal expenditures,,-240.0,340.39,Peer Transfer
+2024-04-11,family,200.0,,580.39,Other
+2024-04-11,family,300.0,,380.39,Other
+2024-04-11,airtime,,-20.0,80.39,Paybill / Utility Payment
+2024-04-10,airtime,,-20.0,100.39,Paybill / Utility Payment
+2024-04-10,transport,,-30.0,120.39,Peer Transfer
+2024-04-10,transport,,-30.0,150.39,Merchant Purchase
+2024-04-10,transport,,-50.0,180.39,Peer Transfer
+2024-04-10,airtime,,-20.0,230.39,Airtime / Data
+2024-04-09,friends,50.0,,250.39,Other
+2024-04-09,savings withdrawal,4.0,,200.39,Other
+2024-04-09,airtime,,-10.0,196.39,Paybill / Utility Payment
+2024-04-09,airtime,,-15.0,206.39,Paybill / Utility Payment
+2024-04-09,family,140.0,,221.39,Other
+2024-04-09,friends,,-25.0,81.39,Peer Transfer
+2024-04-08,airtime,,-15.0,106.39,Unclassified
+2024-04-08,electricity,,-25.0,121.39,Paybill / Utility Payment
+2024-04-08,transport,,-40.0,146.39,Peer Transfer
+2024-04-08,food,,-60.0,186.39,Merchant Purchase
+2024-04-08,airtime,,-15.0,246.39,Unclassified
+2024-04-08,airtime,,-20.0,261.39,Airtime / Data
+2024-04-08,other expenses,,-50.0,281.39,Small Business Payment
+2024-04-08,family,300.0,,331.39,Other
+2024-04-07,sent to friends,,-100.0,31.39,Peer Transfer
+2024-04-07,airtime,,-70.0,131.39,Unclassified
+2024-04-07,sent to family,,-100.0,201.39,Peer Transfer
+2024-04-06,friends,,-100.0,301.39,Peer Transfer
+2024-04-06,family,100.0,,401.39,Other
+2024-04-06,family,140.0,,301.39,Other
+2024-04-06,transaction cost,,-7.0,161.39,Transaction Cost
+2024-04-06,sent to friends,,-200.0,168.39,Peer Transfer
+2024-04-06,food,,-40.0,368.39,Merchant Purchase
+2024-04-06,transport,,-50.0,408.39,Peer Transfer
+2024-04-06,transport,,-40.0,458.39,Unclassified
+2024-04-06,friends,100.0,,498.39,Other
+2024-04-06,savings withdrawal,200.0,,398.39,Other
+2024-04-06,family,100.0,,198.39,Other
+2024-04-06,friends,70.0,,98.39,Other
+2024-04-05,electricity,,-25.0,28.39,Paybill / Utility Payment
+2024-04-05,airtime,,-20.0,53.39,Paybill / Utility Payment
+2024-04-05,airtime,,-10.0,73.39,Paybill / Utility Payment
+2024-04-05,transport,,-50.0,83.39,Peer Transfer
+2024-04-05,food,,-30.0,133.39,Peer Transfer
+2024-04-05,airtime,,-5.0,163.39,Airtime / Data
+2024-04-05,transport,,-40.0,168.39,Peer Transfer
+2024-04-05,family,100.0,,208.39,Other
+2024-04-05,food,,-40.0,108.39,Peer Transfer
+2024-04-05,airtime,,-15.0,148.39,Unclassified
+2024-04-05,airtime,,-10.0,163.39,Paybill / Utility Payment
+2024-04-05,food,,-20.0,173.39,Peer Transfer
+2024-04-05,airtime,,-20.0,193.39,Airtime / Data
+2024-04-05,transport,,-50.0,213.39,Small Business Payment
+2024-04-05,transport,,-50.0,263.39,Peer Transfer
+2024-04-04,electricity,,-25.0,313.39,Paybill / Utility Payment
+2024-04-04,electricity,,-25.0,338.39,Paybill / Utility Payment
+2024-04-04,chumz saving,,-50.0,363.39,Paybill / Utility Payment
+2024-04-04,chumz saving,,-50.0,413.39,Paybill / Utility Payment
+2024-04-04,electricity,,-25.0,463.39,Paybill / Utility Payment
+2024-04-04,transport,,-50.0,488.39,Peer Transfer
+2024-04-04,transport,,-50.0,538.39,Small Business Payment
+2024-04-04,friends,,-30.0,588.39,Peer Transfer
+2024-04-04,food,,-10.0,618.39,Peer Transfer
+2024-04-04,transaction cost,,-7.0,628.39,Transaction Cost
+2024-04-04,food,,-240.0,635.39,Peer Transfer
+2024-04-04,airtime,,-15.0,875.39,Unclassified
+2024-04-04,airtime,,-5.0,890.39,Airtime / Data
+2024-04-03,food,,-240.0,895.39,Merchant Purchase
+2024-04-03,transport,,-50.0,1135.39,Peer Transfer
+2024-04-03,airtime,,-10.0,1185.39,Airtime / Data
+2024-04-03,supermarket expenses,,-180.0,1195.39,Merchant Purchase
+2024-04-03,transport,,-50.0,1375.39,Peer Transfer
+2024-04-03,sent to friends,,-100.0,1425.39,Peer Transfer
+2024-04-03,airtime,,-15.0,1525.39,Unclassified
+2024-04-03,airtime,,-10.0,1540.39,Airtime / Data
+2024-04-03,family,1029.0,,1550.39,Other
+2024-04-03,airtime,,-15.0,521.39,Unclassified
+2024-04-03,other expenses,,-30.0,536.39,Small Business Payment
+2024-04-03,transport,,-70.0,566.39,Peer Transfer
+2024-04-03,supermarket expenses,,-75.0,636.39,Merchant Purchase
+2024-04-03,family,300.0,,711.39,Other
+2024-04-03,friends,160.0,,411.39,Other
+2024-04-02,electricity,,-25.0,251.39,Paybill / Utility Payment
+2024-04-02,transport,,-40.0,276.39,Peer Transfer
+2024-04-02,family,230.0,,316.39,Other
+2024-04-02,transport,,-40.0,86.39,Peer Transfer
+2024-04-02,family,100.0,,126.39,Other
+2024-04-02,airtime,,-20.0,26.39,Unclassified
+2024-04-02,transport,,-30.0,46.39,Peer Transfer
+2024-04-02,friends,,-20.0,76.39,Peer Transfer
+2024-04-02,sent to friends,,-20.0,96.39,Peer Transfer
+2024-04-01,airtime,,-15.0,116.39,Unclassified
+2024-04-01,health,,-60.0,131.39,Paybill / Utility Payment
+2024-04-01,supermarket expenses,,-874.0,191.39,Merchant Purchase
+2024-04-01,family,670.0,,1065.39,Other
+2024-04-01,transport,,-50.0,395.39,Peer Transfer
+2024-04-01,airtime,,-15.0,445.39,Unclassified
+2024-04-01,supermarket expenses,,-150.0,460.39,Merchant Purchase
+2024-04-01,electricity,,-50.0,610.39,Paybill / Utility Payment
+2024-03-31,airtime,,-15.0,660.39,Unclassified
+2024-03-31,airtime,,-15.0,675.39,Unclassified
+2024-03-31,airtime,,-5.0,690.39,Airtime / Data
+2024-03-31,electricity,,-100.0,695.39,Paybill / Utility Payment
+2024-03-31,friends,200.0,,795.39,Other
+2024-03-30,airtime,,-10.0,595.39,Paybill / Utility Payment
+2024-03-30,airtime,,-10.0,605.39,Airtime / Data
+2024-03-30,supermarket expenses,,-455.0,615.39,Merchant Purchase
+2024-03-29,airtime,,-10.0,1070.39,Paybill / Utility Payment
+2024-03-29,airtime,,-10.0,1080.39,Paybill / Utility Payment
+2024-03-29,philanthropy,,-300.0,1090.39,Merchant Purchase
+2024-03-29,transaction cost,,-7.0,1675.39,Transaction Cost
+2024-03-29,personal expenditures,,-300.0,1682.39,Peer Transfer
+2024-03-29,airtime,,-15.0,1982.39,Unclassified
+2024-03-29,transport,,-70.0,1997.39,Peer Transfer
+2024-03-29,family,1000.0,,2067.39,Other
+2024-03-29,airtime,,-10.0,1117.39,Paybill / Utility Payment
+2024-03-29,airtime,,-15.0,1127.39,Unclassified
+2024-03-29,friends,1.0,,1142.39,Other
+2024-03-29,food,,-100.0,1141.39,Paybill / Utility Payment
+2024-03-29,family,1000.0,,1241.39,Other
+2024-03-28,transaction cost,,-7.0,241.39,Transaction Cost
+2024-03-28,personal expenditures,,-140.0,248.39,Peer Transfer
+2024-03-28,airtime,,-15.0,388.39,Unclassified
+2024-03-28,savings withdrawal,400.0,,403.39,Other
+2024-03-28,other expenses,,-660.0,3.39,Merchant Purchase
+2024-03-28,family,200.0,,663.39,Other
+2024-03-28,friends,150.0,,463.39,Other
+2024-03-28,transport,,-60.0,313.39,Small Business Payment
+2024-03-28,airtime,,-20.0,373.39,Unclassified
+2024-03-28,food,,-50.0,393.39,Small Business Payment
+2024-03-28,family,350.0,,443.39,Other
+2024-03-28,airtime,,-10.0,93.39,Paybill / Utility Payment
+2024-03-28,airtime,,-40.0,103.39,Airtime / Data
+2024-03-28,airtime,,-5.0,143.39,Airtime / Data
+2024-03-27,airtime,,-15.0,148.39,Unclassified
+2024-03-27,airtime,,-15.0,163.39,Unclassified
+2024-03-27,electricity,,-25.0,178.39,Paybill / Utility Payment
+2024-03-27,supermarket expenses,,-100.0,203.39,Merchant Purchase
+2024-03-27,transport,,-30.0,303.39,Peer Transfer
+2024-03-27,airtime,,-15.0,333.39,Unclassified
+2024-03-27,airtime,,-15.0,348.39,Unclassified
+2024-03-27,airtime,,-10.0,363.39,Airtime / Data
+2024-03-27,food,,-30.0,373.39,Peer Transfer
+2024-03-27,transport,,-50.0,403.39,Peer Transfer
+2024-03-27,family,350.0,,453.39,Other
+2024-03-26,transport,,-30.0,103.39,Peer Transfer
+2024-03-26,airtime,,-20.0,133.39,Airtime / Data
+2024-03-26,transport,,-50.0,153.39,Peer Transfer
+2024-03-25,food,,-20.0,203.39,Peer Transfer
+2024-03-25,supermarket expenses,,-150.0,223.39,Merchant Purchase
+2024-03-25,savings deposit,,-600.0,373.39,Other
+2024-03-24,sent to family,,-100.0,973.39,Peer Transfer
+2024-03-24,airtime,,-10.0,1073.39,Paybill / Utility Payment
+2024-03-24,airtime,,-10.0,1083.39,Paybill / Utility Payment
+2024-03-24,airtime,,-15.0,1093.39,Unclassified
+2024-03-24,supermarket expenses,,-25.0,1108.39,Merchant Purchase
+2024-03-24,family,780.0,,1133.39,Other
+2024-03-23,supermarket expenses,,-70.0,353.39,Merchant Purchase
+2024-03-23,transport,,-50.0,423.39,Peer Transfer
+2024-03-23,transaction cost,,-7.0,473.39,Transaction Cost
+2024-03-23,health,,-450.0,480.39,Peer Transfer
+2024-03-23,family,500.0,,930.39,Other
+2024-03-23,other expenses,,-30.0,430.39,Merchant Purchase
+2024-03-23,airtime,,-15.0,460.39,Unclassified
+2024-03-23,airtime,,-5.0,475.39,Airtime / Data
+2024-03-23,airtime,,-10.0,480.39,Paybill / Utility Payment
+2024-03-22,airtime,,-10.0,490.39,Paybill / Utility Payment
+2024-03-22,supermarket expenses,,-75.0,500.39,Merchant Purchase
+2024-03-22,family,529.0,,575.39,Other
+2024-03-22,airtime,,-5.0,46.39,Airtime / Data
+2024-03-21,sent to friends,,-100.0,51.39,Peer Transfer
+2024-03-21,transport,,-50.0,151.39,Peer Transfer
+2024-03-21,transport,,-40.0,201.39,Peer Transfer
+2024-03-21,airtime,,-15.0,241.39,Unclassified
+2024-03-21,supermarket expenses,,-123.0,256.39,Merchant Purchase
+2024-03-21,transport,,-40.0,379.39,Peer Transfer
+2024-03-21,transport,,-50.0,419.39,Peer Transfer
+2024-03-21,family,350.0,,469.39,Other
+2024-03-20,friends,60.0,,119.39,Other
+2024-03-20,supermarket expenses,,-55.0,59.39,Merchant Purchase
+2024-03-20,family,50.0,,114.39,Other
+2024-03-20,airtime,,-15.0,64.39,Unclassified
+2024-03-20,friends,50.0,,79.39,Other
+2024-03-20,airtime,,-10.0,29.39,Airtime / Data
+2024-03-20,transport,30.0,,39.39,Other
+2024-03-19,family,5.0,,9.39,Other
+2024-03-19,sent to friends,,-50.0,4.39,Peer Transfer
+2024-03-19,airtime,,-20.0,54.39,Airtime / Data
+2024-03-19,friends,50.0,,74.39,Other
+2024-03-19,airtime,,-20.0,24.39,Airtime / Data
+2024-03-19,transport,,-50.0,44.39,Peer Transfer
+2024-03-18,supermarket expenses,,-70.0,94.39,Merchant Purchase
+2024-03-18,transport,,-10.0,164.39,Peer Transfer
+2024-03-18,transport,,-30.0,174.39,Peer Transfer
+2024-03-18,airtime,,-10.0,204.39,Paybill / Utility Payment
+2024-03-18,transport,,-50.0,214.39,Merchant Purchase
+2024-03-18,airtime,,-15.0,264.39,Unclassified
+2024-03-18,transport,,-50.0,329.39,Peer Transfer
+2024-03-18,family,320.0,,379.39,Other
+2024-03-17,airtime,,-10.0,59.39,Paybill / Utility Payment
+2024-03-17,airtime,,-15.0,69.39,Unclassified
+2024-03-16,airtime,,-10.0,84.39,Paybill / Utility Payment
+2024-03-15,supermarket expenses,,-100.0,94.39,Merchant Purchase
+2024-03-15,family,100.0,,194.39,Other
+2024-03-15,supermarket expenses,,-55.0,94.39,Merchant Purchase
+2024-03-15,transport,,-30.0,149.39,Small Business Payment
+2024-03-15,airtime,,-15.0,179.39,Airtime / Data
+2024-03-15,other expenses,,-40.0,194.39,Small Business Payment
+2024-03-15,airtime,,-10.0,234.39,Airtime / Data
+2024-03-15,food,,-40.0,244.39,Small Business Payment
+2024-03-15,transport,,-50.0,284.39,Peer Transfer
+2024-03-15,family,320.0,,334.39,Other
+2024-03-14,transport,,-30.0,14.39,Peer Transfer
+2024-03-14,sent to friends,,-100.0,44.39,Peer Transfer
+2024-03-14,airtime,,-20.0,144.39,Unclassified
+2024-03-14,family,150.0,,164.39,Other
+2024-03-14,transport,,-50.0,14.39,Peer Transfer
+2024-03-13,food,,-35.0,74.39,Unclassified
+2024-03-13,savings withdrawal,100.0,,109.39,Other
+2024-03-13,airtime,,-15.0,9.39,Unclassified
+2024-03-13,airtime,,-15.0,24.39,Unclassified
+2024-03-13,airtime,,-10.0,39.39,Paybill / Utility Payment
+2024-03-13,airtime,,-10.0,49.39,Paybill / Utility Payment
+2024-03-13,transaction cost,,-7.0,59.39,Transaction Cost
+2024-03-13,airtime,,-10.0,366.39,Paybill / Utility Payment
+2024-03-13,airtime,,-15.0,191.39,Unclassified
+2024-03-13,supermarket expenses,,-65.0,206.39,Merchant Purchase
+2024-03-13,airtime,,-15.0,271.39,Unclassified
+2024-03-13,health,,-70.0,286.39,Merchant Purchase
+2024-03-13,airtime,,-10.0,356.39,Paybill / Utility Payment
+2024-03-13,family,350.0,,366.39,Other
+2024-03-13,airtime,,-20.0,16.39,Unclassified
+2024-03-13,airtime,,-15.0,36.39,Unclassified
+2024-03-13,food,,-88.0,51.39,Unclassified
+2024-03-13,savings withdrawal,100.0,,139.39,Other
+2024-03-12,supermarket expenses,,-70.0,39.39,Merchant Purchase
+2024-03-12,savings withdrawal,100.0,,109.39,Other
+2024-03-11,airtime,,-10.0,9.39,Paybill / Utility Payment
+2024-03-11,transport,,-30.0,19.39,Peer Transfer
+2024-03-11,supermarket expenses,,-237.0,49.39,Merchant Purchase
+2024-03-11,airtime,,-15.0,286.39,Unclassified
+2024-03-11,family,350.0,,393.39,Other
+2024-03-11,airtime,,-20.0,43.39,Unclassified
+2024-03-11,airtime,,-10.0,63.39,Paybill / Utility Payment
+2024-03-10,airtime,,-10.0,73.39,Paybill / Utility Payment
+2024-03-10,airtime,,-20.0,83.39,Paybill / Utility Payment
+2024-03-10,savings withdrawal,100.0,,103.39,Other
+2024-03-10,airtime,,-20.0,3.39,Unclassified
+2024-03-09,supermarket expenses,,-35.0,23.39,Merchant Purchase
+2024-03-09,savings deposit,,-500.0,58.39,Other
+2024-03-08,transport,,-50.0,558.39,Peer Transfer
+2024-03-08,food,,-70.0,608.39,Small Business Payment
+2024-03-08,other expenses,,-50.0,678.39,Small Business Payment
+2024-03-08,food,,-60.0,728.39,Merchant Purchase
+2024-03-08,airtime,,-10.0,788.39,Airtime / Data
+2024-03-08,other expenses,,-40.0,798.39,Merchant Purchase
+2024-03-08,transport,,-50.0,838.39,Peer Transfer
+2024-03-08,airtime,,-20.0,888.39,Unclassified
+2024-03-08,transport,,-50.0,908.39,Peer Transfer
+2024-03-08,family,350.0,,958.39,Other
+2024-03-08,airtime,,-15.0,608.39,Unclassified
+2024-03-08,airtime,,-10.0,623.39,Airtime / Data
+2024-03-07,supermarket expenses,,-65.0,633.39,Merchant Purchase
+2024-03-07,family,100.0,,698.39,Other
+2024-03-07,family,530.0,,598.39,Other
+2024-03-07,supermarket expenses,,-70.0,68.39,Merchant Purchase
+2024-03-07,health,,-54.0,138.39,Merchant Purchase
+2024-03-07,transport,,-50.0,192.39,Peer Transfer
+2024-03-07,transaction cost,,-7.0,448.39,Transaction Cost
+2024-03-07,food,,-140.0,455.39,Small Business Payment
+2024-03-07,food,,-100.0,595.39,Small Business Payment
+2024-03-07,food,,-50.0,695.39,Small Business Payment
+2024-03-07,airtime,,-20.0,745.39,Airtime / Data
+2024-03-07,transport,,-50.0,765.39,Peer Transfer
+2024-03-07,family,300.0,,815.39,Other
+2024-03-06,airtime,,-5.0,515.39,Airtime / Data
+2024-03-05,airtime,,-10.0,520.39,Paybill / Utility Payment
+2024-03-05,airtime,,-10.0,530.39,Paybill / Utility Payment
+2024-03-05,transport,,-50.0,540.39,Peer Transfer
+2024-03-05,other expenses,,-40.0,590.39,Peer Transfer
+2024-03-05,other expenses,,-40.0,630.39,Small Business Payment
+2024-03-05,airtime,,-10.0,670.39,Airtime / Data
+2024-03-05,family,529.0,,680.39,Other
+2024-03-05,food,,-55.0,151.39,Peer Transfer
+2024-03-05,food,,-50.0,206.39,Peer Transfer
+2024-03-04,health,,-90.0,226.39,Merchant Purchase
+2024-03-04,supermarket expenses,,-100.0,316.39,Merchant Purchase
+2024-03-04,family,100.0,,416.39,Other
+2024-03-04,electricity,,-25.0,316.39,Paybill / Utility Payment
+2024-03-04,supermarket expenses,,-70.0,341.39,Merchant Purchase
+2024-03-04,transport,,-50.0,411.39,Peer Transfer
+2024-03-04,food,,-40.0,461.39,Small Business Payment
+2024-03-04,family,429.0,,501.39,Other
+2024-03-04,airtime,,-5.0,72.39,Airtime / Data
+2024-03-04,food,,-20.0,77.39,Peer Transfer
+2024-03-04,food,,-50.0,97.39,Small Business Payment
+2024-03-04,airtime,,-15.0,207.39,Unclassified
+2024-03-04,airtime,,-5.0,222.39,Airtime / Data
+2024-03-04,food,,-50.0,227.39,Merchant Purchase
+2024-03-04,airtime,,-20.0,277.39,Airtime / Data
+2024-03-04,transport,,-30.0,297.39,Small Business Payment
+2024-03-04,transport,,-50.0,327.39,Peer Transfer
+2024-03-04,family,170.0,,377.39,Other
+2024-03-03,supermarket expenses,,-150.0,207.39,Merchant Purchase
+2024-03-02,transport,,-70.0,357.39,Peer Transfer
+2024-03-02,transport,,-70.0,427.39,Peer Transfer
+2024-03-02,family,200.0,,497.39,Other
+2024-03-02,kcb,200.0,,297.39,Other
+2024-03-02,airtime,,-15.0,97.39,Unclassified
+2024-03-02,friends,,-100.0,112.39,Peer Transfer
+2024-03-02,food,,-50.0,212.39,Merchant Purchase
+2024-03-02,airtime,,-10.0,262.39,Airtime / Data
+2024-03-02,food,,-80.0,272.39,Merchant Purchase
+2024-03-02,transport,,-50.0,352.39,Small Business Payment
+2024-03-02,airtime,,-20.0,402.39,Airtime / Data
+2024-03-02,airtime,,-10.0,422.39,Paybill / Utility Payment
+2024-03-02,sent to friends,,-80.0,432.39,Peer Transfer
+2024-03-02,friends,100.0,,512.39,Other
+2024-03-02,friends,100.0,,412.39,Other
+2024-03-02,electricity,,-25.0,312.39,Paybill / Utility Payment
+2024-03-01,electricity,,-25.0,337.39,Paybill / Utility Payment
+2024-03-01,family,200.0,,362.39,Other
+2024-03-01,airtime,,-5.0,162.39,Airtime / Data
+2024-03-01,food,,-80.0,167.39,Peer Transfer
+2024-03-01,other expenses,,-30.0,247.39,Peer Transfer
+2024-03-01,savings withdrawal,200.0,,277.39,Other
+2024-03-01,airtime,,-15.0,77.39,Unclassified
+2024-03-01,airtime,,-10.0,92.39,Airtime / Data
+2024-02-29,transport,,-50.0,102.39,Peer Transfer
+2024-02-29,food,,-70.0,152.39,Small Business Payment
+2024-02-29,transaction cost,,-29.0,222.39,Other
+2024-02-29,cash withdrawal,,-450.0,251.39,Agent Cash Withdrawal
+2024-02-29,savings withdrawal,500.0,,701.39,Other
+2024-02-29,transaction cost,,-11.0,201.39,Other
+2024-02-29,cash withdrawal,,-60.0,212.39,Agent Cash Withdrawal
+2024-02-29,transaction cost,,-11.0,272.39,Other
+2024-02-29,cash withdrawal,,-50.0,283.39,Agent Cash Withdrawal
+2024-02-29,supermarket expenses,,-50.0,333.39,Merchant Purchase
+2024-02-29,personal expenditures,,-1000.0,383.39,Merchant Purchase
+2024-02-29,savings withdrawal,1000.0,,1383.39,Other
+2024-02-29,airtime,,-15.0,383.39,Unclassified
+2024-02-29,transport,,-50.0,398.39,Peer Transfer
+2024-02-29,family,350.0,,448.39,Other
+2024-02-29,transport,,-50.0,98.39,Peer Transfer
+2024-02-28,airtime,,-15.0,148.39,Unclassified
+2024-02-28,transport,,-50.0,163.39,Peer Transfer
+2024-02-28,transaction cost,,-7.0,213.39,Transaction Cost
+2024-02-28,health,,-200.0,220.39,Peer Transfer
+2024-02-28,family,210.0,,420.39,Other
+2024-02-28,other expenses,,-30.0,210.39,Merchant Purchase
+2024-02-28,food,,-100.0,240.39,Small Business Payment
+2024-02-28,airtime,,-10.0,340.39,Airtime / Data
+2024-02-28,airtime,,-15.0,350.39,Unclassified
+2024-02-28,transport,,-50.0,365.39,Small Business Payment
+2024-02-28,airtime,,-15.0,415.39,Unclassified
+2024-02-28,transport,,-100.0,430.39,Peer Transfer
+2024-02-28,family,350.0,,530.39,Other
+2024-02-28,electricity,,-25.0,180.39,Paybill / Utility Payment
+2024-02-27,other expenses,,-30.0,205.39,Peer Transfer
+2024-02-27,other expenses,,-20.0,235.39,Peer Transfer
+2024-02-27,food,,-80.0,255.39,Merchant Purchase
+2024-02-27,airtime,,-10.0,335.39,Airtime / Data
+2024-02-27,airtime,,-15.0,345.39,Other
+2024-02-27,airtime,,-15.0,360.39,Other
+2024-02-27,transport,,-50.0,375.39,Small Business Payment
+2024-02-27,family,350.0,,425.39,Other
+2024-02-27,electricity,,-25.0,75.39,Paybill / Utility Payment
+2024-02-27,savings deposit,,-1800.0,100.39,Other
+2024-02-26,electricity,,-30.0,1900.39,Paybill / Utility Payment
+2024-02-26,electricity,,-25.0,1930.39,Paybill / Utility Payment
+2024-02-26,supermarket expenses,,-120.0,1955.39,Merchant Purchase
+2024-02-26,other expenses,,-50.0,2075.39,Small Business Payment
+2024-02-26,sent to friends,,-50.0,2125.39,Peer Transfer
+2024-02-26,transaction cost,,-11.0,2175.39,Other
+2024-02-26,transport,,-100.0,2186.39,Agent Cash Withdrawal
+2024-02-26,other expenses,,-50.0,2286.39,Peer Transfer
+2024-02-26,airtime,,-15.0,2336.39,Other
+2024-02-26,airtime,,-15.0,2351.39,Other
+2024-02-26,transport,,-60.0,2366.39,Peer Transfer
+2024-02-26,other expenses,,-50.0,2426.39,Peer Transfer
+2024-02-26,transport,,-50.0,2476.39,Peer Transfer
+2024-02-26,family,400.0,,2526.39,Other
+2024-02-25,airtime,,-5.0,2126.39,Airtime / Data
+2024-02-25,supermarket expenses,,-70.0,2131.39,Merchant Purchase
+2024-02-25,other expenses,,-150.0,2201.39,Merchant Purchase
+2024-02-25,family,160.0,,2351.39,Other
+2024-02-25,airtime,,-20.0,2191.39,Airtime / Data
+2024-02-25,church,,-50.0,2211.39,Paybill / Utility Payment
+2024-02-24,spotify,,-154.22,2261.39,Other
+2024-02-24,supermarket expenses,,-110.0,2415.61,Merchant Purchase
+2024-02-24,airtime,,-100.0,2525.61,Airtime / Data
+2024-02-23,transaction cost,,-7.0,2625.61,Transaction Cost
+2024-02-23,friends,,-200.0,2632.61,Peer Transfer
+2024-02-23,health,,-180.0,2832.61,Merchant Purchase
+2024-02-23,family,180.0,,3012.61,Other
+2024-02-23,transport,,-50.0,2832.61,Peer Transfer
+2024-02-23,airtime,,-20.0,2882.61,Airtime / Data
+2024-02-23,transaction cost,,-7.0,2902.61,Transaction Cost
+2024-02-23,sent to friends,,-200.0,2909.61,Peer Transfer
+2024-02-23,airtime,,-15.0,3109.61,Other
+2024-02-23,airtime,,-10.0,3124.61,Airtime / Data
+2024-02-23,airtime,,-15.0,3134.61,Other
+2024-02-23,food,,-100.0,3149.61,Peer Transfer
+2024-02-23,airtime,,-15.0,3249.61,Other
+2024-02-23,transport,,-50.0,3264.61,Peer Transfer
+2024-02-23,electricity,,-50.0,3339.61,Paybill / Utility Payment
+2024-02-22,philanthropy,,-50.0,3389.61,Merchant Purchase
+2024-02-22,supermarket expenses,,-285.0,3439.61,Merchant Purchase
+2024-02-22,other expenses,,-65.0,3724.61,Paybill / Utility Payment
+2024-02-22,sent to friends,,-50.0,3789.61,Peer Transfer
+2024-02-22,airtime,,-10.0,3839.61,Paybill / Utility Payment
+2024-02-22,transaction cost,,-7.0,3849.61,Transaction Cost
+2024-02-22,transport,,-320.0,3856.61,Peer Transfer
+2024-02-22,airtime,,-15.0,176.61,Other
+2024-02-22,food,,-20.0,191.61,Peer Transfer
+2024-02-22,transport,,-60.0,211.61,Peer Transfer
+2024-02-22,airtime,,-15.0,271.61,Other
+2024-02-22,family,,-100.0,286.61,Other
+2024-02-22,food,,-30.0,386.61,Small Business Payment
+2024-02-22,airtime,,-15.0,416.61,Other
+2024-02-22,supermarket expenses,,-70.0,431.61,Merchant Purchase
+2024-02-22,transport,,-30.0,501.61,Peer Transfer
+2024-02-22,family,350.0,,531.61,Other
+2024-02-21,philanthropy,,-30.0,181.61,Merchant Purchase
+2024-02-21,transport,,-50.0,211.61,Peer Transfer
+2024-02-21,transport,,-50.0,261.61,Peer Transfer
+2024-02-21,airtime,,-10.0,311.61,Airtime / Data
+2024-02-21,electricity,,-25.0,321.61,Paybill / Utility Payment
+2024-02-21,electricity,,-50.0,346.61,Paybill / Utility Payment
+2024-02-20,food,,-40.0,396.61,Peer Transfer
+2024-02-20,cash deposit,500.0,,506.61,Other
+2024-02-19,transport,,-50.0,6.61,Peer Transfer
+2024-02-19,savings withdrawal,10.0,,56.61,Other
+2024-02-19,other expenses,,-70.0,46.61,Peer Transfer
+2024-02-19,kcb,100.0,,116.61,Other
+2024-02-19,airtime,,-5.0,16.61,Airtime / Data
+2024-02-19,personal expenditures,,-600.0,21.61,Merchant Purchase
+2024-02-19,savings withdrawal,400.0,,621.61,Other
+2024-02-19,transaction cost,,-11.0,221.61,Other
+2024-02-19,transport,,-50.0,232.61,Agent Cash Withdrawal
+2024-02-19,personal expenditures,,-80.0,282.61,Peer Transfer
+2024-02-19,airtime,,-15.0,62.61,Other
+2024-02-19,transaction cost,,-7.0,77.61,Transaction Cost
+2024-02-19,friends,,-125.0,84.61,Peer Transfer
+2024-02-19,airtime,,-10.0,209.61,Airtime / Data
+2024-02-19,transport,,-50.0,219.61,Small Business Payment
+2024-02-19,transport,,-50.0,269.61,Peer Transfer
+2024-02-19,sent to friends,,-50.0,319.61,Peer Transfer
+2024-02-19,family,350.0,,369.61,Other
+2024-02-19,savings deposit,,-700.0,19.61,Other
+2024-02-18,airtime,,-10.0,719.61,Paybill / Utility Payment
+2024-02-17,airtime,,-10.0,729.61,Paybill / Utility Payment
+2024-02-17,airtime,,-20.0,739.61,Paybill / Utility Payment
+2024-02-17,supermarket expenses,,-70.0,759.61,Merchant Purchase
+2024-02-17,airtime,,-5.0,829.61,Airtime / Data
+2024-02-17,airtime,,-15.0,834.61,Other
+2024-02-17,airtime,,-15.0,849.61,Other
+2024-02-16,supermarket expenses,,-70.0,864.61,Merchant Purchase
+2024-02-16,airtime,,-15.0,934.61,Other
+2024-02-15,supermarket expenses,,-120.0,949.61,Merchant Purchase
+2024-02-14,sent to friends,,-100.0,1069.61,Peer Transfer
+2024-02-14,transport,,-50.0,1169.61,Peer Transfer
+2024-02-14,airtime,,-15.0,1219.61,Other
+2024-02-14,philanthropy,,-50.0,1234.61,Merchant Purchase
+2024-02-14,airtime,,-15.0,1284.61,Other
+2024-02-14,food,,-80.0,1299.61,Peer Transfer
+2024-02-14,transaction cost,,-7.0,1379.61,Transaction Cost
+2024-02-14,food,,-130.0,1386.61,Peer Transfer
+2024-02-14,airtime,,-10.0,1516.61,Airtime / Data
+2024-02-14,transport,,-50.0,1526.61,Peer Transfer
+2024-02-14,transport,,-50.0,1576.61,Small Business Payment
+2024-02-14,food,,-30.0,1626.61,Small Business Payment
+2024-02-14,airtime,,-20.0,1656.61,Airtime / Data
+2024-02-14,transport,,-50.0,1676.61,Peer Transfer
+2024-02-14,electricity,,-50.0,1726.61,Paybill / Utility Payment
+2024-02-13,airtime,,-10.0,1776.61,Airtime / Data
+2024-02-13,transaction cost,,-7.0,1786.61,Transaction Cost
+2024-02-13,transport,,-310.0,1793.61,Peer Transfer
+2024-02-13,airtime,,-15.0,2103.61,Other
+2024-02-13,transaction cost,,-25.0,2118.61,Transaction Cost
+2024-02-13,drycleaners,,-2700.0,2143.61,Paybill / Utility Payment
+2024-02-13,airtime,,-10.0,4843.61,Airtime / Data
+2024-02-13,other expenses,,-20.0,5189.61,Peer Transfer
+2024-02-13,family,5000.0,,5209.61,Other
+2024-02-13,food,,-90.0,209.61,Merchant Purchase
+2024-02-13,airtime,,-15.0,299.61,Other
+2024-02-13,other expenses,,-50.0,314.61,Small Business Payment
+2024-02-13,airtime,,-20.0,364.61,Airtime / Data
+2024-02-13,transport,,-50.0,384.61,Peer Transfer
+2024-02-13,family,360.0,,434.61,Other
+2024-02-12,airtime,,-15.0,74.61,Other
+2024-02-12,airtime,,-15.0,89.61,Other
+2024-02-12,airtime,,-15.0,104.61,Other
+2024-02-12,transport,,-50.0,119.61,Peer Transfer
+2024-02-12,transaction cost,,-7.0,169.61,Transaction Cost
+2024-02-12,health,,-200.0,176.61,Peer Transfer
+2024-02-12,transport,,-40.0,376.61,Peer Transfer
+2024-02-12,health,,-150.0,416.61,Merchant Purchase
+2024-02-12,supermarket expenses,,-658.0,566.61,Merchant Purchase
+2024-02-12,family,600.0,,1224.61,Other
+2024-02-12,family,310.0,,624.61,Other
+2024-02-12,airtime,,-15.0,314.61,Other
+2024-02-12,food,,-80.0,329.61,Paybill / Utility Payment
+2024-02-12,airtime,,-15.0,429.61,Other
+2024-02-12,airtime,,-15.0,444.61,Other
+2024-02-12,transport,,-50.0,459.61,Small Business Payment
+2024-02-12,airtime,,-20.0,509.61,Airtime / Data
+2024-02-12,transport,,-50.0,529.61,Other
+2024-02-12,family,400.0,,579.61,Other
+2024-02-12,airtime,,-20.0,179.61,Airtime / Data
+2024-02-11,airtime,,-15.0,199.61,Other
+2024-02-11,supermarket expenses,,-80.0,239.61,Merchant Purchase
+2024-02-11,food,,-45.0,319.61,Merchant Purchase
+2024-02-11,airtime,,-5.0,364.61,Airtime / Data
+2024-02-10,transport,,-90.0,369.61,Peer Transfer
+2024-02-10,supermarket expenses,,-65.0,459.61,Merchant Purchase
+2024-02-10,airtime,,-15.0,524.61,Other
+2024-02-10,airtime,,-15.0,539.61,Other
+2024-02-10,supermarket expenses,,-70.0,554.61,Merchant Purchase
+2024-02-10,airtime,,-15.0,624.61,Other
+2024-02-10,supermarket expenses,,-60.0,639.61,Merchant Purchase
+2024-02-10,airtime,,-5.0,699.61,Airtime / Data
+2024-02-09,airtime,,-10.0,704.61,Airtime / Data
+2024-02-09,health,,-135.0,714.61,Merchant Purchase
+2024-02-09,health,,-90.0,849.61,Merchant Purchase
+2024-02-09,transport,,-50.0,939.61,Peer Transfer
+2024-02-09,health,,-200.0,989.61,Merchant Purchase
+2024-02-09,family,200.0,,1189.61,Other
+2024-02-09,transport,,-50.0,989.61,Peer Transfer
+2024-02-09,sent to friends,,-65.0,1039.61,Peer Transfer
+2024-02-09,personal expenditures,,-200.0,1126.61,Peer Transfer
+2024-02-09,airtime,,-15.0,1326.61,Other
+2024-02-09,airtime,,-20.0,1341.61,Airtime / Data
+2024-02-09,transport,,-30.0,1371.61,Peer Transfer
+2024-02-09,transport,,-50.0,1401.61,Peer Transfer
+2024-02-09,supermarket expenses,,-15.0,1451.61,Merchant Purchase
+2024-02-09,family,1029.0,,1466.61,Other
+2024-02-08,family,350.0,,437.61,Other
+2024-02-08,airtime,,-5.0,87.61,Airtime / Data
+2024-02-07,electricity,,-25.0,92.61,Paybill / Utility Payment
+2024-02-07,transport,,-30.0,117.61,Peer Transfer
+2024-02-07,transport,,-50.0,147.61,Small Business Payment
+2024-02-07,supermarket expenses,,-124.0,197.61,Merchant Purchase
+2024-02-07,transport,,-30.0,321.61,Peer Transfer
+2024-02-06,family,310.0,,351.61,Other
+2024-02-05,airtime,,-30.0,41.61,Paybill / Utility Payment
+2024-02-05,airtime,,-20.0,71.61,Airtime / Data
+2024-02-05,food,,-70.0,91.61,Small Business Payment
+2024-02-05,kcb,150.0,,161.61,Other
+2024-02-05,airtime,,-20.0,11.61,Airtime / Data
+2024-02-05,food,,-90.0,31.61,Peer Transfer
+2024-02-05,kcb,100.0,,121.61,Other
+2024-02-05,airtime,,-5.0,21.61,Airtime / Data
+2024-02-05,transport,,-50.0,26.61,Small Business Payment
+2024-02-04,supermarket expenses,,-35.0,76.61,Merchant Purchase
+2024-02-04,kcb,100.0,,111.61,Other
+2024-02-03,supermarket expenses,,-80.0,11.61,Merchant Purchase
+2024-02-03,transaction cost,,-7.0,91.61,Transaction Cost
+2024-02-03,personal expenditures,,-300.0,98.61,Peer Transfer
+2024-02-03,family,300.0,,398.61,Other
+2024-02-03,airtime,,-15.0,98.61,Other
+2024-02-03,kcb,100.0,,113.61,Other
+2024-02-03,airtime,,-5.0,13.61,Airtime / Data
+2024-02-03,other expenses,,-15.0,18.61,Peer Transfer
+2024-02-03,airtime,,-15.0,33.61,Other
+2024-02-02,philanthropy,,-30.0,48.61,Merchant Purchase
+2024-02-02,airtime,,-20.0,78.61,Paybill / Utility Payment
+2024-02-02,airtime,,-10.0,98.61,Paybill / Utility Payment
+2024-02-02,transport,,-60.0,108.61,Peer Transfer
+2024-02-02,health,,-100.0,168.61,Small Business Payment
+2024-02-02,crotchet,,-340.0,268.61,Merchant Purchase
+2024-02-02,kcb,200.0,,608.61,Other
+2024-02-02,savings withdrawal,150.0,,408.61,Other
+2024-02-02,transaction cost,,-11.0,258.61,Other
+2024-02-02,other expenses,,-100.0,269.61,Agent Cash Withdrawal
+2024-02-02,other expenses,,-900.0,369.61,Merchant Purchase
+2024-02-02,kcb,400.0,,1269.61,Other
+2024-02-02,airtime,,-5.0,869.61,Airtime / Data
+2024-02-02,airtime,,-15.0,874.61,Other
+2024-02-02,food,,-100.0,889.61,Peer Transfer
+2024-02-02,transport,,-50.0,989.61,Peer Transfer
+2024-02-02,transport,,-50.0,1039.61,Peer Transfer
+2024-02-02,airtime,,-20.0,1089.61,Airtime / Data
+2024-02-02,transport,,-50.0,1109.61,Peer Transfer
+2024-02-02,family,1000.0,,1159.61,Other
+2024-02-02,friends,150.0,,159.61,Other
+2024-02-01,airtime,,-5.0,9.61,Airtime / Data
+2024-02-01,transport,,-50.0,14.61,Peer Transfer
+2024-02-01,savings withdrawal,20.0,,64.61,Other
+2024-02-01,other expenses,,-10.0,44.61,Peer Transfer
+2024-02-01,savings withdrawal,50.0,,54.61,Other
+2024-02-01,other expenses,,-100.0,4.61,Small Business Payment
+2024-02-01,food,,-50.0,104.61,Merchant Purchase
+2024-02-01,family,140.0,,154.61,Other
+2024-02-01,airtime,,-20.0,14.61,Airtime / Data
+2024-02-01,food,,-50.0,34.61,Small Business Payment
+2024-02-01,transport,,-50.0,84.61,Other
+2024-01-31,food,,-70.0,134.61,Peer Transfer
+2024-01-31,airtime,,-20.0,204.61,Airtime / Data
+2024-01-31,other expenses,,-50.0,224.61,Small Business Payment
+2024-01-31,transport,,-50.0,274.61,Peer Transfer
+2024-01-31,savings withdrawal,300.0,,324.61,Other
+2024-01-30,savings deposit,,-200.0,24.61,Other
+2024-01-30,supermarket expenses,,-25.0,224.61,Merchant Purchase
+2024-01-30,transport,,-50.0,249.61,Peer Transfer
+2024-01-30,food,,-160.0,299.61,Merchant Purchase
+2024-01-30,airtime,,-10.0,459.61,Airtime / Data
+2024-01-30,family,300.0,,469.61,Other
+2024-01-29,airtime,,-20.0,169.61,Airtime / Data
+2024-01-29,transaction cost,,-7.0,189.61,Transaction Cost
+2024-01-29,other expenses,,-290.0,196.61,Peer Transfer
+2024-01-29,family,270.0,,486.61,Other
+2024-01-29,family,150.0,,216.61,Other
+2024-01-29,supermarket expenses,,-170.0,66.61,Merchant Purchase
+2024-01-29,family,200.0,,236.61,Other
+2024-01-29,airtime,,-5.0,36.61,Airtime / Data
+2024-01-29,transport,,-50.0,41.61,Small Business Payment
+2024-01-29,airtime,,-5.0,91.61,Airtime / Data
+2024-01-29,food,,-50.0,96.61,Merchant Purchase
+2024-01-29,savings withdrawal,100.0,,146.61,Other
+2024-01-29,other expenses,,-100.0,46.61,Small Business Payment
+2024-01-29,family,150.0,,176.61,Other
+2024-01-29,airtime,,-5.0,26.61,Airtime / Data
+2024-01-28,transport,,-50.0,31.61,Peer Transfer
+2024-01-28,savings withdrawal,50.0,,81.61,Other
+2024-01-28,transport,,-40.0,31.61,Peer Transfer
+2024-01-28,transport,,-50.0,71.61,Peer Transfer
+2024-01-28,savings withdrawal,100.0,,121.61,Other
+2024-01-28,airtime,,-10.0,21.61,Paybill / Utility Payment
+2024-01-28,airtime,,-10.0,31.61,Paybill / Utility Payment
+2024-01-28,airtime,,-5.0,41.61,Other
+2024-01-28,airtime,,-5.0,46.61,Other
+2024-01-28,church,,-50.0,51.61,Paybill / Utility Payment
+2024-01-28,supermarket expenses,,-160.0,101.61,Merchant Purchase
+2024-01-28,savings withdrawal,200.0,,261.61,Other
+2024-01-27,friends,,-100.0,61.61,Peer Transfer
+2024-01-27,savings withdrawal,100.0,,161.61,Other
+2024-01-27,airtime,,-25.0,61.61,Airtime / Data
+2024-01-26,transport,,-50.0,86.61,Peer Transfer
+2024-01-26,health,,-20.0,136.61,Merchant Purchase
+2024-01-26,airtime,,-5.0,156.61,Airtime / Data
+2024-01-26,transport,,-30.0,161.61,Peer Transfer
+2024-01-26,transaction cost,,-10.0,191.61,Transaction Cost
+2024-01-26,kcb,,-890.0,201.61,Paybill / Utility Payment
+2024-01-26,kcb,,-100.0,1091.61,Paybill / Utility Payment
+2024-01-26,airtime,,-15.0,1191.61,Other
+2024-01-26,other expenses,,-50.0,1206.61,Small Business Payment
+2024-01-26,transport,,-50.0,1256.61,Peer Transfer
+2024-01-26,family,1000.0,,1306.61,Other
+2024-01-26,family,300.0,,306.61,Other
+2024-01-26,airtime,,-5.0,6.61,Airtime / Data
+2024-01-25,savings deposit,,-200.0,11.61,Other
+2024-01-25,supermarket expenses,,-45.0,211.61,Merchant Purchase
+2024-01-25,transport,,-50.0,256.61,Peer Transfer
+2024-01-25,transport,,-30.0,306.61,Small Business Payment
+2024-01-25,family,200.0,,336.61,Other
+2024-01-25,transport,,-40.0,136.61,Peer Transfer
+2024-01-25,food,,-20.0,176.61,Peer Transfer
+2024-01-25,food,,-90.0,196.61,Peer Transfer
+2024-01-25,airtime,,-15.0,286.61,Other
+2024-01-25,transport,,-50.0,301.61,Peer Transfer
+2024-01-24,airtime,,-15.0,386.61,Other
+2024-01-24,food,,-80.0,401.61,Peer Transfer
+2024-01-24,savings deposit,,-500.0,481.61,Other
+2024-01-24,airtime,,-5.0,981.61,Airtime / Data
+2024-01-24,transport,,-30.0,986.61,Peer Transfer
+2024-01-24,airtime,,-20.0,1016.61,Airtime / Data
+2024-01-23,supermarket expenses,,-20.0,1036.61,Merchant Purchase
+2024-01-23,airtime,,-10.0,1056.61,Paybill / Utility Payment
+2024-01-23,transport,,-40.0,1066.61,Peer Transfer
+2024-01-23,food,,-30.0,1106.61,Merchant Purchase
+2024-01-23,supermarket expenses,,-231.0,1136.61,Merchant Purchase
+2024-01-22,electricity,,-50.0,1372.61,Paybill / Utility Payment
+2024-01-22,electricity,,-55.0,1422.61,Paybill / Utility Payment
+2024-01-22,electricity,,-30.0,1477.61,Paybill / Utility Payment
+2024-01-22,electricity,,-25.0,1507.61,Paybill / Utility Payment
+2024-01-22,transaction cost,,-7.0,1532.61,Transaction Cost
+2024-01-22,friends,,-300.0,1539.61,Peer Transfer
+2024-01-22,health,,-950.0,1839.61,Merchant Purchase
+2024-01-22,supermarket expenses,,-475.0,2789.61,Merchant Purchase
+2024-01-22,family,3052.0,,3264.61,Other
+2024-01-22,airtime,,-5.0,212.61,Airtime / Data
+2024-01-22,airtime,,-20.0,217.61,Airtime / Data
+2024-01-22,transport,,-50.0,237.61,Small Business Payment
+2024-01-22,transport,,-50.0,287.61,Peer Transfer
+2024-01-22,family,300.0,,337.61,Other
+2024-01-20,supermarket expenses,,-5.0,37.61,Merchant Purchase
+2024-01-20,airtime,,-5.0,42.61,Airtime / Data
+2024-01-19,electricity,,-25.0,47.61,Paybill / Utility Payment
+2024-01-19,philanthropy,,-30.0,72.61,Merchant Purchase
+2024-01-19,supermarket expenses,,-55.0,102.61,Merchant Purchase
+2024-01-19,transport,,-30.0,157.61,Peer Transfer
+2024-01-19,family,150.0,,187.61,Other
+2024-01-19,food,,-80.0,37.61,Peer Transfer
+2024-01-19,airtime,,-20.0,117.61,Airtime / Data
+2024-01-19,other expenses,,-40.0,137.61,Small Business Payment
+2024-01-19,airtime,,-15.0,177.61,Other
+2024-01-19,airtime,,-15.0,192.61,Other
+2024-01-19,family,150.0,,207.61,Other
+2024-01-19,food,,-50.0,57.61,Small Business Payment
+2024-01-19,transport,,-50.0,107.61,Peer Transfer
+2024-01-19,kcb,150.0,,157.61,Other
+2024-01-18,transport,,-50.0,12.61,Peer Transfer
+2024-01-18,transport,,-40.0,62.61,Peer Transfer
+2024-01-18,food,,-40.0,102.61,Merchant Purchase
+2024-01-18,airtime,,-5.0,142.61,Airtime / Data
+2024-01-18,transport,,-50.0,147.61,Peer Transfer
+2024-01-18,family,150.0,,197.61,Other
+2024-01-17,electricity,,-25.0,47.61,Paybill / Utility Payment
+2024-01-17,savings withdrawal,50.0,,72.61,Other
+2024-01-16,supermarket expenses,,-165.0,22.61,Merchant Purchase
+2024-01-16,health,,-90.0,187.61,Merchant Purchase
+2024-01-16,savings withdrawal,100.0,,277.61,Other
+2024-01-16,family,150.0,,177.61,Other
+2024-01-16,airtime,,-15.0,27.61,Other
+2024-01-15,transport,,-50.0,42.61,Peer Transfer
+2024-01-15,transport,,-70.0,92.61,Peer Transfer
+2024-01-15,friends,100.0,,162.61,Other
+2024-01-15,transaction cost,,-7.0,62.61,Transaction Cost
+2024-01-15,transport,,-270.0,69.61,Peer Transfer
+2024-01-15,friends,300.0,,339.61,Other
+2024-01-15,airtime,,-20.0,39.61,Transaction Cost
+2024-01-15,food,,-2200.0,59.61,Paybill / Utility Payment
+2024-01-15,friends,400.0,,2259.61,Other
+2024-01-15,savings withdrawal,500.0,,1859.61,Other
+2024-01-15,family,1000.0,,1359.61,Other
+2024-01-15,transaction cost,,-13.0,359.61,Transaction Cost
+2024-01-15,transport,,-520.0,372.61,Peer Transfer
+2024-01-15,transport,,-50.0,892.61,Peer Transfer
+2024-01-15,transport,,-70.0,942.61,Peer Transfer
+2024-01-15,airtime,,-15.0,1012.61,Other
+2024-01-15,airtime,,-25.0,1027.61,Paybill / Utility Payment
+2024-01-15,supermarket expenses,,-85.0,1052.61,Merchant Purchase
+2024-01-14,savings deposit,,-200.0,1137.61,Other
+2024-01-14,savings withdrawal,670.0,,1337.61,Other
+2024-01-14,savings withdrawal,650.0,,667.61,Other
+2024-01-13,airtime,,-10.0,17.61,Paybill / Utility Payment
+2024-01-13,transport,,-70.0,27.61,Peer Transfer
+2024-01-13,airtime,,-15.0,97.61,Other
+2024-01-13,savings withdrawal,100.0,,112.61,Other
+2024-01-13,food,,-50.0,12.61,Paybill / Utility Payment
+2024-01-13,transaction cost,,-10.0,62.61,Transaction Cost
+2024-01-13,transport,,-800.0,72.61,Paybill / Utility Payment
+2024-01-13,sent to friends,,-50.0,872.61,Peer Transfer
+2024-01-13,food,,-600.0,922.61,Merchant Purchase
+2024-01-13,other expenses,,-240.0,1522.61,Merchant Purchase
+2024-01-13,family,1600.0,,1762.61,Other
+2024-01-13,airtime,,-15.0,162.61,Other
+2024-01-12,airtime,,-15.0,192.61,Other
+2024-01-12,savings withdrawal,200.0,,207.61,Other
+2024-01-12,airtime,,-20.0,7.61,Other
+2024-01-12,food,,-40.0,27.61,Merchant Purchase
+2024-01-12,food,,-40.0,67.61,Peer Transfer
+2024-01-12,transaction cost,,-7.0,107.61,Transaction Cost
+2024-01-12,other expenses,,-500.0,114.61,Peer Transfer
+2024-01-12,family,530.0,,614.61,Other
+2024-01-12,airtime,,-15.0,84.61,Other
+2024-01-12,other expenses,,-435.0,99.61,Merchant Purchase
+2024-01-12,savings withdrawal,500.0,,534.61,Other
+2024-01-12,food,,-70.0,34.61,Merchant Purchase
+2024-01-12,savings withdrawal,50.0,,104.61,Other
+2024-01-12,airtime,,-15.0,54.61,Other
+2024-01-12,airtime,,-15.0,69.61,Other
+2024-01-11,airtime,,-15.0,84.61,Other
+2024-01-11,airtime,,-15.0,99.61,Other
+2024-01-11,airtime,,-15.0,114.61,Other
+2024-01-11,airtime,,-15.0,129.61,Other
+2024-01-11,airtime,,-15.0,144.61,Other
+2024-01-10,airtime,,-15.0,159.61,Other
+2024-01-10,airtime,,-15.0,174.61,Other
+2024-01-10,airtime,,-6.0,189.61,Airtime / Data
+2024-01-10,airtime,,-5.0,195.61,Airtime / Data
+2024-01-10,savings withdrawal,200.0,,200.61,Other
+2024-01-10,airtime,,-12.0,0.61,Airtime / Data
+2024-01-10,airtime,,-20.0,12.61,Airtime / Data
+2024-01-10,personal expenditures,,-600.0,32.61,Merchant Purchase
+2024-01-10,savings withdrawal,500.0,,632.61,Other
+2024-01-10,food,,-90.0,132.61,Merchant Purchase
+2024-01-10,food,,-50.0,222.61,Small Business Payment
+2024-01-10,food,,-100.0,272.61,Small Business Payment
+2024-01-10,transaction cost,,-7.0,372.61,Transaction Cost
+2024-01-10,personal expenditures,,-300.0,379.61,Peer Transfer
+2024-01-10,savings withdrawal,500.0,,679.61,Other
+2024-01-10,transaction cost,,-7.0,179.61,Transaction Cost
+2024-01-10,food,,-150.0,186.61,Peer Transfer
+2024-01-10,airtime,,-20.0,336.61,Airtime / Data
+2024-01-10,airtime,,-10.0,356.61,Paybill / Utility Payment
+2024-01-10,airtime,,-15.0,366.61,Other
+2024-01-09,airtime,,-15.0,396.61,Other
+2024-01-09,airtime,,-15.0,411.61,Other
+2024-01-09,airtime,,-10.0,426.61,Other
+2024-01-09,airtime,,-5.0,436.61,Airtime / Data
+2024-01-09,other expenses,,-55.0,441.61,Peer Transfer
+2024-01-09,airtime,,-20.0,496.61,Airtime / Data
+2024-01-09,airtime,,-15.0,516.61,Other
+2024-01-09,airtime,,-20.0,531.61,Airtime / Data
+2024-01-09,airtime,,-15.0,551.61,Other
+2024-01-09,airtime,,-15.0,566.61,Other
+2024-01-08,airtime,,-15.0,581.61,Other
+2024-01-08,airtime,,-15.0,596.61,Other
+2024-01-08,airtime,,-15.0,611.61,Other
+2024-01-08,airtime,,-15.0,626.61,Paybill / Utility Payment
+2024-01-08,philanthropy,,-20.0,641.61,Merchant Purchase
+2024-01-08,airtime,,-15.0,661.61,Other
+2024-01-08,spotify,,-207.0,676.61,Other
+2024-01-08,airtime,,-15.0,883.61,Other
+2024-01-08,airtime,,-15.0,898.61,Other
+2024-01-08,airtime,,-15.0,913.61,Other
+2024-01-08,sent to family,,-150.0,928.61,Merchant Purchase
+2024-01-08,sent to family,,-100.0,1078.61,Merchant Purchase
+2024-01-08,transport,,-100.0,1178.61,Peer Transfer
+2024-01-08,airtime,,-15.0,1278.61,Other
+2024-01-08,transaction cost,,-7.0,1293.61,Transaction Cost
+2024-01-08,transport,,-150.0,1300.61,Peer Transfer
+2024-01-07,airtime,,-15.0,1450.61,Other
+2024-01-07,airtime,,-15.0,1465.61,Other
+2024-01-07,airtime,,-15.0,1480.61,Other
+2024-01-07,transaction cost,,-7.0,1495.61,Transaction Cost
+2024-01-07,transport,,-300.0,1502.61,Peer Transfer
+2024-01-07,airtime,,-15.0,1802.61,Other
+2024-01-07,airtime,,-15.0,1817.61,Other
+2024-01-07,airtime,,-15.0,1832.61,Other
+2024-01-07,transaction cost,,-5.0,1847.61,Transaction Cost
+2024-01-07,sent to family,,-280.0,1852.61,Paybill / Utility Payment
+2024-01-07,airtime,,-10.0,2132.61,Other
+2024-01-07,other expenses,,-50.0,2142.61,Peer Transfer
+2024-01-07,other expenses,,-80.0,2192.61,Peer Transfer
+2024-01-07,airtime,,-15.0,2312.61,Other
+2024-01-06,friends,20.0,,2327.61,Other
+2024-01-06,airtime,,-15.0,2307.61,Other
+2024-01-06,airtime,,-15.0,2322.61,Other
+2024-01-06,airtime,,-15.0,2337.61,Other
+2024-01-06,airtime,,-15.0,2352.61,Other
+2024-01-06,airtime,,-15.0,2367.61,Other
+2024-01-05,airtime,,-15.0,2382.61,Other
+2024-01-05,airtime,,-15.0,2397.61,Other
+2024-01-05,airtime,,-15.0,2412.61,Other
+2024-01-05,transaction cost,,-2.0,2427.61,Transaction Cost
+2024-01-05,other expenses,,-20.0,2429.61,Paybill / Utility Payment
+2024-01-05,sent to family,,-95.0,2449.61,Merchant Purchase
+2024-01-05,food,,-100.0,2544.61,Peer Transfer
+2024-01-05,transaction cost,,-7.0,2644.61,Transaction Cost
+2024-01-05,sent to family,,-200.0,2651.61,Small Business Payment
+2024-01-05,sent to family,,-50.0,2851.61,Merchant Purchase
+2024-01-05,sent to family,,-35.0,2901.61,Merchant Purchase
+2024-01-05,sent to family,,-120.0,2936.61,Paybill / Utility Payment
+2024-01-05,airtime,,-15.0,3056.61,Other
+2024-01-05,airtime,,-10.0,3071.61,Paybill / Utility Payment
+2024-01-05,other expenses,,-100.0,3081.61,Merchant Purchase
+2024-01-05,other expenses,,-30.0,3181.61,Peer Transfer
+2024-01-05,airtime,,-5.0,3211.61,Airtime / Data
+2024-01-05,food,,-40.0,3216.61,Peer Transfer
+2024-01-05,airtime,,-15.0,3256.61,Other
+2024-01-05,airtime,,-20.0,3271.61,Other
+2024-01-04,sent to family,,-10.0,3291.61,Peer Transfer
+2024-01-04,philanthropy,,-30.0,3301.61,Merchant Purchase
+2024-01-04,transport,,-100.0,3331.61,Peer Transfer
+2024-01-04,airtime,,-15.0,3431.61,Other
+2024-01-04,airtime,,-15.0,3446.61,Other
+2024-01-04,airtime,,-15.0,3461.61,Other
+2024-01-04,airtime,,-10.0,3476.61,Paybill / Utility Payment
+2024-01-04,airtime,,-15.0,3486.61,Other
+2024-01-04,transaction cost,,-33.0,3501.61,Transaction Cost
+2024-01-04,sent to family,,-2029.0,3534.61,Peer Transfer
+2024-01-04,savings deposit,,-4000.0,5563.61,Other
+2024-01-04,transaction cost,,-10.0,9673.61,Transaction Cost
+2024-01-04,sent to family,,-2290.0,13685.61,Merchant Purchase
+2024-01-04,sent to family,,-100.0,15975.61,Peer Transfer
+2024-01-04,airtime,,-15.0,16075.61,Other
+2024-01-03,airtime,,-15.0,16090.61,Other
+2024-01-03,airtime,,-15.0,16105.61,Other
+2024-01-03,airtime,,-15.0,16120.61,Other
+2024-01-03,airtime,,-15.0,16135.61,Other
+2024-01-03,airtime,,-15.0,16150.61,Other
+2024-01-03,airtime,,-15.0,16180.61,Other
+2024-01-03,transaction cost,,-23.0,16195.61,Transaction Cost
+2024-01-03,sent to family,,-1029.0,16218.61,Peer Transfer
+2024-01-03,airtime,,-10.0,17262.61,Other
+2024-01-03,airtime,,-15.0,17272.61,Other
+2024-01-02,transaction cost,,-7.0,17332.61,Transaction Cost
+2024-01-02,transport,,-150.0,17339.61,Peer Transfer
+2024-01-02,transport,,-150.0,17496.61,Peer Transfer
+2024-01-02,transaction cost,,-7.0,17646.61,Transaction Cost
+2024-01-02,health,,-280.0,17653.61,Peer Transfer
+2024-01-02,sent to family,,-1500.0,17956.61,Peer Transfer
+2024-01-02,transaction cost,,-13.0,19456.61,Transaction Cost
+2024-01-02,health,,-750.0,19469.61,Peer Transfer
+2024-01-02,transport,,-50.0,20219.61,Peer Transfer
+2024-01-02,family,20185.0,,20269.61,Other
+2024-01-02,transport,,-50.0,84.61,Peer Transfer
+2024-01-02,airtime,,-125.0,134.61,Other
+2024-01-02,transport,,-50.0,259.61,Peer Transfer
+2024-01-02,kcb,300.0,,309.61,Other
+2024-01-02,health,,-65.0,9.61,Peer Transfer
+2024-01-02,airtime,,-15.0,74.61,Other
+2024-01-02,health,,-30.0,89.61,Peer Transfer
+2024-01-01,airtime,,-15.0,119.61,Other
+2024-01-01,airtime,,-15.0,134.61,Other
+2024-01-01,airtime,,-15.0,164.61,Other
+2024-01-01,airtime,,-30.0,179.61,Paybill / Utility Payment
+2024-01-01,airtime,,-20.0,209.61,Other
+2024-01-01,airtime,,-30.0,229.61,Paybill / Utility Payment
+2024-01-01,airtime,,-15.0,259.61,Other
+2024-01-01,airtime,,-15.0,274.61,Paybill / Utility Payment
+2024-01-01,sent to family,,-50.0,289.61,Peer Transfer
+2023-12-31,airtime,,-15.0,339.61,Other
+2023-12-31,airtime,,-15.0,354.61,Other
+2023-12-31,airtime,,-15.0,369.61,Other
+2023-12-31,airtime,,-15.0,384.61,Other
+2023-12-31,airtime,,-15.0,399.61,Other
+2023-12-31,airtime,,-20.0,414.61,Other
+2023-12-31,airtime,,-20.0,434.61,Paybill / Utility Payment
+2023-12-31,airtime,,-15.0,454.61,Other
+2023-12-31,transport,,-50.0,469.61,Peer Transfer
+2023-12-31,transaction cost,,-11.0,519.61,Other
+2023-12-31,sent to family,,-50.0,530.61,Agent Cash Withdrawal
+2023-12-31,food,,-30.0,580.61,Peer Transfer
+2023-12-31,family,500.0,,610.61,Other
+2023-12-31,airtime,,-5.0,110.61,Airtime / Data
+2023-12-31,airtime,,-15.0,115.61,Other
+2023-12-31,airtime,,-70.0,130.61,Other
+2023-12-31,kcb,200.0,,200.61,Other
+2023-12-30,airtime,,-15.0,0.61,Other
+2023-12-30,health,,-15.0,15.61,Peer Transfer
+2023-12-30,other expenses,,-15.0,30.61,Peer Transfer
+2023-12-30,airtime,,-15.0,45.61,Unclassified
+2023-12-30,airtime,,-25.0,60.61,Paybill / Utility Payment
+2023-12-30,personal expenditures,,-75.0,85.61,Small Business Payment
+2023-12-30,kcb,150.0,,160.61,Other
+2023-12-30,airtime,,-15.0,10.61,Other
+2023-12-30,airtime,,-20.0,25.61,Paybill / Utility Payment
+2023-12-30,airtime,,-15.0,45.61,Unclassified
+2023-12-29,airtime,,-15.0,60.61,Other
+2023-12-29,transaction cost,,-2.0,75.61,Transaction Cost
+2023-12-29,other expenses,,-10.0,77.61,Paybill / Utility Payment
+2023-12-29,airtime,,-15.0,87.61,Other
+2023-12-29,airtime,,-15.0,102.61,Other
+2023-12-29,airtime,,-15.0,117.61,Other
+2023-12-29,food,,-20.0,132.61,Peer Transfer
+2023-12-29,food,,-50.0,152.61,Peer Transfer
+2023-12-29,kcb,200.0,,202.61,Other
+2023-12-29,airtime,,-5.0,2.61,Airtime / Data
+2023-12-29,airtime,,-15.0,7.61,Unclassified
+2023-12-29,family,15.0,,22.61,Other
+2023-12-29,airtime,,-15.0,7.61,Unclassified
+2023-12-29,airtime,,-30.0,22.61,Paybill / Utility Payment
+2023-12-29,airtime,,-15.0,52.61,Other
+2023-12-29,airtime,,-15.0,67.61,Other
+2023-12-28,airtime,,-20.0,82.61,Unclassified
+2023-12-28,kcb,100.0,,102.61,Other
+2023-12-28,airtime,,-15.0,2.61,Other
+2023-12-28,airtime,,-15.0,17.61,Paybill / Utility Payment
+2023-12-28,airtime,,-20.0,62.61,Other
+2023-12-28,family,,-20.0,82.61,Unclassified
+2023-12-28,other expenses,,-100.0,102.61,Paybill / Utility Payment
+2023-12-28,kcb,200.0,,202.61,Other
+2023-12-28,airtime,,-20.0,2.61,Paybill / Utility Payment
+2023-12-28,airtime,,-15.0,22.61,Other
+2023-12-27,airtime,,-50.0,57.61,Other
+2023-12-27,kcb,100.0,,107.61,Other
+2023-12-27,airtime,,-5.0,7.61,Airtime / Data
+2023-12-27,airtime,,-50.0,12.61,Other
+2023-12-27,airtime,,-20.0,62.61,Paybill / Utility Payment
+2023-12-27,airtime,,-50.0,82.61,Other
+2023-12-26,airtime,,-15.0,132.61,Other
+2023-12-26,airtime,,-50.0,147.61,Other
+2023-12-26,family,100.0,,197.61,Other
+2023-12-26,transaction cost,,-23.0,97.61,Transaction Cost
+2023-12-26,sent to family,,-1500.0,120.61,Peer Transfer
+2023-12-26,kcb,1500.0,,1620.61,Other
+2023-12-26,transaction cost,,-7.0,120.61,Transaction Cost
+2023-12-26,food,,-450.0,127.61,Peer Transfer
+2023-12-26,kcb,500.0,,577.61,Other
+2023-12-26,airtime,,-5.0,77.61,Airtime / Data
+2023-12-26,family,,-100.0,82.61,Other
+2023-12-26,church,,-50.0,262.61,Paybill / Utility Payment
+2023-12-26,airtime,,-15.0,312.61,Other
+2023-12-26,transaction cost,,-13.0,327.61,Transaction Cost
+2023-12-26,sent to family,,-800.0,340.61,Peer Transfer
+2023-12-26,kcb,800.0,,1140.61,Other
+2023-12-26,airtime,,-5.0,340.61,Airtime / Data
+2023-12-26,airtime,,-19.0,345.61,Other
+2023-12-25,airtime,,-15.0,364.61,Other
+2023-12-25,airtime,,-15.0,394.61,Other
+2023-12-25,airtime,,-15.0,409.61,Other
+2023-12-25,transport,,-30.0,424.61,Peer Transfer
+2023-12-25,airtime,,-5.0,714.61,Airtime / Data
+2023-12-25,airtime,,-10.0,719.61,Airtime / Data
+2023-12-25,family,,-40.0,729.61,Peer Transfer
+2023-12-25,airtime,,-20.0,769.61,Paybill / Utility Payment
+2023-12-24,airtime,,-50.0,789.61,Other
+2023-12-24,airtime,,-20.0,839.61,Paybill / Utility Payment
+2023-12-24,airtime,,-20.0,859.61,Paybill / Utility Payment
+2023-12-24,transaction cost,,-5.0,879.61,Transaction Cost
+2023-12-24,family,,-200.0,884.61,Paybill / Utility Payment
+2023-12-24,family,40.0,,1084.61,Other
+2023-12-24,kcb,50.0,,1044.61,Other
+2023-12-24,transaction cost,,-7.0,994.61,Transaction Cost
+2023-12-24,other expenses,,-200.0,1001.61,Peer Transfer
+2023-12-24,family,1000.0,,1201.61,Other
+2023-12-24,transaction cost,,-13.0,201.61,Transaction Cost
+2023-12-24,family,,-1000.0,214.61,Peer Transfer
+2023-12-24,airtime,,-55.0,1214.61,Other
+2023-12-23,airtime,,-20.0,269.61,Paybill / Utility Payment
+2023-12-23,sent to friends,,-100.0,289.61,Peer Transfer
+2023-12-23,family,70.0,,389.61,Other
+2023-12-23,supermarket expenses,,-345.0,319.61,Merchant Purchase
+2023-12-23,family,200.0,,664.61,Other
+2023-12-23,transaction cost,,-7.0,464.61,Transaction Cost
+2023-12-23,sent to family,,-500.0,471.61,Peer Transfer
+2023-12-23,other expenses,,-70.0,1021.61,Peer Transfer
+2023-12-23,other expenses,,-80.0,1091.61,Merchant Purchase
+2023-12-23,supermarket expenses,,-339.0,1171.61,Merchant Purchase
+2023-12-23,transaction cost,,-7.0,1510.61,Transaction Cost
+2023-12-23,personal expenditures,,-450.0,1517.61,Peer Transfer
+2023-12-23,family,150.0,,1967.61,Other
+2023-12-23,other expenses,,-50.0,1817.61,Peer Transfer
+2023-12-23,supermarket expenses,,-170.0,1867.61,Merchant Purchase
+2023-12-22,transaction cost,,-13.0,2037.61,Transaction Cost
+2023-12-22,transport,,-520.0,2050.61,Peer Transfer
+2023-12-22,personal expenditures,,-3190.0,2570.61,Merchant Purchase
+2023-12-22,transaction cost,,-7.0,5760.61,Transaction Cost
+2023-12-22,transport,,-250.0,5767.61,Peer Transfer
+2023-12-22,transaction cost,,-29.0,6017.61,Other
+2023-12-22,personal expenditures,,-700.0,6046.61,Agent Cash Withdrawal
+2023-12-22,transaction cost,,-52.0,6746.61,Other
+2023-12-22,personal expenditures,,-3000.0,6798.61,Agent Cash Withdrawal
+2023-12-22,family,1000.0,,9798.61,Other
+2023-12-22,transaction cost,,-29.0,8798.61,Other
+2023-12-22,personal expenditures,,-1000.0,8827.61,Agent Cash Withdrawal
+2023-12-22,transaction cost,,-69.0,9827.61,Other
+2023-12-22,personal expenditures,,-4300.0,9896.61,Agent Cash Withdrawal
+2023-12-22,family,1300.0,,14196.61,Other
+2023-12-22,transaction cost,,-13.0,12896.61,Transaction Cost
+2023-12-22,personal expenditures,,-600.0,12909.61,Peer Transfer
+2023-12-22,family,1000.0,,13509.61,Other
+2023-12-22,transaction cost,,-53.0,12509.61,Transaction Cost
+2023-12-22,personal expenditures,,-2950.0,12562.61,Peer Transfer
+2023-12-22,transaction cost,,-29.0,15512.61,Other
+2023-12-22,personal expenditures,,-750.0,15541.61,Agent Cash Withdrawal
+2023-12-22,transaction cost,,-7.0,16291.61,Transaction Cost
+2023-12-22,personal expenditures,,-200.0,16298.61,Peer Transfer
+2023-12-22,airtime,,-15.0,16498.61,Other
+2023-12-22,airtime,,-25.0,16513.61,Other
+2023-12-22,food,,-520.0,16538.61,Merchant Purchase
+2023-12-22,personal expenditures,,-2500.0,17058.61,Merchant Purchase
+2023-12-22,airtime,,-15.0,19558.61,Other
+2023-12-22,transaction cost,,-7.0,19573.61,Transaction Cost
+2023-12-22,personal expenditures,,-150.0,19580.61,Peer Transfer
+2023-12-22,transaction cost,,-7.0,19730.61,Transaction Cost
+2023-12-22,transport,,-380.0,19737.61,Peer Transfer
+2023-12-22,kcb,20000.0,,20117.61,Other
+2023-12-22,airtime,,-10.0,117.61,Airtime / Data
+2023-12-22,airtime,,-20.0,127.61,Other
+2023-12-21,airtime,,-30.0,97.61,Paybill / Utility Payment
+2023-12-20,transaction cost,,-7.0,127.61,Transaction Cost
+2023-12-20,transport,,-450.0,134.61,Peer Transfer
+2023-12-20,kcb,500.0,,584.61,Other
+2023-12-20,nails,,-700.0,84.61,Merchant Purchase
+2023-12-20,airtime,,-10.0,784.61,Other
+2023-12-20,family,90.0,,794.61,Other
+2023-12-20,family,100.0,,704.61,Other
+2023-12-20,family,100.0,,604.61,Other
+2023-12-20,transport,,-50.0,504.61,Peer Transfer
+2023-12-20,airtime,,-25.0,554.61,Other
+2023-12-20,other expenses,,-300.0,579.61,Merchant Purchase
+2023-12-20,transaction cost,,-2.0,879.61,Transaction Cost
+2023-12-20,airtime,,-20.0,881.61,Paybill / Utility Payment
+2023-12-20,other expenses,,-50.0,901.61,Peer Transfer
+2023-12-20,transport,,-50.0,951.61,Peer Transfer
+2023-12-20,kcb,1000.0,,1001.61,Other
+2023-12-20,transaction cost,,-7.0,1.61,Transaction Cost
+2023-12-20,family,,-300.0,8.61,Peer Transfer
+2023-12-20,savings withdrawal,300.0,,308.61,Other
+2023-12-20,airtime,,-50.0,8.61,Paybill / Utility Payment
+2023-12-19,supermarket expenses,,-25.0,58.61,Merchant Purchase
+2023-12-19,supermarket expenses,,-60.0,83.61,Merchant Purchase
+2023-12-19,transport,,-50.0,143.61,Peer Transfer
+2023-12-19,family,20.0,,193.61,Other
+2023-12-19,transport,,-50.0,173.61,Small Business Payment
+2023-12-19,food,,-10.0,223.61,Peer Transfer
+2023-12-19,food,,-95.0,233.61,Peer Transfer
+2023-12-19,airtime,,-10.0,328.61,Airtime / Data
+2023-12-19,family,60.0,,338.61,Other
+2023-12-19,transaction cost,,-2.0,278.61,Transaction Cost
+2023-12-19,airtime,,-20.0,280.61,Paybill / Utility Payment
+2023-12-19,airtime,,-15.0,300.61,Other
+2023-12-19,food,,-30.0,315.61,Paybill / Utility Payment
+2023-12-19,transport,,-50.0,345.61,Peer Transfer
+2023-12-19,other expenses,,-10.0,395.61,Merchant Purchase
+2023-12-19,transport,,-50.0,405.61,Peer Transfer
+2023-12-19,family,360.0,,455.61,Other
+2023-12-18,transaction cost,,-7.0,95.61,Transaction Cost
+2023-12-18,sent to friends,,-200.0,102.61,Peer Transfer
+2023-12-18,transport,,-50.0,302.61,Peer Transfer
+2023-12-18,food,,-50.0,352.61,Merchant Purchase
+2023-12-18,food,,-820.0,402.61,Merchant Purchase
+2023-12-18,transport,,-50.0,1222.61,Peer Transfer
+2023-12-18,kcb,1000.0,,1272.61,Other
+2023-12-18,airtime,,-10.0,272.61,Airtime / Data
+2023-12-18,transport,,-50.0,282.61,Peer Transfer
+2023-12-18,supermarket expenses,,-99.0,332.61,Merchant Purchase
+2023-12-18,airtime,,-30.0,431.61,Paybill / Utility Payment
+2023-12-18,airtime,,-15.0,461.61,Other
+2023-12-18,transport,,-50.0,476.61,Peer Transfer
+2023-12-18,airtime,,-15.0,526.61,Other
+2023-12-18,airtime,,-10.0,710.61,Airtime / Data
+2023-12-17,airtime,,-5.0,720.61,Airtime / Data
+2023-12-17,supermarket expenses,,-145.0,725.61,Merchant Purchase
+2023-12-17,supermarket expenses,,-15.0,870.61,Merchant Purchase
+2023-12-17,health,,-90.0,885.61,Merchant Purchase
+2023-12-17,airtime,,-5.0,975.61,Airtime / Data
+2023-12-16,airtime,,-20.0,980.61,Paybill / Utility Payment
+2023-12-16,transaction cost,,-5.0,1000.61,Transaction Cost
+2023-12-16,spotify,,-164.0,1005.61,Paybill / Utility Payment
+2023-12-16,transaction cost,,-2.0,1169.61,Transaction Cost
+2023-12-16,airtime,,-5.0,1171.61,Paybill / Utility Payment
+2023-12-16,airtime,,-100.0,1176.61,Airtime / Data
+2023-12-16,airtime,,-30.0,1276.61,Paybill / Utility Payment
+2023-12-16,transport,,-50.0,1306.61,Peer Transfer
+2023-12-16,airtime,,-5.0,1356.61,Airtime / Data
+2023-12-16,health,,-100.0,1361.61,Merchant Purchase
+2023-12-16,family,100.0,,1461.61,Other
+2023-12-16,health,,-428.0,1361.61,Merchant Purchase
+2023-12-16,family,500.0,,1789.61,Other
+2023-12-16,airtime,,-5.0,1289.61,Other
+2023-12-16,transport,,-50.0,1294.61,Peer Transfer
+2023-12-15,supermarket expenses,,-70.0,1344.61,Merchant Purchase
+2023-12-15,health,,-40.0,1414.61,Peer Transfer
+2023-12-15,transport,,-50.0,1454.61,Small Business Payment
+2023-12-15,transaction cost,,-7.0,1504.61,Transaction Cost
+2023-12-15,food,,-140.0,1511.61,Peer Transfer
+2023-12-15,sent to friends,100.0,,1651.61,Other
+2023-12-15,sent to friends,100.0,,1551.61,Other
+2023-12-15,airtime,,-15.0,1451.61,Other
+2023-12-15,transaction cost,,-7.0,1466.61,Transaction Cost
+2023-12-15,friends,,-200.0,1473.61,Peer Transfer
+2023-12-15,transaction cost,,-7.0,1673.61,Transaction Cost
+2023-12-15,sent to friends,,-300.0,1680.61,Peer Transfer
+2023-12-15,transport,,-50.0,1980.61,Peer Transfer
+2023-12-15,airtime,,-15.0,2030.61,Other
+2023-12-15,transport,,-50.0,2045.61,Peer Transfer
+2023-12-15,supermarket expenses,,-145.0,2095.61,Merchant Purchase
+2023-12-15,family,2000.0,,2240.61,Other
+2023-12-14,transport,,-50.0,240.61,Peer Transfer
+2023-12-14,health,,-250.0,290.61,Merchant Purchase
+2023-12-14,health,,-60.0,540.61,Peer Transfer
+2023-12-14,family,310.0,,600.61,Other
+2023-12-14,airtime,,-15.0,290.61,Other
+2023-12-14,transport,,-50.0,305.61,Peer Transfer
+2023-12-14,airtime,,-15.0,355.61,Other
+2023-12-14,transport,,-70.0,370.61,Peer Transfer
+2023-12-14,family,360.0,,440.61,Other
+2023-12-13,airtime,,-10.0,80.61,Airtime / Data
+2023-12-13,food,,-50.0,390.61,Peer Transfer
+2023-12-13,transport,,-40.0,440.61,Peer Transfer
+2023-12-13,other expenses,,-20.0,480.61,Small Business Payment
+2023-12-13,airtime,,-15.0,500.61,Other
+2023-12-13,family,,-50.0,515.61,Other
+2023-12-13,airtime,,-95.0,565.61,Other
+2023-12-13,transport,,-50.0,660.61,Small Business Payment
+2023-12-13,transport,,-50.0,710.61,Peer Transfer
+2023-12-13,family,360.0,,760.61,Other
+2023-12-12,family,,-25.0,400.61,Other
+2023-12-12,transaction cost,,-7.0,425.61,Transaction Cost
+2023-12-12,other expenses,,-200.0,432.61,Peer Transfer
+2023-12-12,transport,,-30.0,132.61,Peer Transfer
+2023-12-12,transport,,-50.0,162.61,Peer Transfer
+2023-12-11,supermarket expenses,,-100.0,212.61,Merchant Purchase
+2023-12-11,transport,,-50.0,312.61,Peer Transfer
+2023-12-11,family,360.0,,362.61,Other
+2023-12-08,airtime,,-15.0,2.61,Other
+2023-12-08,airtime,,-15.0,17.61,Other
+2023-12-07,airtime,,-10.0,47.61,Airtime / Data
+2023-12-07,supermarket expenses,,-165.0,57.61,Merchant Purchase
+2023-12-07,airtime,,-5.0,222.61,Airtime / Data
+2023-12-07,transaction cost,,-197.0,227.61,Other
+2023-12-07,school fees,,-26000.0,424.61,Agent Cash Withdrawal
+2023-12-07,family,26000.0,,26424.61,Other
+2023-12-07,family,70.0,,424.61,Other
+2023-12-07,airtime,,-15.0,354.61,Other
+2023-12-07,airtime,,-15.0,369.61,Other
+2023-12-07,airtime,,-15.0,384.61,Other
+2023-12-07,airtime,,-15.0,399.61,Other
+2023-12-06,airtime,,-20.0,414.61,Paybill / Utility Payment
+2023-12-06,airtime,,-20.0,434.61,Paybill / Utility Payment
+2023-12-06,supermarket expenses,,-70.0,454.61,Merchant Purchase
+2023-12-06,family,70.0,,524.61,Other
+2023-12-06,transport,,-50.0,454.61,Peer Transfer
+2023-12-06,electricity,,-50.0,504.61,Paybill / Utility Payment
+2023-12-06,airtime,,-15.0,554.61,Other
+2023-12-06,airtime,,-15.0,569.61,Other
+2023-12-06,electricity,,-25.0,584.61,Paybill / Utility Payment
+2023-12-06,airtime,,-15.0,609.61,Other
+2023-12-05,airtime,,-15.0,549.61,Other
+2023-12-05,airtime,,-15.0,564.61,Other
+2023-12-05,airtime,,-15.0,579.61,Other
+2023-12-05,airtime,,-15.0,594.61,Other
+2023-12-05,airtime,,-50.0,609.61,Airtime / Data
+2023-12-05,airtime,,-15.0,659.61,Other
+2023-12-05,airtime,,-15.0,674.61,Other
+2023-12-05,airtime,,-15.0,689.61,Other
+2023-12-04,airtime,,-15.0,899.61,Other
+2023-12-04,airtime,,-50.0,914.61,Unclassified
+2023-12-04,airtime,,-15.0,964.61,Airtime / Data
+2023-12-04,airtime,,-15.0,979.61,Other
+2023-12-04,sent to friends,,-50.0,994.61,Peer Transfer
+2023-12-04,airtime,,-15.0,1044.61,Other
+2023-12-04,airtime,,-20.0,1059.61,Paybill / Utility Payment
+2023-12-04,family,1000.0,,1079.61,Other
+2023-12-04,electricity,,-25.0,79.61,Paybill / Utility Payment
+2023-12-04,family,15.0,,104.61,Other
+2023-12-04,airtime,,-13.0,89.61,Airtime / Data
+2023-12-04,airtime,,-40.0,102.61,Airtime / Data
+2023-12-04,airtime,,-15.0,142.61,Other
+2023-12-04,airtime,,-15.0,157.61,Other
+2023-12-04,supermarket expenses,,-45.0,172.61,Merchant Purchase
+2023-12-04,friends,200.0,,217.61,Other
+2023-12-03,airtime,,-10.0,17.61,Airtime / Data
+2023-12-02,airtime,,-15.0,27.61,Other
+2023-12-02,family,,-50.0,42.61,Other
+2023-12-02,supermarket expenses,,-230.0,92.61,Merchant Purchase
+2023-12-02,family,120.0,,322.61,Other
+2023-12-02,family,100.0,,202.61,Other
+2023-12-01,airtime,,-15.0,102.61,Other
+2023-12-01,airtime,,-20.0,117.61,Paybill / Utility Payment
+2023-12-01,food,,-80.0,137.61,Peer Transfer
+2023-12-01,airtime,,-20.0,217.61,Paybill / Utility Payment
+2023-12-01,transport,,-70.0,237.61,Peer Transfer
+2023-12-01,family,200.0,,307.61,Other
+2023-12-01,airtime,,-20.0,107.61,Airtime / Data
+2023-12-01,library,,-20.0,127.61,Paybill / Utility Payment
+2023-12-01,transport,,-50.0,147.61,Peer Transfer
+2023-12-01,health,,-20.0,197.61,Merchant Purchase
+2023-12-01,family,140.0,,217.61,Other
+2023-11-30,electricity,,-25.0,77.61,Paybill / Utility Payment
+2023-11-30,airtime,,-20.0,102.61,Paybill / Utility Payment
+2023-11-30,supermarket expenses,,-185.0,122.61,Merchant Purchase
+2023-11-30,family,300.0,,307.61,Other
+2023-11-28,supermarket expenses,,-40.0,7.61,Merchant Purchase
+2023-11-28,transport,,-50.0,47.61,Small Business Payment
+2023-11-28,airtime,,-5.0,97.61,Airtime / Data
+2023-11-28,family,100.0,,102.61,Other
+2023-11-28,airtime,,-6.0,2.61,Airtime / Data
+2023-11-28,airtime,,-5.0,8.61,Airtime / Data
+2023-11-28,airtime,,-10.0,13.61,Airtime / Data
+2023-11-28,savings withdrawal,5.0,,23.61,Other
+2023-11-28,food,,-10.0,18.61,Peer Transfer
+2023-11-28,food,,-50.0,28.61,Peer Transfer
+2023-11-28,transport,,-30.0,78.61,Peer Transfer
+2023-11-28,airtime,,-20.0,108.61,Airtime / Data
+2023-11-27,transport,,-70.0,128.61,Peer Transfer
+2023-11-27,transport,,-70.0,198.61,Peer Transfer
+2023-11-27,supermarket expenses,,-60.0,268.61,Merchant Purchase
+2023-11-27,other expenses,,-70.0,328.61,Peer Transfer
+2023-11-27,airtime,,-20.0,398.61,Paybill / Utility Payment
+2023-11-27,family,329.0,,418.61,Other
+2023-11-27,airtime,,-5.0,89.61,Airtime / Data
+2023-11-27,airtime,,-20.0,94.61,Airtime / Data
+2023-11-27,friends,50.0,,114.61,Other
+2023-11-27,airtime,,-20.0,64.61,Airtime / Data
+2023-11-27,library,,-20.0,84.61,Paybill / Utility Payment
+2023-11-27,savings withdrawal,100.0,,104.61,Other
+2023-11-26,airtime,,-8.0,4.61,Airtime / Data
+2023-11-26,airtime,,-10.0,12.61,Airtime / Data
+2023-11-26,airtime,,-15.0,22.61,Other
+2023-11-26,airtime,,-20.0,37.61,Airtime / Data
+2023-11-26,airtime,,-30.0,57.61,Paybill / Utility Payment
+2023-11-26,transport,,-70.0,87.61,Peer Transfer
+2023-11-26,supermarket expenses,,-103.0,157.61,Merchant Purchase
+2023-11-26,savings withdrawal,200.0,,260.61,Other
+2023-11-26,airtime,,-20.0,60.61,Paybill / Utility Payment
+2023-11-26,airtime,,-8.0,80.61,Airtime / Data
+2023-11-26,airtime,,-10.0,88.61,Airtime / Data
+2023-11-26,airtime,,-20.0,98.61,Airtime / Data
+2023-11-26,savings withdrawal,100.0,,118.61,Other
+2023-11-26,airtime,,-20.0,18.61,Airtime / Data
+2023-11-26,airtime,,-15.0,38.61,Other
+2023-11-25,airtime,,-20.0,53.61,Paybill / Utility Payment
+2023-11-25,airtime,,-30.0,73.61,Paybill / Utility Payment
+2023-11-25,savings withdrawal,100.0,,103.61,Other
+2023-11-25,airtime,,-15.0,3.61,Other
+2023-11-24,airtime,,-20.0,18.61,Paybill / Utility Payment
+2023-11-24,airtime,,-20.0,38.61,Paybill / Utility Payment
+2023-11-24,savings withdrawal,50.0,,58.61,Other
+2023-11-24,airtime,,-20.0,8.61,Unclassified
+2023-11-24,savings withdrawal,20.0,,28.61,Other
+2023-11-24,airtime,,-20.0,8.61,Unclassified
+2023-11-24,transport,,-50.0,28.61,Peer Transfer
+2023-11-24,supermarket expenses,,-260.0,78.61,Merchant Purchase
+2023-11-24,savings withdrawal,150.0,,338.61,Other
+2023-11-24,other expenses,,-30.0,188.61,Peer Transfer
+2023-11-24,transaction cost,,-7.0,218.61,Transaction Cost
+2023-11-24,other expenses,,-120.0,225.61,Peer Transfer
+2023-11-24,family,300.0,,345.61,Other
+2023-11-24,transport,,-30.0,45.61,Merchant Purchase
+2023-11-24,transport,,-40.0,75.61,Peer Transfer
+2023-11-24,food,,-50.0,115.61,Peer Transfer
+2023-11-24,transport,,-50.0,165.61,Small Business Payment
+2023-11-24,airtime,,-45.0,215.61,Airtime / Data
+2023-11-24,savings deposit,,-500.0,260.61,Other
+2023-11-24,cash deposit,500.0,,760.61,Other
+2023-11-24,transport,,-50.0,260.61,Peer Transfer
+2023-11-23,airtime,,-20.0,310.61,Paybill / Utility Payment
+2023-11-23,airtime,,-20.0,330.61,Paybill / Utility Payment
+2023-11-23,family,350.0,,350.61,Other
+2023-11-23,sent to family,,-6.0,0.61,Peer Transfer
+2023-11-22,savings deposit,,-200.0,6.61,Other
+2023-11-22,supermarket expenses,,-160.0,206.61,Merchant Purchase
+2023-11-22,sent to family,,-50.0,366.61,Peer Transfer
+2023-11-22,health,,-90.0,416.61,Merchant Purchase
+2023-11-22,transaction cost,,-7.0,506.61,Transaction Cost
+2023-11-22,sent to friends,,-200.0,513.61,Peer Transfer
+2023-11-22,sent to friends,,-20.0,713.61,Peer Transfer
+2023-11-21,electricity,,-25.0,733.61,Paybill / Utility Payment
+2023-11-21,food,,-100.0,758.61,Peer Transfer
+2023-11-21,family,110.0,,858.61,Other
+2023-11-21,transport,,-100.0,748.61,Peer Transfer
+2023-11-21,supermarket expenses,,-65.0,848.61,Merchant Purchase
+2023-11-21,airtime,,-20.0,913.61,Paybill / Utility Payment
+2023-11-21,family,150.0,,933.61,Other
+2023-11-21,health,,-40.0,783.61,Merchant Purchase
+2023-11-21,health,,-90.0,823.61,Merchant Purchase
+2023-11-21,transport,,-50.0,913.61,Peer Transfer
+2023-11-21,food,,-50.0,963.61,Small Business Payment
+2023-11-21,transaction cost,,-7.0,1013.61,Transaction Cost
+2023-11-21,other expenses,,-250.0,1020.61,Small Business Payment
+2023-11-21,airtime,,-10.0,1270.61,Airtime / Data
+2023-11-21,family,150.0,,1280.61,Other
+2023-11-21,family,1029.0,,1130.61,Other
+2023-11-21,food,,-50.0,101.61,Peer Transfer
+2023-11-21,family,100.0,,151.61,Other
+2023-11-21,airtime,,-10.0,51.61,Airtime / Data
+2023-11-21,airtime,,-20.0,61.61,Airtime / Data
+2023-11-21,transport,,-50.0,81.61,Small Business Payment
+2023-11-21,transport,,-20.0,131.61,Peer Transfer
+2023-11-21,transport,,-50.0,151.61,Peer Transfer
+2023-11-21,family,150.0,,201.61,Other
+2023-11-20,airtime,,-15.0,51.61,Other
+2023-11-20,supermarket expenses,,-50.0,66.61,Merchant Purchase
+2023-11-20,savings withdrawal,100.0,,116.61,Other
+2023-11-20,airtime,,-15.0,16.61,Other
+2023-11-19,transport,,-50.0,31.61,Peer Transfer
+2023-11-19,transport,,-20.0,81.61,Peer Transfer
+2023-11-19,supermarket expenses,,-380.0,101.61,Merchant Purchase
+2023-11-19,airtime,,-20.0,481.61,Airtime / Data
+2023-11-19,savings withdrawal,500.0,,501.61,Other
+2023-11-19,airtime,,-20.0,1.61,Paybill / Utility Payment
+2023-11-18,electricity,,-25.0,21.61,Paybill / Utility Payment
+2023-11-18,airtime,,-5.0,46.61,Airtime / Data
+2023-11-18,airtime,,-20.0,51.61,Paybill / Utility Payment
+2023-11-18,family,70.0,,71.61,Other
+2023-11-17,sent to family,,-70.0,1.61,Peer Transfer
+2023-11-17,savings deposit,,-200.0,71.61,Other
+2023-11-17,airtime,,-20.0,271.61,Unclassified
+2023-11-17,supermarket expenses,,-45.0,291.61,Merchant Purchase
+2023-11-17,airtime,,-20.0,336.61,Paybill / Utility Payment
+2023-11-17,food,,-80.0,356.61,Peer Transfer
+2023-11-17,transport,,-30.0,436.61,Small Business Payment
+2023-11-17,sent to friends,,-5.0,466.61,Peer Transfer
+2023-11-17,airtime,,-20.0,471.61,Airtime / Data
+2023-11-17,transport,,-60.0,491.61,Peer Transfer
+2023-11-17,transport,,-50.0,551.61,Peer Transfer
+2023-11-17,airtime,,-20.0,601.61,Airtime / Data
+2023-11-17,family,350.0,,621.61,Other
+2023-11-17,airtime,,-20.0,271.61,Unclassified
+2023-11-16,sent to family,,-55.0,291.61,Paybill / Utility Payment
+2023-11-16,airtime,,-20.0,346.61,Paybill / Utility Payment
+2023-11-16,airtime,,-20.0,366.61,Paybill / Utility Payment
+2023-11-16,airtime,,-20.0,386.61,Paybill / Utility Payment
+2023-11-16,airtime,,-50.0,406.61,Paybill / Utility Payment
+2023-11-15,sent to family,,-55.0,456.61,Paybill / Utility Payment
+2023-11-15,airtime,,-15.0,511.61,Other
+2023-11-15,supermarket expenses,,-120.0,526.61,Merchant Purchase
+2023-11-15,health,,-60.0,646.61,Merchant Purchase
+2023-11-15,family,529.0,,706.61,Other
+2023-11-15,food,,-160.0,177.61,Merchant Purchase
+2023-11-15,airtime,,-20.0,337.61,Paybill / Utility Payment
+2023-11-15,family,350.0,,357.61,Other
+2023-11-15,airtime,,-20.0,7.61,Airtime / Data
+2023-11-15,transport,,-50.0,27.61,Peer Transfer
+2023-11-15,transport,,-50.0,77.61,Peer Transfer
+2023-11-15,electricity,,-25.0,127.61,Paybill / Utility Payment
+2023-11-15,airtime,,-15.0,152.61,Other
+2023-11-14,airtime,,-20.0,167.61,Paybill / Utility Payment
+2023-11-14,sent to family,,-55.0,187.61,Paybill / Utility Payment
+2023-11-14,airtime,,-20.0,242.61,Paybill / Utility Payment
+2023-11-14,transaction cost,,-7.0,262.61,Transaction Cost
+2023-11-14,sent to family,,-250.0,269.61,Peer Transfer
+2023-11-14,cash deposit,500.0,,519.61,Other
+2023-11-14,airtime,,-20.0,19.61,Paybill / Utility Payment
+2023-11-13,airtime,,-20.0,39.61,Airtime / Data
+2023-11-13,airtime,,-20.0,59.61,Airtime / Data
+2023-11-13,airtime,,-20.0,79.61,Paybill / Utility Payment
+2023-11-13,airtime,,-20.0,99.61,Airtime / Data
+2023-11-12,sent to family,,-10.0,119.61,Peer Transfer
+2023-11-12,airtime,,-20.0,129.61,Airtime / Data
+2023-11-12,airtime,,-20.0,149.61,Paybill / Utility Payment
+2023-11-12,sent to family,,-55.0,169.61,Paybill / Utility Payment
+2023-11-12,airtime,,-10.0,224.61,Airtime / Data
+2023-11-12,airtime,,-3.0,234.61,Paybill / Utility Payment
+2023-11-12,airtime,,-100.0,237.61,Paybill / Utility Payment
+2023-11-11,airtime,,-10.0,337.61,Airtime / Data
+2023-11-11,sent to family,,-100.0,347.61,Peer Transfer
+2023-11-11,savings withdrawal,400.0,,447.61,Other
+2023-11-11,airtime,,-20.0,47.61,Airtime / Data
+2023-11-11,airtime,,-2.0,67.61,Paybill / Utility Payment
+2023-11-11,airtime,,-20.0,69.61,Paybill / Utility Payment
+2023-11-11,airtime,,-15.0,89.61,Other
+2023-11-11,airtime,,-10.0,104.61,Airtime / Data
+2023-11-11,transport,,-40.0,114.61,Peer Transfer
+2023-11-11,transaction cost,,-29.0,154.61,Other
+2023-11-11,personal expenditures,,-600.0,183.61,Agent Cash Withdrawal
+2023-11-11,transaction cost,,-7.0,783.61,Transaction Cost
+2023-11-11,personal expenditures,,-150.0,790.61,Peer Transfer
+2023-11-11,transaction cost,,-5.0,940.61,Paybill / Utility Payment
+2023-11-11,personal expenditures,,-500.0,945.61,Paybill / Utility Payment
+2023-11-11,transport,,-50.0,1445.61,Small Business Payment
+2023-11-11,airtime,,-20.0,1495.61,Airtime / Data
+2023-11-11,transport,,-50.0,1515.61,Peer Transfer
+2023-11-11,family,1500.0,,1565.61,Other
+2023-11-11,airtime,,-10.0,65.61,Airtime / Data
+2023-11-10,savings deposit,,-420.0,75.61,Other
+2023-11-10,transport,,-50.0,495.61,Peer Transfer
+2023-11-10,transport,,-70.0,545.61,Peer Transfer
+2023-11-10,family,140.0,,615.61,Other
+2023-11-10,philanthropy,,-30.0,475.61,Merchant Purchase
+2023-11-09,other expenses,,-20.0,505.61,Peer Transfer
+2023-11-09,sent to friends,,-100.0,525.61,Peer Transfer
+2023-11-09,other expenses,,-20.0,625.61,Paybill / Utility Payment
+2023-11-09,food,,-100.0,645.61,Peer Transfer
+2023-11-09,family,110.0,,745.61,Other
+2023-11-09,airtime,,-10.0,635.61,Airtime / Data
+2023-11-09,airtime,,-15.0,645.61,Other
+2023-11-09,supermarket expenses,,-292.0,660.61,Merchant Purchase
+2023-11-09,airtime,,-15.0,952.61,Other
+2023-11-08,transport,,-50.0,992.61,Peer Transfer
+2023-11-08,transport,,-70.0,1042.61,Peer Transfer
+2023-11-08,supermarket expenses,,-45.0,1112.61,Merchant Purchase
+2023-11-08,transport,,-50.0,1157.61,Peer Transfer
+2023-11-08,family,150.0,,1207.61,Other
+2023-11-08,cash deposit,1000.0,,1057.61,Other
+2023-11-08,supermarket expenses,,-25.0,57.61,Merchant Purchase
+2023-11-08,transport,,-70.0,82.61,Peer Transfer
+2023-11-08,transport,,-50.0,152.61,Small Business Payment
+2023-11-08,airtime,,-15.0,202.61,Other
+2023-11-08,other expenses,,-20.0,217.61,Paybill / Utility Payment
+2023-11-08,airtime,,-20.0,237.61,Other
+2023-11-08,airtime,,-30.0,257.61,Airtime / Data
+2023-11-08,airtime,,-20.0,287.61,Airtime / Data
+2023-11-08,transport,,-50.0,307.61,Peer Transfer
+2023-11-08,family,350.0,,357.61,Other
+2023-11-08,airtime,,-10.0,7.61,Airtime / Data
+2023-11-08,electricity,,-25.0,17.61,Paybill / Utility Payment
+2023-11-07,sent to friends,,-50.0,42.61,Peer Transfer
+2023-11-07,savings deposit,,-200.0,92.61,Other
+2023-11-07,transport,,-50.0,292.61,Peer Transfer
+2023-11-07,supermarket expenses,,-75.0,342.61,Merchant Purchase
+2023-11-07,transport,,-60.0,417.61,Peer Transfer
+2023-11-07,transport,,-50.0,477.61,Small Business Payment
+2023-11-07,food,,-50.0,527.61,Merchant Purchase
+2023-11-07,transaction cost,,-5.0,577.61,Transaction Cost
+2023-11-07,other expenses,,-150.0,582.61,Paybill / Utility Payment
+2023-11-07,crotchet,,-190.0,732.61,Merchant Purchase
+2023-11-07,transaction cost,,-29.0,922.61,Other
+2023-11-07,personal expenditures,,-150.0,951.61,Agent Cash Withdrawal
+2023-11-07,personal expenditures,,-500.0,1101.61,Merchant Purchase
+2023-11-07,airtime,,-20.0,1601.61,Airtime / Data
+2023-11-07,personal expenditures,,-100.0,1621.61,Paybill / Utility Payment
+2023-11-07,transaction cost,,-13.0,1721.61,Transaction Cost
+2023-11-07,personal expenditures,,-750.0,1734.61,Peer Transfer
+2023-11-07,airtime,,-10.0,2484.61,Airtime / Data
+2023-11-07,transport,,-50.0,2494.61,Peer Transfer
+2023-11-07,cash deposit,1000.0,,2544.61,Other
+2023-11-07,airtime,,-20.0,1544.61,Airtime / Data
+2023-11-07,family,350.0,,1564.61,Other
+2023-11-06,supermarket expenses,,-155.0,1214.61,Merchant Purchase
+2023-11-06,transport,,-50.0,1369.61,Peer Transfer
+2023-11-06,airtime,,-10.0,1419.61,Airtime / Data
+2023-11-06,transport,,-30.0,1429.61,Peer Transfer
+2023-11-06,family,1030.0,,1459.61,Other
+2023-11-06,transport,,-60.0,429.61,Peer Transfer
+2023-11-06,transport,,-40.0,489.61,Paybill / Utility Payment
+2023-11-06,airtime,,-20.0,529.61,Airtime / Data
+2023-11-06,transport,,-60.0,549.61,Peer Transfer
+2023-11-06,transport,,-50.0,609.61,Small Business Payment
+2023-11-06,transport,,-50.0,659.61,Peer Transfer
+2023-11-06,family,350.0,,709.61,Other
+2023-11-05,transaction cost,,-7.0,359.61,Transaction Cost
+2023-11-05,sent to family,,-500.0,366.61,Peer Transfer
+2023-11-05,family,830.0,,866.61,Other
+2023-11-05,transaction cost,,-7.0,36.61,Transaction Cost
+2023-11-05,sent to family,,-200.0,43.61,Peer Transfer
+2023-11-05,savings withdrawal,200.0,,243.61,Other
+2023-11-05,airtime,,-10.0,43.61,Airtime / Data
+2023-11-05,transaction cost,,-7.0,53.61,Transaction Cost
+2023-11-05,sent to family,,-300.0,60.61,Peer Transfer
+2023-11-05,airtime,,-15.0,360.61,Other
+2023-11-04,supermarket expenses,,-60.0,375.61,Merchant Purchase
+2023-11-04,transaction cost,,-13.0,435.61,Transaction Cost
+2023-11-04,sent to family,,-1000.0,448.61,Peer Transfer
+2023-11-04,cash deposit,1000.0,,1448.61,Other
+2023-11-04,transport,,-50.0,448.61,Peer Transfer
+2023-11-04,supermarket expenses,,-15.0,498.61,Merchant Purchase
+2023-11-04,airtime,,-10.0,513.61,Airtime / Data
+2023-11-04,family,150.0,,523.61,Other
+2023-11-04,family,350.0,,373.61,Other
+2023-11-03,airtime,,-20.0,23.61,Airtime / Data
+2023-11-03,transport,,-50.0,43.61,Peer Transfer
+2023-11-03,transport,,-70.0,93.61,Peer Transfer
+2023-11-03,other expenses,,-30.0,163.61,Peer Transfer
+2023-11-03,other expenses,,-30.0,193.61,Peer Transfer
+2023-11-03,transport,,-50.0,223.61,Peer Transfer
+2023-11-03,sent to friends,,-50.0,273.61,Peer Transfer
+2023-11-03,savings deposit,,-400.0,323.61,Other
+2023-11-02,transport,,-70.0,723.61,Peer Transfer
+2023-11-02,transport,,-40.0,793.61,Small Business Payment
+2023-11-02,airtime,,-15.0,833.61,Other
+2023-11-02,transaction cost,,-2.0,848.61,Transaction Cost
+2023-11-02,airtime,,-20.0,850.61,Paybill / Utility Payment
+2023-11-02,friends,,-70.0,870.61,Peer Transfer
+2023-11-02,food,,-80.0,940.61,Peer Transfer
+2023-11-02,airtime,,-20.0,1020.61,Airtime / Data
+2023-11-02,airtime,,-15.0,1040.61,Other
+2023-11-02,transaction cost,,-2.0,1055.61,Transaction Cost
+2023-11-02,airtime,,-20.0,1057.61,Paybill / Utility Payment
+2023-11-02,airtime,,-15.0,1077.61,Other
+2023-11-02,family,350.0,,1092.61,Other
+2023-11-02,transport,,-50.0,742.61,Peer Transfer
+2023-11-02,family,529.0,,792.61,Other
+2023-11-01,family,20.0,,263.61,Other
+2023-11-01,airtime,,-20.0,243.61,Paybill / Utility Payment
+2023-11-01,sent to family,,-12.0,263.61,Peer Transfer
+2023-11-01,family,12.0,,275.61,Other
+2023-11-01,electricity,,-25.0,263.61,Paybill / Utility Payment
+2023-10-31,transport,,-30.0,288.61,Peer Transfer
+2023-10-31,airtime,,-15.0,318.61,Other
+2023-10-31,supermarket expenses,,-91.0,333.61,Merchant Purchase
+2023-10-31,airtime,,-5.0,424.61,Airtime / Data
+2023-10-31,transport,,-50.0,429.61,Peer Transfer
+2023-10-31,airtime,,-5.0,479.61,Airtime / Data
+2023-10-31,airtime,,-100.0,484.61,Airtime / Data
+2023-10-31,airtime,,-5.0,584.61,Other
+2023-10-31,airtime,,-10.0,589.61,Airtime / Data
+2023-10-30,airtime,,-15.0,599.61,Airtime / Data
+2023-10-30,airtime,,-15.0,614.61,Other
+2023-10-30,airtime,,-130.0,629.61,Airtime / Data
+2023-10-30,family,530.0,,759.61,Other
+2023-10-30,supermarket expenses,,-75.0,229.61,Merchant Purchase
+2023-10-30,sent to family,,-25.0,304.61,Peer Transfer
+2023-10-30,family,300.0,,329.61,Other
+2023-10-29,supermarket expenses,,-10.0,29.61,Merchant Purchase
+2023-10-28,sent to family,,-15.0,39.61,Peer Transfer
+2023-10-27,supermarket expenses,,-75.0,54.61,Merchant Purchase
+2023-10-27,supermarket expenses,,-75.0,129.61,Merchant Purchase
+2023-10-27,family,75.0,,204.61,Other
+2023-10-27,other expenses,,-70.0,129.61,Small Business Payment
+2023-10-27,family,100.0,,199.61,Other
+2023-10-27,supermarket expenses,,-113.0,99.61,Merchant Purchase
+2023-10-27,crotchet,,-30.0,212.61,Merchant Purchase
+2023-10-27,crotchet,,-140.0,242.61,Merchant Purchase
+2023-10-27,airtime,,-5.0,382.61,Airtime / Data
+2023-10-27,airtime,,-10.0,387.61,Airtime / Data
+2023-10-27,airtime,,-20.0,397.61,Airtime / Data
+2023-10-27,other expenses,,-50.0,417.61,Peer Transfer
+2023-10-27,transport,,-70.0,467.61,Peer Transfer
+2023-10-27,airtime,,-35.0,537.61,Other
+2023-10-27,family,500.0,,572.61,Other
+2023-10-27,electricity,,-25.0,72.61,Paybill / Utility Payment
+2023-10-27,airtime,,-20.0,97.61,Airtime / Data
+2023-10-26,electricity,,-25.0,117.61,Paybill / Utility Payment
+2023-10-26,family,10.0,,142.61,Other
+2023-10-26,supermarket expenses,,-70.0,132.61,Merchant Purchase
+2023-10-26,transport,,-50.0,202.61,Peer Transfer
+2023-10-26,supermarket expenses,,-114.0,252.61,Merchant Purchase
+2023-10-26,family,175.0,,366.61,Other
+2023-10-26,food,,-20.0,191.61,Small Business Payment
+2023-10-26,food,,-30.0,211.61,Small Business Payment
+2023-10-26,airtime,,-15.0,241.61,Other
+2023-10-26,food,,-80.0,256.61,Peer Transfer
+2023-10-26,airtime,,-20.0,336.61,Airtime / Data
+2023-10-26,transport,,-60.0,356.61,Peer Transfer
+2023-10-26,food,,-30.0,416.61,Peer Transfer
+2023-10-26,airtime,,-20.0,446.61,Airtime / Data
+2023-10-26,transport,,-50.0,466.61,Peer Transfer
+2023-10-26,family,70.0,,516.61,Other
+2023-10-26,family,220.0,,446.61,Other
+2023-10-25,transport,,-50.0,226.61,Peer Transfer
+2023-10-25,supermarket expenses,,-170.0,276.61,Merchant Purchase
+2023-10-25,transport,,-60.0,446.61,Peer Transfer
+2023-10-25,airtime,,-20.0,506.61,Airtime / Data
+2023-10-25,food,,-20.0,526.61,Peer Transfer
+2023-10-25,transport,,-50.0,546.61,Small Business Payment
+2023-10-25,airtime,,-10.0,596.61,Airtime / Data
+2023-10-25,other expenses,,-100.0,606.61,Peer Transfer
+2023-10-25,transport,,-50.0,706.61,Small Business Payment
+2023-10-25,airtime,,-20.0,756.61,Airtime / Data
+2023-10-25,transport,,-50.0,776.61,Peer Transfer
+2023-10-25,family,300.0,,826.61,Other
+2023-10-24,airtime,,-5.0,526.61,Airtime / Data
+2023-10-24,transport,,-70.0,531.61,Peer Transfer
+2023-10-24,family,350.0,,601.61,Other
+2023-10-23,supermarket expenses,,-50.0,251.61,Merchant Purchase
+2023-10-23,supermarket expenses,,-70.0,301.61,Merchant Purchase
+2023-10-23,food,,-20.0,371.61,Peer Transfer
+2023-10-23,transport,,-30.0,391.61,Small Business Payment
+2023-10-23,family,50.0,,421.61,Other
+2023-10-23,airtime,,-10.0,371.61,Airtime / Data
+2023-10-23,transport,,-20.0,381.61,Small Business Payment
+2023-10-23,supermarket expenses,,-92.0,401.61,Merchant Purchase
+2023-10-23,airtime,,-5.0,493.61,Airtime / Data
+2023-10-23,food,,-30.0,498.61,Small Business Payment
+2023-10-23,airtime,,-10.0,528.61,Airtime / Data
+2023-10-23,airtime,,-15.0,538.61,Other
+2023-10-23,food,,-75.0,553.61,Peer Transfer
+2023-10-23,food,,-20.0,628.61,Paybill / Utility Payment
+2023-10-23,airtime,,-10.0,648.61,Airtime / Data
+2023-10-23,other expenses,,-50.0,658.61,Small Business Payment
+2023-10-23,transport,,-70.0,708.61,Peer Transfer
+2023-10-23,family,350.0,,778.61,Other
+2023-10-22,transport,,-50.0,428.61,Peer Transfer
+2023-10-22,health,,-103.0,478.61,Merchant Purchase
+2023-10-22,airtime,,-10.0,581.61,Airtime / Data
+2023-10-22,food,,-20.0,591.61,Small Business Payment
+2023-10-22,airtime,,-15.0,611.61,Other
+2023-10-22,airtime,,-5.0,626.61,Airtime / Data
+2023-10-22,food,,-30.0,631.61,Peer Transfer
+2023-10-22,airtime,,-10.0,661.61,Airtime / Data
+2023-10-22,transport,,-50.0,671.61,Peer Transfer
+2023-10-22,family,200.0,,721.61,Other
+2023-10-21,supermarket expenses,,-70.0,521.61,Merchant Purchase
+2023-10-20,airtime,,-15.0,591.61,Other
+2023-10-20,philanthropy,,-30.0,606.61,Merchant Purchase
+2023-10-20,airtime,,-15.0,636.61,Other
+2023-10-20,airtime,,-15.0,651.61,Other
+2023-10-19,supermarket expenses,,-262.0,666.61,Merchant Purchase
+2023-10-19,family,120.0,,928.61,Other
+2023-10-19,transport,,-70.0,808.61,Small Business Payment
+2023-10-19,airtime,,-15.0,878.61,Other
+2023-10-19,electricity,,-25.0,893.61,Paybill / Utility Payment
+2023-10-19,airtime,,-15.0,918.61,Other
+2023-10-19,airtime,,-15.0,933.61,Other
+2023-10-19,airtime,,-15.0,948.61,Other
+2023-10-19,airtime,,-10.0,963.61,Airtime / Data
+2023-10-19,other expenses,,-30.0,973.61,Peer Transfer
+2023-10-19,airtime,,-55.0,1003.61,Other
+2023-10-19,family,1029.0,,1058.61,Other
+2023-10-18,transaction cost,,-7.0,29.61,Transaction Cost
+2023-10-18,personal expenditures,,-300.0,36.61,Peer Transfer
+2023-10-18,family,300.0,,336.61,Other
+2023-10-18,airtime,,-5.0,36.61,Airtime / Data
+2023-10-18,transport,,-70.0,41.61,Peer Transfer
+2023-10-18,crotchet,,-150.0,111.61,Merchant Purchase
+2023-10-18,airtime,,-15.0,261.61,Other
+2023-10-18,food,200.0,,276.61,Other
+2023-10-18,airtime,,-10.0,76.61,Airtime / Data
+2023-10-18,airtime,,-15.0,86.61,Paybill / Utility Payment
+2023-10-18,food,,-120.0,101.61,Merchant Purchase
+2023-10-18,family,30.0,,221.61,Other
+2023-10-18,family,50.0,,191.61,Other
+2023-10-18,crotchet,,-160.0,141.61,Merchant Purchase
+2023-10-18,airtime,,-20.0,301.61,Airtime / Data
+2023-10-18,transport,,-50.0,321.61,Peer Transfer
+2023-10-18,transport,,-50.0,371.61,Peer Transfer
+2023-10-18,family,,-50.0,421.61,Other
+2023-10-18,family,350.0,,471.61,Other
+2023-10-18,airtime,,-10.0,121.61,Airtime / Data
+2023-10-18,supermarket expenses,,-20.0,131.61,Merchant Purchase
+2023-10-18,family,50.0,,151.61,Other
+2023-10-17,friends,,-20.0,101.61,Peer Transfer
+2023-10-17,supermarket expenses,,-150.0,121.61,Merchant Purchase
+2023-10-17,family,220.0,,271.61,Other
+2023-10-17,food,,-40.0,51.61,Small Business Payment
+2023-10-17,food,,-40.0,91.61,Small Business Payment
+2023-10-17,airtime,,-15.0,131.61,Other
+2023-10-17,airtime,,-45.0,146.61,Other
+2023-10-17,food,,-10.0,191.61,Peer Transfer
+2023-10-17,transaction cost,,-7.0,201.61,Transaction Cost
+2023-10-17,food,,-110.0,208.61,Peer Transfer
+2023-10-17,other expenses,,-20.0,318.61,Peer Transfer
+2023-10-17,transport,,-70.0,338.61,Peer Transfer
+2023-10-17,family,350.0,,408.61,Other
+2023-10-16,transport,,-70.0,58.61,Peer Transfer
+2023-10-16,transport,,-50.0,128.61,Small Business Payment
+2023-10-16,family,100.0,,178.61,Unclassified
+2023-10-16,other expenses,,-100.0,78.61,Merchant Purchase
+2023-10-16,family,150.0,,178.61,Unclassified
+2023-10-16,food,,-30.0,28.61,Peer Transfer
+2023-10-16,savings withdrawal,50.0,,58.61,Other
+2023-10-16,airtime,,-20.0,8.61,Airtime / Data
+2023-10-16,airtime,,-15.0,28.61,Other
+2023-10-16,airtime,,-15.0,43.61,Airtime / Data
+2023-10-16,transport,,-50.0,58.61,Peer Transfer
+2023-10-16,airtime,,-20.0,108.61,Airtime / Data
+2023-10-15,church,,-30.0,128.61,Paybill / Utility Payment
+2023-10-14,airtime,,-20.0,158.61,Paybill / Utility Payment
+2023-10-13,airtime,,-15.0,178.61,Other
+2023-10-13,food,,-65.0,193.61,Peer Transfer
+2023-10-13,family,68.0,,258.61,Other
+2023-10-13,supermarket expenses,,-120.0,190.61,Merchant Purchase
+2023-10-13,food,,-70.0,310.61,Peer Transfer
+2023-10-13,airtime,,-15.0,380.61,Other
+2023-10-13,airtime,,-10.0,395.61,Airtime / Data
+2023-10-13,food,,-100.0,405.61,Merchant Purchase
+2023-10-13,transport,,-50.0,505.61,Peer Transfer
+2023-10-13,airtime,,-10.0,555.61,Airtime / Data
+2023-10-13,transport,,-70.0,565.61,Peer Transfer
+2023-10-12,friends,40.0,,635.61,Other
+2023-10-12,transport,,-60.0,595.61,Other
+2023-10-12,airtime,,-10.0,655.61,Airtime / Data
+2023-10-12,family,,-100.0,665.61,Other
+2023-10-12,airtime,,-20.0,765.61,Airtime / Data
+2023-10-12,airtime,,-10.0,785.61,Airtime / Data
+2023-10-12,airtime,,-5.0,795.61,Airtime / Data
+2023-10-12,airtime,,-10.0,800.61,Airtime / Data
+2023-10-12,transport,,-70.0,810.61,Peer Transfer
+2023-10-12,deposit,800.0,,880.61,Other
+2023-10-12,savings withdrawal,50.0,,80.61,Other
+2023-10-12,airtime,,-10.0,30.61,Airtime / Data
+2023-10-12,savings withdrawal,40.0,,40.61,Other
+2023-10-11,electricity,,-25.0,0.61,Paybill / Utility Payment
+2023-10-11,savings withdrawal,15.0,,25.61,Other
+2023-10-11,transport,,-60.0,10.61,Peer Transfer
+2023-10-11,supermarket expenses,,-259.0,70.61,Merchant Purchase
+2023-10-11,transaction cost,,-5.0,329.61,Transaction Cost
+2023-10-11,personal expenditures,,-500.0,334.61,Paybill / Utility Payment
+2023-10-11,savings withdrawal,500.0,,834.61,Other
+2023-10-11,airtime,,-20.0,334.61,Airtime / Data
+2023-10-11,airtime,,-10.0,354.61,Airtime / Data
+2023-10-11,food,,-50.0,364.61,Paybill / Utility Payment
+2023-10-11,airtime,,-10.0,414.61,Airtime / Data
+2023-10-11,family,400.0,,424.61,Other
+2023-10-11,airtime,,-10.0,24.61,Airtime / Data
+2023-10-10,airtime,,-5.0,34.61,Airtime / Data
+2023-10-10,transport,,-70.0,39.61,Peer Transfer
+2023-10-10,transport,,-40.0,109.61,Peer Transfer
+2023-10-10,airtime,,-10.0,149.61,Airtime / Data
+2023-10-10,airtime,,-10.0,159.61,Airtime / Data
+2023-10-10,airtime,,-20.0,169.61,Other
+2023-10-10,airtime,,-5.0,189.61,Airtime / Data
+2023-10-10,airtime,,-10.0,194.61,Airtime / Data
+2023-10-10,savings withdrawal,200.0,,204.61,Other
+2023-10-10,airtime,,-5.0,4.61,Airtime / Data
+2023-10-10,transport,,-30.0,9.61,Peer Transfer
+2023-10-09,airtime,,-20.0,39.61,Airtime / Data
+2023-10-09,savings withdrawal,50.0,,59.61,Other
+2023-10-09,transport,,-70.0,9.61,Peer Transfer
+2023-10-09,food,,-50.0,79.61,Small Business Payment
+2023-10-09,savings withdrawal,90.0,,129.61,Other
+2023-10-09,airtime,,-10.0,39.61,Airtime / Data
+2023-10-09,transaction cost,,-7.0,49.61,Transaction Cost
+2023-10-09,food,,-120.0,56.61,Peer Transfer
+2023-10-09,airtime,,-10.0,176.61,Airtime / Data
+2023-10-09,transaction cost,,-5.0,186.61,Transaction Cost
+2023-10-09,kcb,,-300.0,191.61,Paybill / Utility Payment
+2023-10-09,airtime,,-10.0,491.61,Airtime / Data
+2023-10-09,transport,,-30.0,501.61,Peer Transfer
+2023-10-09,food,,-20.0,531.61,Peer Transfer
+2023-10-09,airtime,,-10.0,551.61,Airtime / Data
+2023-10-09,family,50.0,,561.61,Other
+2023-10-09,transport,,-100.0,511.61,Peer Transfer
+2023-10-09,family,500.0,,611.61,Other
+2023-10-08,family,,-50.0,111.61,Other
+2023-10-08,airtime,,-5.0,161.61,Airtime / Data
+2023-10-08,supermarket expenses,,-95.0,166.61,Merchant Purchase
+2023-10-08,supermarket expenses,,-279.0,261.61,Merchant Purchase
+2023-10-08,family,500.0,,540.61,Other
+2023-10-08,transport,,-70.0,40.61,Peer Transfer
+2023-10-08,supermarket expenses,,-105.0,110.61,Merchant Purchase
+2023-10-08,family,120.0,,215.61,Other
+2023-10-08,airtime,,-5.0,95.61,Airtime / Data
+2023-10-08,other expenses,,-20.0,100.61,Peer Transfer
+2023-10-08,airtime,,-10.0,120.61,Airtime / Data
+2023-10-08,church,,-50.0,130.61,Paybill / Utility Payment
+2023-10-08,other expenses,,-20.0,180.61,Peer Transfer
+2023-10-08,other expenses,,-20.0,200.61,Peer Transfer
+2023-10-08,transport,,-70.0,220.61,Peer Transfer
+2023-10-08,savings deposit,,-700.0,290.61,Other
+2023-10-08,airtime,,-10.0,990.61,Airtime / Data
+2023-10-07,airtime,,-10.0,1000.61,Airtime / Data
+2023-10-06,airtime,,-10.0,1010.61,Airtime / Data
+2023-10-06,supermarket expenses,,-145.0,1020.61,Merchant Purchase
+2023-10-06,airtime,,-10.0,1165.61,Airtime / Data
+2023-10-06,transport,,-60.0,1175.61,Peer Transfer
+2023-10-06,other expenses,,-40.0,1235.61,Peer Transfer
+2023-10-06,airtime,,-10.0,1275.61,Airtime / Data
+2023-10-06,health,,-130.0,1285.61,Merchant Purchase
+2023-10-06,transport,,-50.0,1415.61,Peer Transfer
+2023-10-06,airtime,,-20.0,1465.61,Airtime / Data
+2023-10-06,airtime,,-10.0,1485.61,Airtime / Data
+2023-10-06,family,310.0,,1495.61,Other
+2023-10-05,airtime,,-10.0,1185.61,Airtime / Data
+2023-10-05,other expenses,,-30.0,1195.61,Merchant Purchase
+2023-10-05,airtime,,-10.0,1225.61,Airtime / Data
+2023-10-05,transaction cost,,-11.0,1235.61,Other
+2023-10-05,other expenses,,-100.0,1246.61,Agent Cash Withdrawal
+2023-10-05,food,,-50.0,1346.61,Paybill / Utility Payment
+2023-10-05,airtime,,-5.0,1396.61,Airtime / Data
+2023-10-05,family,1028.0,,1401.61,Other
+2023-10-05,airtime,,-10.0,373.61,Airtime / Data
+2023-10-05,airtime,,-20.0,383.61,Airtime / Data
+2023-10-04,airtime,,-10.0,403.61,Airtime / Data
+2023-10-04,supermarket expenses,,-70.0,413.61,Merchant Purchase
+2023-10-03,transport,,-70.0,483.61,Peer Transfer
+2023-10-03,airtime,,-10.0,553.61,Airtime / Data
+2023-10-03,health,,-100.0,563.61,Merchant Purchase
+2023-10-03,family,150.0,,663.61,Other
+2023-10-03,supermarket expenses,,-163.0,513.61,Merchant Purchase
+2023-10-03,food,,-20.0,676.61,Small Business Payment
+2023-10-03,airtime,,-20.0,696.61,Other
+2023-10-03,airtime,,-10.0,716.61,Airtime / Data
+2023-10-03,airtime,,-5.0,726.61,Airtime / Data
+2023-10-03,transaction cost,,-7.0,731.61,Transaction Cost
+2023-10-03,food,,-260.0,738.61,Peer Transfer
+2023-10-03,airtime,,-20.0,998.61,Airtime / Data
+2023-10-03,airtime,,-5.0,1018.61,Airtime / Data
+2023-10-03,airtime,,-20.0,1023.61,Other
+2023-10-03,transport,,-70.0,1043.61,Peer Transfer
+2023-10-03,family,1029.0,,1113.61,Other
+2023-10-02,other expenses,,-70.0,84.61,Peer Transfer
+2023-10-02,other expenses,,-70.0,154.61,Peer Transfer
+2023-10-02,supermarket expenses,,-722.0,224.61,Merchant Purchase
+2023-10-02,other expenses,,-70.0,946.61,Small Business Payment
+2023-10-02,family,1000.0,,1016.61,Other
+2023-10-02,health,,-90.0,16.61,Merchant Purchase
+2023-10-02,savings withdrawal,30.0,,106.61,Other
+2023-10-01,other expenses,,-20.0,76.61,Peer Transfer
+2023-10-01,airtime,,-5.0,96.61,Airtime / Data
+2023-10-01,church,,-50.0,101.61,Paybill / Utility Payment
+2023-10-01,other expenses,,-20.0,151.61,Peer Transfer
+2023-10-01,family,100.0,,171.61,Other
+2023-10-01,transport,,-70.0,71.61,Peer Transfer
+2023-10-01,savings withdrawal,100.0,,141.61,Other
+2023-09-30,airtime,,-5.0,41.61,Airtime / Data
+2023-09-29,electricity,,-25.0,46.61,Paybill / Utility Payment
+2023-09-29,supermarket expenses,,-125.0,71.61,Merchant Purchase
+2023-09-29,other expenses,,-40.0,196.61,Peer Transfer
+2023-09-29,other expenses,,-20.0,236.61,Peer Transfer
+2023-09-29,airtime,,-20.0,256.61,Airtime / Data
+2023-09-29,family,250.0,,276.61,Other
+2023-09-29,airtime,,-10.0,26.61,Airtime / Data
+2023-09-29,food,,-100.0,36.61,Peer Transfer
+2023-09-29,transport,,-50.0,136.61,Small Business Payment
+2023-09-28,airtime,,-10.0,186.61,Airtime / Data
+2023-09-28,transaction cost,,-11.0,196.61,Other
+2023-09-28,transport,,-100.0,207.61,Agent Cash Withdrawal
+2023-09-28,airtime,,-10.0,307.61,Airtime / Data
+2023-09-28,airtime,,-10.0,317.61,Airtime / Data
+2023-09-28,food,,-50.0,327.61,Peer Transfer
+2023-09-28,airtime,,-20.0,377.61,Airtime / Data
+2023-09-28,transport,,-50.0,397.61,Peer Transfer
+2023-09-28,airtime,,-10.0,447.61,Airtime / Data
+2023-09-28,family,350.0,,457.61,Other
+2023-09-28,spotify,,-49.0,107.61,Paybill / Utility Payment
+2023-09-27,sent to family,,-50.0,156.61,Peer Transfer
+2023-09-27,airtime,,-10.0,206.61,Airtime / Data
+2023-09-27,airtime,,-5.0,216.61,Airtime / Data
+2023-09-27,other expenses,,-20.0,221.61,Peer Transfer
+2023-09-27,other expenses,,-50.0,241.61,Peer Transfer
+2023-09-27,airtime,,-10.0,291.61,Airtime / Data
+2023-09-27,other expenses,,-40.0,301.61,Peer Transfer
+2023-09-27,airtime,,-10.0,341.61,Airtime / Data
+2023-09-27,airtime,,-20.0,351.61,Other
+2023-09-27,other expenses,,-20.0,371.61,Paybill / Utility Payment
+2023-09-27,transport,,-50.0,391.61,Merchant Purchase
+2023-09-27,airtime,,-20.0,441.61,Other
+2023-09-27,transport,,-70.0,461.61,Peer Transfer
+2023-09-27,family,350.0,,531.61,Other
+2023-09-26,electricity,,-25.0,181.61,Paybill / Utility Payment
+2023-09-26,food,,-30.0,206.61,Small Business Payment
+2023-09-26,other expenses,,-80.0,236.61,Peer Transfer
+2023-09-26,airtime,,-20.0,316.61,Other
+2023-09-26,airtime,,-20.0,336.61,Other
+2023-09-26,airtime,,-10.0,356.61,Airtime / Data
+2023-09-26,other expenses,,-30.0,366.61,Small Business Payment
+2023-09-26,family,320.0,,396.61,Other
+2023-09-26,transport,,-30.0,76.61,Peer Transfer
+2023-09-26,savings withdrawal,100.0,,106.61,Other
+2023-09-26,airtime,,-10.0,6.61,Airtime / Data
+2023-09-26,transport,,-70.0,16.61,Peer Transfer
+2023-09-24,supermarket expenses,,-335.0,86.61,Merchant Purchase
+2023-09-24,family,140.0,,421.61,Other
+2023-09-24,savings deposit,,-300.0,281.61,Other
+2023-09-24,airtime,,-10.0,581.61,Airtime / Data
+2023-09-23,transport,,-70.0,591.61,Peer Transfer
+2023-09-23,family,100.0,,661.61,Other
+2023-09-23,airtime,,-10.0,561.61,Airtime / Data
+2023-09-23,supermarket expenses,,-130.0,571.61,Merchant Purchase
+2023-09-23,airtime,,-10.0,701.61,Airtime / Data
+2023-09-22,supermarket expenses,,-190.0,711.61,Merchant Purchase
+2023-09-22,other expenses,,-40.0,901.61,Peer Transfer
+2023-09-22,other expenses,,-30.0,941.61,Peer Transfer
+2023-09-22,other expenses,,-20.0,971.61,Peer Transfer
+2023-09-22,other expenses,,-30.0,991.61,Peer Transfer
+2023-09-22,airtime,,-20.0,1021.61,Paybill / Utility Payment
+2023-09-22,airtime,,-20.0,1041.61,Other
+2023-09-22,other expenses,,-50.0,1061.61,Paybill / Utility Payment
+2023-09-22,friends,,-50.0,1111.61,Peer Transfer
+2023-09-22,airtime,,-20.0,1161.61,Paybill / Utility Payment
+2023-09-22,transaction cost,,-7.0,1181.61,Transaction Cost
+2023-09-22,food,,-105.0,1188.61,Peer Transfer
+2023-09-22,airtime,,-20.0,1293.61,Other
+2023-09-22,transport,,-50.0,1313.61,Small Business Payment
+2023-09-22,transport,,-70.0,1363.61,Peer Transfer
+2023-09-21,airtime,,-20.0,1433.61,Other
+2023-09-21,airtime,,-20.0,1453.61,Other
+2023-09-21,airtime,,-130.0,1473.61,Airtime / Data
+2023-09-21,transaction cost,,-7.0,1603.61,Transaction Cost
+2023-09-21,transport,,-470.0,1610.61,Peer Transfer
+2023-09-21,family,2029.0,,2080.61,Other
+2023-09-21,food,,-30.0,51.61,Peer Transfer
+2023-09-21,savings withdrawal,70.0,,81.61,Other
+2023-09-20,savings deposit,,-170.0,11.61,Other
+2023-09-20,health,,-150.0,181.61,Merchant Purchase
+2023-09-20,airtime,,-20.0,331.61,Airtime / Data
+2023-09-20,family,350.0,,351.61,Other
+2023-09-19,family,,-25.0,1.61,Other
+2023-09-19,savings deposit,,-100.0,26.61,Other
+2023-09-19,transport,,-70.0,126.61,Peer Transfer
+2023-09-19,transport,,-50.0,196.61,Peer Transfer
+2023-09-19,family,200.0,,246.61,Other
+2023-09-19,food,,-50.0,46.61,Peer Transfer
+2023-09-19,airtime,,-20.0,96.61,Airtime / Data
+2023-09-19,other expenses,,-50.0,116.61,Small Business Payment
+2023-09-19,transport,,-70.0,166.61,Peer Transfer
+2023-09-19,family,210.0,,236.61,Other
+2023-09-18,transaction cost,,-23.0,26.61,Transaction Cost
+2023-09-18,sent to family,,-1029.0,49.61,Peer Transfer
+2023-09-18,savings withdrawal,1000.0,,1078.61,Other
+2023-09-18,other expenses,,-40.0,78.61,Peer Transfer
+2023-09-18,other expenses,,-30.0,118.61,Merchant Purchase
+2023-09-18,philanthropy,,-70.0,148.61,Small Business Payment
+2023-09-18,savings withdrawal,200.0,,218.61,Other
+2023-09-16,supermarket expenses,,-140.0,18.61,Merchant Purchase
+2023-09-16,family,60.0,,158.61,Other
+2023-09-15,electricity,,-25.0,98.61,Paybill / Utility Payment
+2023-09-15,airtime,,-20.0,123.61,Paybill / Utility Payment
+2023-09-15,airtime,,-5.0,143.61,Airtime / Data
+2023-09-15,airtime,,-20.0,148.61,Other
+2023-09-15,airtime,,-20.0,168.61,Other
+2023-09-15,transaction cost,,-7.0,188.61,Transaction Cost
+2023-09-15,friends,,-320.0,195.61,Peer Transfer
+2023-09-15,savings withdrawal,500.0,,515.61,Other
+2023-09-15,transaction cost,,-11.0,15.61,Other
+2023-09-15,other expenses,,-100.0,26.61,Agent Cash Withdrawal
+2023-09-15,other expenses,,-100.0,126.61,Peer Transfer
+2023-09-15,family,100.0,,226.61,Other
+2023-09-15,airtime,,-20.0,126.61,Other
+2023-09-15,transport,,-100.0,146.61,Peer Transfer
+2023-09-15,savings withdrawal,200.0,,246.61,Other
+2023-09-15,airtime,,-20.0,46.61,Paybill / Utility Payment
+2023-09-15,airtime,,-60.0,66.61,Airtime / Data
+2023-09-14,sent to friends,,-20.0,126.61,Peer Transfer
+2023-09-13,airtime,,-10.0,146.61,Airtime / Data
+2023-09-13,airtime,,-20.0,156.61,Paybill / Utility Payment
+2023-09-12,supermarket expenses,,-410.0,176.61,Merchant Purchase
+2023-09-12,airtime,,-20.0,586.61,Airtime / Data
+2023-09-12,savings deposit,,-1000.0,606.61,Other
+2023-09-12,supermarket expenses,,-60.0,1606.61,Merchant Purchase
+2023-09-12,transport,,-50.0,1666.61,Merchant Purchase
+2023-09-12,family,60.0,,1716.61,Other
+2023-09-12,supermarket expenses,,-360.0,1656.61,Merchant Purchase
+2023-09-12,airtime,,-10.0,2016.61,Airtime / Data
+2023-09-12,airtime,,-20.0,2026.61,Other
+2023-09-12,other expenses,,-105.0,2046.61,Merchant Purchase
+2023-09-12,transaction cost,,-7.0,2151.61,Transaction Cost
+2023-09-12,sent to friends,,-200.0,2158.61,Peer Transfer
+2023-09-12,airtime,,-20.0,2358.61,Other
+2023-09-12,transaction cost,,-29.0,2378.61,Other
+2023-09-12,personal expenditures,,-300.0,2407.61,Agent Cash Withdrawal
+2023-09-12,personal expenditures,,-400.0,2707.61,Merchant Purchase
+2023-09-12,airtime,,-10.0,3107.61,Airtime / Data
+2023-09-12,personal expenditures,,-45.0,3117.61,Merchant Purchase
+2023-09-12,transaction cost,,-7.0,3162.61,Transaction Cost
+2023-09-12,personal expenditures,,-300.0,3169.61,Peer Transfer
+2023-09-12,transaction cost,,-7.0,3469.61,Transaction Cost
+2023-09-12,personal expenditures,,-300.0,3476.61,Small Business Payment
+2023-09-12,transaction cost,,-11.0,3776.61,Other
+2023-09-12,personal expenditures,,-100.0,3787.61,Agent Cash Withdrawal
+2023-09-12,transaction cost,,-11.0,3887.61,Other
+2023-09-12,personal expenditures,,-50.0,3898.61,Agent Cash Withdrawal
+2023-09-12,transaction cost,,-13.0,3948.61,Transaction Cost
+2023-09-12,personal expenditures,,-827.0,3961.61,Peer Transfer
+2023-09-12,transaction cost,,-7.0,4788.61,Transaction Cost
+2023-09-12,transport,,-320.0,4795.61,Peer Transfer
+2023-09-12,personal expenditures,,-100.0,5115.61,Peer Transfer
+2023-09-12,transaction cost,,-29.0,5215.61,Other
+2023-09-12,personal expenditures,,-400.0,5244.61,Agent Cash Withdrawal
+2023-09-12,transaction cost,,-29.0,5644.61,Other
+2023-09-12,personal expenditures,,-400.0,5673.61,Agent Cash Withdrawal
+2023-09-12,transaction cost,,-11.0,6073.61,Other
+2023-09-12,personal expenditures,,-100.0,6084.61,Agent Cash Withdrawal
+2023-09-12,transaction cost,,-7.0,6184.61,Transaction Cost
+2023-09-12,personal expenditures,,-300.0,6191.61,Small Business Payment
+2023-09-12,personal expenditures,,-100.0,6491.61,Peer Transfer
+2023-09-12,family,100.0,,6591.61,Other
+2023-09-12,family,100.0,,6491.61,Other
+2023-09-12,transport,,-50.0,6391.61,Peer Transfer
+2023-09-12,airtime,,-20.0,6441.61,Paybill / Utility Payment
+2023-09-12,transport,,-50.0,6461.61,Peer Transfer
+2023-09-11,airtime,,-20.0,6511.61,Paybill / Utility Payment
+2023-09-11,food,,-100.0,6531.61,Peer Transfer
+2023-09-11,food,,-390.0,6631.61,Merchant Purchase
+2023-09-11,food,,-45.0,7021.61,Merchant Purchase
+2023-09-11,transport,,-50.0,7066.61,Peer Transfer
+2023-09-11,airtime,,-20.0,7116.61,Other
+2023-09-11,airtime,,-20.0,7136.61,Other
+2023-09-11,other expenses,,-55.0,7156.61,Peer Transfer
+2023-09-11,airtime,,-20.0,7211.61,Other
+2023-09-11,airtime,,-20.0,7231.61,Airtime / Data
+2023-09-11,food,,-50.0,7251.61,Small Business Payment
+2023-09-11,airtime,,-20.0,7301.61,Other
+2023-09-10,airtime,,-5.0,7321.61,Airtime / Data
+2023-09-10,supermarket expenses,,-375.0,7326.61,Merchant Purchase
+2023-09-10,family,528.0,,7701.61,Other
+2023-09-10,airtime,,-20.0,7173.61,Paybill / Utility Payment
+2023-09-10,airtime,,-20.0,7193.61,Airtime / Data
+2023-09-10,philanthropy,,-200.0,7213.61,Merchant Purchase
+2023-09-10,philanthropy,,-50.0,7413.61,Merchant Purchase
+2023-09-09,airtime,,-10.0,7463.61,Airtime / Data
+2023-09-09,family,7087.0,,7473.61,Other
+2023-09-09,family,50.0,,386.61,Unclassified
+2023-09-09,transport,,-50.0,336.61,Peer Transfer
+2023-09-09,family,380.0,,386.61,Unclassified
+2023-09-09,other expenses,,-270.0,6.61,Merchant Purchase
+2023-09-09,airtime,,-20.0,276.61,Other
+2023-09-09,transport,,-50.0,296.61,Peer Transfer
+2023-09-09,family,110.0,,346.61,Other
+2023-09-09,savings withdrawal,200.0,,236.61,Other
+2023-09-09,airtime,,-20.0,36.61,Paybill / Utility Payment
+2023-09-09,savings withdrawal,50.0,,56.61,Other
+2023-09-09,airtime,,-5.0,6.61,Airtime / Data
+2023-09-08,supermarket expenses,,-20.0,11.61,Merchant Purchase
+2023-09-08,other expenses,,-50.0,31.61,Paybill / Utility Payment
+2023-09-08,savings withdrawal,60.0,,81.61,Other
+2023-09-08,airtime,,-10.0,21.61,Airtime / Data
+2023-09-08,airtime,,-10.0,31.61,Airtime / Data
+2023-09-08,savings withdrawal,40.0,,41.61,Other
+2023-09-07,airtime,,-5.0,1.61,Airtime / Data
+2023-09-06,airtime,,-10.0,6.61,Paybill / Utility Payment
+2023-09-06,supermarket expenses,,-544.0,16.61,Merchant Purchase
+2023-09-06,family,550.0,,560.61,Other
+2023-09-06,airtime,,-20.0,10.61,Other
+2023-09-06,savings withdrawal,21.0,,30.61,Other
+2023-09-06,airtime,,-10.0,9.61,Paybill / Utility Payment
+2023-09-06,airtime,,-20.0,19.61,Paybill / Utility Payment
+2023-09-06,airtime,,-10.0,39.61,Paybill / Utility Payment
+2023-09-06,pay bill,,-5.0,49.61,Paybill / Utility Payment
+2023-09-06,sent to family,,-155.0,54.61,Paybill / Utility Payment
+2023-09-06,family,150.0,,209.61,Other
+2023-09-05,electricity,,-50.0,59.61,Paybill / Utility Payment
+2023-09-05,pay bill,,-5.0,109.61,Paybill / Utility Payment
+2023-09-05,sent to family,,-155.0,114.61,Paybill / Utility Payment
+2023-09-04,friends,5.0,,269.61,Other
+2023-09-04,airtime,,-10.0,264.61,Paybill / Utility Payment
+2023-09-04,airtime,,-5.0,274.61,Airtime / Data
+2023-09-04,food,,-50.0,279.61,Peer Transfer
+2023-09-04,family,100.0,,329.61,Other
+2023-09-04,sent to friends,,-50.0,229.61,Peer Transfer
+2023-09-04,airtime,,-20.0,279.61,Other
+2023-09-04,transaction cost,,-7.0,299.61,Transaction Cost
+2023-09-04,food,,-200.0,306.61,Peer Transfer
+2023-09-04,savings withdrawal,500.0,,506.61,Other
+2023-09-04,airtime,,-20.0,6.61,Other
+2023-09-04,airtime,,-10.0,26.61,Airtime / Data
+2023-09-04,airtime,,-20.0,36.61,Other
+2023-09-04,airtime,,-20.0,56.61,Other
+2023-09-04,pay bill,,-5.0,76.61,Paybill / Utility Payment
+2023-09-04,family,,-155.0,81.61,Paybill / Utility Payment
+2023-09-04,savings withdrawal,200.0,,236.61,Other
+2023-09-04,food,,-30.0,36.61,Small Business Payment
+2023-09-04,other expenses,,-20.0,66.61,Peer Transfer
+2023-09-04,airtime,,-20.0,86.61,Other
+2023-09-04,airtime,,-10.0,106.61,Airtime / Data
+2023-09-03,food,,-15.0,116.61,Merchant Purchase
+2023-09-03,food,,-45.0,131.61,Merchant Purchase
+2023-09-03,other expenses,,-250.0,176.61,Merchant Purchase
+2023-09-03,transport,,-50.0,426.61,Peer Transfer
+2023-09-03,family,20.0,,476.61,Other
+2023-09-03,airtime,,-5.0,456.61,Airtime / Data
+2023-09-03,airtime,,-10.0,461.61,Paybill / Utility Payment
+2023-09-02,savings deposit,,-2000.0,471.61,Other
+2023-09-02,transport,,-50.0,2471.61,Peer Transfer
+2023-09-02,family,100.0,,2521.61,Other
+2023-09-02,supermarket expenses,,-148.0,2421.61,Merchant Purchase
+2023-09-02,airtime,,-20.0,2569.61,Other
+2023-09-02,airtime,,-20.0,2589.61,Paybill / Utility Payment
+2023-09-02,airtime,,-20.0,2609.61,Other
+2023-09-01,airtime,,-10.0,2629.61,Airtime / Data
+2023-08-30,airtime,,-5.0,2639.61,Airtime / Data
+2023-08-30,airtime,,-10.0,2644.61,Paybill / Utility Payment
+2023-08-30,airtime,,-10.0,2654.61,Paybill / Utility Payment
+2023-08-30,supermarket expenses,,-145.0,2664.61,Merchant Purchase
+2023-08-30,airtime,,-10.0,2809.61,Paybill / Utility Payment
+2023-08-30,airtime,,-10.0,2819.61,Paybill / Utility Payment
+2023-08-29,airtime,,-10.0,2829.61,Paybill / Utility Payment
+2023-08-29,other expenses,,-690.0,2839.61,Paybill / Utility Payment
+2023-08-29,transaction cost,,-7.0,3529.61,Transaction Cost
+2023-08-29,sent to friends,,-150.0,3536.61,Peer Transfer
+2023-08-29,transaction cost,,-3.0,3686.61,Paybill / Utility Payment
+2023-08-29,airtime,,-100.0,3689.61,Paybill / Utility Payment
+2023-08-28,supermarket expenses,,-110.0,3789.61,Merchant Purchase
+2023-08-28,airtime,,-10.0,3899.61,Airtime / Data
+2023-08-27,transaction cost,,-7.0,3909.61,Transaction Cost
+2023-08-27,personal expenditures,,-150.0,3916.61,Peer Transfer
+2023-08-26,transaction cost,,-7.0,4066.61,Transaction Cost
+2023-08-26,personal expenditures,,-190.0,4073.61,Peer Transfer
+2023-08-26,airtime,,-20.0,4263.61,Other
+2023-08-26,airtime,,-20.0,4283.61,Other
+2023-08-26,transaction cost,,-7.0,4303.61,Transaction Cost
+2023-08-26,personal expenditures,,-170.0,4310.61,Peer Transfer
+2023-08-26,airtime,,-20.0,4480.61,Other
+2023-08-26,transaction cost,,-90.0,4500.61,Transaction Cost
+2023-08-26,family,,-10000.0,4590.61,Peer Transfer
+2023-08-26,family,,-1000.0,14590.61,Merchant Purchase
+2023-08-26,family,15167.0,,15590.61,Other
+2023-08-26,airtime,,-30.0,423.61,Airtime / Data
+2023-08-26,airtime,,-10.0,453.61,Airtime / Data
+2023-08-26,transport,450.0,,463.61,Other
+2023-08-26,airtime,,-10.0,13.61,Unclassified
+2023-08-26,savings withdrawal,20.0,,23.61,Unclassified
+2023-08-26,airtime,,-10.0,3.61,Airtime / Data
+2023-08-26,airtime,,-10.0,13.61,Unclassified
+2023-08-26,savings withdrawal,20.0,,23.61,Unclassified
+2023-08-25,airtime,,-10.0,3.61,Paybill / Utility Payment
+2023-08-25,airtime,,-10.0,13.61,Paybill / Utility Payment
+2023-08-25,airtime,,-10.0,23.61,Paybill / Utility Payment
+2023-08-25,airtime,,-10.0,33.61,Paybill / Utility Payment
+2023-08-25,airtime,,-5.0,43.61,Airtime / Data
+2023-08-22,electricity,,-25.0,48.61,Paybill / Utility Payment
+2023-08-20,airtime,,-5.0,73.61,Airtime / Data
+2023-08-20,airtime,,-20.0,78.61,Paybill / Utility Payment
+2023-08-20,airtime,,-5.0,98.61,Airtime / Data
+2023-08-20,other expenses,,-10.0,103.61,Merchant Purchase
+2023-08-20,airtime,,-20.0,113.61,Paybill / Utility Payment
+2023-08-20,airtime,,-20.0,133.61,Other
+2023-08-19,airtime,,-5.0,153.61,Airtime / Data
+2023-08-19,transaction cost,,-2.0,158.61,Paybill / Utility Payment
+2023-08-19,airtime,,-30.0,160.61,Paybill / Utility Payment
+2023-08-19,transaction cost,,-3.0,190.61,Paybill / Utility Payment
+2023-08-19,airtime,,-50.0,193.61,Paybill / Utility Payment
+2023-08-19,family,30.0,,243.61,Other
+2023-08-19,airtime,,-20.0,213.61,Other
+2023-08-19,airtime,,-20.0,233.61,Other
+2023-08-18,transport,,-50.0,253.61,Peer Transfer
+2023-08-18,transport,,-50.0,303.61,Peer Transfer
+2023-08-18,family,100.0,,353.61,Other
+2023-08-18,supermarket expenses,,-130.0,253.61,Merchant Purchase
+2023-08-17,friends,300.0,,383.61,Other
+2023-08-17,airtime,,-5.0,83.61,Airtime / Data
+2023-08-16,airtime,,-20.0,88.61,Other
+2023-08-14,electricity,,-25.0,108.61,Paybill / Utility Payment
+2023-08-13,airtime,,-10.0,133.61,Paybill / Utility Payment
+2023-08-11,airtime,,-10.0,143.61,Paybill / Utility Payment
+2023-08-11,supermarket expenses,,-90.0,153.61,Merchant Purchase
+2023-08-11,airtime,,-5.0,243.61,Airtime / Data
+2023-08-11,sent to family,,-100.0,248.61,Peer Transfer
+2023-08-10,supermarket expenses,,-199.0,348.61,Merchant Purchase
+2023-08-10,family,500.0,,547.61,Other
+2023-08-10,transport,,-70.0,47.61,Peer Transfer
+2023-08-10,savings withdrawal,100.0,,117.61,Other
+2023-08-10,transport,,-50.0,17.61,Peer Transfer
+2023-08-10,supermarket expenses,,-60.0,67.61,Merchant Purchase
+2023-08-10,family,100.0,,127.61,Other
+2023-08-10,airtime,,-5.0,27.61,Airtime / Data
+2023-08-10,airtime,,-5.0,32.61,Airtime / Data
+2023-08-10,savings withdrawal,10.0,,37.61,Other
+2023-08-10,supermarket expenses,,-40.0,27.61,Merchant Purchase
+2023-08-10,airtime,,-5.0,67.61,Airtime / Data
+2023-08-09,supermarket expenses,,-90.0,72.61,Merchant Purchase
+2023-08-09,family,60.0,,162.61,Other
+2023-08-09,family,100.0,,102.61,Other
+2023-08-09,airtime,,-20.0,2.61,Other
+2023-08-08,airtime,,-20.0,22.61,Paybill / Utility Payment
+2023-08-08,airtime,,-20.0,42.61,Other
+2023-08-08,savings withdrawal,50.0,,62.61,Other
+2023-08-07,airtime,,-20.0,12.61,Other
+2023-08-07,airtime,,-10.0,32.61,Other
+2023-08-07,supermarket expenses,,-65.0,42.61,Merchant Purchase
+2023-08-07,family,100.0,,107.61,Other
+2023-08-07,airtime,,-20.0,7.61,Other
+2023-08-07,airtime,,-10.0,27.61,Paybill / Utility Payment
+2023-08-07,other expenses,,-20.0,37.61,Peer Transfer
+2023-08-07,airtime,,-20.0,57.61,Other
+2023-08-06,airtime,,-5.0,77.61,Airtime / Data
+2023-08-06,airtime,,-20.0,82.61,Other
+2023-08-06,airtime,,-20.0,102.61,Other
+2023-08-06,airtime,,-5.0,122.61,Airtime / Data
+2023-08-06,airtime,,-5.0,127.61,Airtime / Data
+2023-08-06,airtime,,-10.0,132.61,Paybill / Utility Payment
+2023-08-06,family,100.0,,142.61,Other
+2023-08-06,airtime,,-20.0,42.61,Other
+2023-08-06,savings withdrawal,50.0,,62.61,Other
+2023-08-05,airtime,,-20.0,12.61,Other
+2023-08-05,airtime,,-5.0,32.61,Airtime / Data
+2023-08-05,airtime,,-20.0,37.61,Paybill / Utility Payment
+2023-08-04,airtime,,-10.0,57.61,Paybill / Utility Payment
+2023-08-03,airtime,,-10.0,67.61,Paybill / Utility Payment
+2023-08-03,airtime,,-10.0,77.61,Paybill / Utility Payment
+2023-08-03,transport,,-50.0,87.61,Peer Transfer
+2023-08-03,airtime,,-20.0,137.61,Merchant Purchase
+2023-08-03,airtime,,-10.0,157.61,Paybill / Utility Payment
+2023-08-02,friends,,-100.0,167.61,Peer Transfer
+2023-08-02,airtime,,-10.0,267.61,Paybill / Utility Payment
+2023-08-02,supermarket expenses,,-50.0,277.61,Merchant Purchase
+2023-08-01,airtime,,-10.0,327.61,Paybill / Utility Payment
+2023-08-01,airtime,,-10.0,337.61,Paybill / Utility Payment
+2023-08-01,transaction cost,,-7.0,347.61,Transaction Cost
+2023-08-01,sent to friends,,-300.0,354.61,Peer Transfer
+2023-08-01,supermarket expenses,,-635.0,654.61,Merchant Purchase
+2023-08-01,family,1000.0,,1289.61,Other
+2023-08-01,food,,-200.0,289.61,Merchant Purchase
+2023-08-01,supermarket expenses,,-60.0,489.61,Merchant Purchase
+2023-07-31,food,70.0,,549.61,Other
+2023-07-31,other expenses,,-35.0,479.61,Paybill / Utility Payment
+2023-07-31,food,,-70.0,514.61,Peer Transfer
+2023-07-31,health,,-100.0,584.61,Merchant Purchase
+2023-07-31,airtime,,-10.0,684.61,Other
+2023-07-31,family,110.0,,694.61,Unclassified
+2023-07-31,transport,,-50.0,584.61,Unclassified
+2023-07-31,family,100.0,,634.61,Unclassified
+2023-07-30,electricity,,-50.0,534.61,Unclassified
+2023-07-30,supermarket expenses,,-235.0,584.61,Unclassified
+2023-07-30,friends,300.0,,819.61,Unclassified
+2023-07-30,electricity,,-25.0,519.61,Unclassified
+2023-07-29,airtime,,-10.0,544.61,Unclassified
+2023-07-29,airtime,,-5.0,554.61,Unclassified
+2023-07-29,transport,,-50.0,559.61,Unclassified
+2023-07-27,supermarket expenses,,-255.0,609.61,Unclassified
+2023-07-27,transport,,-50.0,864.61,Unclassified
+2023-07-27,transport,,-70.0,914.61,Unclassified
+2023-07-27,transaction cost,,-28.0,984.61,Unclassified
+2023-07-27,supermarket expenses,,-2200.0,1012.61,Unclassified
+2023-07-27,family,3050.0,,3212.61,Unclassified
+2023-07-27,health,,-39.0,162.61,Unclassified
+2023-07-26,airtime,,-10.0,201.61,Unclassified
+2023-07-26,philanthropy,,-20.0,211.61,Unclassified
+2023-07-25,transport,,-50.0,231.61,Unclassified
+2023-07-25,transport,,-50.0,281.61,Unclassified
+2023-07-25,family,100.0,,331.61,Unclassified
+2023-07-25,supermarket expenses,,-5.0,231.61,Unclassified
+2023-07-24,transport,,-50.0,236.61,Unclassified
+2023-07-24,family,100.0,,286.61,Unclassified
+2023-07-24,airtime,,-10.0,186.61,Unclassified
+2023-07-23,supermarket expenses,,-90.0,196.61,Unclassified
+2023-07-23,airtime,,-20.0,286.61,Unclassified
+2023-07-23,airtime,,-10.0,306.61,Unclassified
+2023-07-20,savings deposit,,-250.0,316.61,Unclassified
+2023-07-20,airtime,,-5.0,566.61,Unclassified
+2023-07-20,supermarket expenses,,-35.0,571.61,Unclassified
+2023-07-19,airtime,,-10.0,606.61,Unclassified
+2023-07-19,airtime,,-10.0,616.61,Unclassified
+2023-07-19,airtime,,-10.0,626.61,Unclassified
+2023-07-17,supermarket expenses,,-145.0,636.61,Unclassified
+2023-07-17,supermarket expenses,,-5.0,781.61,Unclassified
+2023-07-17,supermarket expenses,,-50.0,786.61,Unclassified
+2023-07-16,airtime,,-10.0,836.61,Unclassified
+2023-07-16,friends,,-1.0,846.61,Unclassified
+2023-07-15,airtime,,-5.0,847.61,Unclassified
+2023-07-15,supermarket expenses,,-366.0,852.61,Unclassified
+2023-07-15,airtime,,-10.0,1218.61,Unclassified
+2023-07-15,transport,,-50.0,1228.61,Unclassified
+2023-07-15,family,100.0,,1278.61,Unclassified
+2023-07-14,philanthropy,,-30.0,1178.61,Unclassified
+2023-07-13,airtime,,-20.0,1208.61,Unclassified
+2023-07-13,food,,-50.0,1228.61,Unclassified
+2023-07-13,transport,,-70.0,1278.61,Unclassified
+2023-07-13,transport,,-50.0,1348.61,Unclassified
+2023-07-13,airtime,,-20.0,1398.61,Unclassified
+2023-07-13,supermarket expenses,,-324.0,1418.61,Unclassified
+2023-07-13,transaction cost,,-6.0,1742.61,Unclassified
+2023-07-13,other expenses,,-150.0,1748.61,Unclassified
+2023-07-13,airtime,,-20.0,1898.61,Unclassified
+2023-07-13,other expenses,,-100.0,1918.61,Unclassified
+2023-07-13,family,2000.0,,2018.61,Unclassified
+2023-07-13,transaction cost,,-27.0,18.61,Unclassified
+2023-07-13,personal expenditures,,-200.0,45.61,Unclassified
+2023-07-13,savings withdrawal,150.0,,245.61,Unclassified
+2023-07-13,airtime,,-20.0,95.61,Unclassified
+2023-07-13,transaction cost,,-6.0,115.61,Unclassified
+2023-07-13,personal expenditures,,-310.0,121.61,Unclassified
+2023-07-13,airtime,,-20.0,431.61,Unclassified
+2023-07-13,airtime,,-20.0,451.61,Unclassified
+2023-07-12,supermarket expenses,,-40.0,471.61,Unclassified
+2023-07-12,supermarket expenses,,-1093.0,511.61,Unclassified
+2023-07-12,family,970.0,,1604.61,Unclassified
+2023-07-12,family,100.0,,634.61,Unclassified
+2023-07-12,family,500.0,,534.61,Unclassified
+2023-07-12,savings deposit,,-150.0,34.61,Unclassified
