@@ -116,6 +116,20 @@ Future analysis could explore:
 - **Year-over-Year Comparison**: Analyzing trends over multiple years to assess financial growth or areas of concern.
 - **Predictive Analysis**: Using historical data to forecast future spending and balance trends.
 
+A first pass at all three is implemented in [`future_work_analysis.ipynb`](future_work_analysis.ipynb):
+
+- **Deeper categorization**: recovers the original M-Pesa transaction descriptions and derives a
+  `transaction_type` (Paybill, Merchant Purchase, Peer Transfer, Small Business Payment, Agent
+  Withdrawal, etc.), breaking the vague `other expenses` / `Personal Expenditures` buckets down
+  into what they actually were. The re-categorized dataset is exported to
+  `cleaned_categorized_transactions.csv` for use as an updated Power BI data source.
+- **Predictive analysis**: a linear-trend forecast projects the next 3 months of expenses and balance
+  from the 12 months of history.
+- **Year-over-year comparison**: the data currently spans one rolling 12-month window (Jul 2023 – Jul
+  2024), so only July has data in both calendar years — there isn't yet a full month-by-month
+  comparison to draw. A `year_over_year()` helper is included and will produce a full comparison
+  automatically once a second full year of statements is added to the source data.
+
 ## Usage Instructions
 
 1. **Clone the repository**:
